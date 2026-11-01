@@ -1,0 +1,4265 @@
+CustomerID,Recency,Frequency,Monetary,Cluster,Segment
+12347,1,182,4310.0,3,At Risk Customers
+12348,74,31,1797.24,1,Regular Customers
+12349,18,73,1757.55,1,Regular Customers
+12350,309,17,334.4,0,Low Engagement
+12352,35,85,2506.04,1,Regular Customers
+12353,203,4,89.0,0,Low Engagement
+12354,231,58,1079.4,0,Low Engagement
+12355,213,13,459.4,0,Low Engagement
+12356,22,59,2811.43,1,Regular Customers
+12357,32,131,6207.67,3,At Risk Customers
+12358,1,19,1168.06,1,Regular Customers
+12359,57,248,6372.58,3,At Risk Customers
+12360,51,129,2662.06,3,At Risk Customers
+12361,286,10,189.9,0,Low Engagement
+12362,2,266,5226.23,3,At Risk Customers
+12363,109,23,552.0,1,Regular Customers
+12364,7,85,1313.1,1,Regular Customers
+12365,290,22,641.38,0,Low Engagement
+12367,3,11,168.9,1,Regular Customers
+12370,50,167,3545.69,3,At Risk Customers
+12371,44,63,1887.96,1,Regular Customers
+12372,71,52,1298.04,1,Regular Customers
+12373,310,14,364.6,0,Low Engagement
+12374,24,33,742.9300000000001,1,Regular Customers
+12375,10,17,457.5,1,Regular Customers
+12377,314,77,1628.12,0,Low Engagement
+12378,129,219,4008.62,3,At Risk Customers
+12379,81,40,852.24,1,Regular Customers
+12380,21,104,2724.81,1,Regular Customers
+12381,4,87,1845.31,1,Regular Customers
+12383,184,99,1850.56,0,Low Engagement
+12384,28,27,585.27,1,Regular Customers
+12386,337,10,401.9,0,Low Engagement
+12388,15,100,2780.66,1,Regular Customers
+12390,79,32,549.84,1,Regular Customers
+12391,21,100,460.89,1,Regular Customers
+12393,71,64,1582.6000000000001,1,Regular Customers
+12394,63,27,1272.48,1,Regular Customers
+12395,18,156,3018.63,3,At Risk Customers
+12397,35,126,2409.9,1,Regular Customers
+12398,45,85,1635.6599999999999,1,Regular Customers
+12399,118,59,1108.65,1,Regular Customers
+12401,302,5,84.3,0,Low Engagement
+12402,322,11,225.6,0,Low Engagement
+12403,49,5,427.7,1,Regular Customers
+12405,148,54,1710.39,1,Regular Customers
+12406,21,105,3415.3,3,At Risk Customers
+12407,49,77,1708.1200000000001,1,Regular Customers
+12408,32,105,2888.55,1,Regular Customers
+12409,78,109,11072.67,2,High Value Customers
+12410,308,26,693.3299999999999,0,Low Engagement
+12412,74,61,1226.88,1,Regular Customers
+12413,66,38,758.1,1,Regular Customers
+12414,216,18,562.41,0,Low Engagement
+12417,2,192,3649.1,3,At Risk Customers
+12418,112,34,668.58,1,Regular Customers
+12420,63,29,600.39,1,Regular Customers
+12421,15,45,807.04,1,Regular Customers
+12422,95,39,803.5600000000001,1,Regular Customers
+12423,0,125,1859.31,1,Regular Customers
+12424,162,30,1760.96,0,Low Engagement
+12425,77,36,777.2,1,Regular Customers
+12426,194,30,582.73,0,Low Engagement
+12427,21,31,825.8,1,Regular Customers
+12428,25,294,7956.46,2,High Value Customers
+12429,8,97,3750.4,3,At Risk Customers
+12430,42,11,256.4,1,Regular Customers
+12431,35,235,6487.45,3,At Risk Customers
+12432,42,108,5059.32,3,At Risk Customers
+12433,0,420,13375.87,2,High Value Customers
+12434,84,50,806.14,1,Regular Customers
+12435,79,36,7829.89,3,At Risk Customers
+12436,99,16,509.01,1,Regular Customers
+12437,1,199,4951.41,3,At Risk Customers
+12438,13,98,2906.85,1,Regular Customers
+12441,366,11,173.55,0,Low Engagement
+12442,2,12,172.06,1,Regular Customers
+12444,20,176,5005.46,3,At Risk Customers
+12445,21,4,133.4,1,Regular Customers
+12446,57,57,1002.3100000000001,1,Regular Customers
+12447,242,26,476.49,0,Low Engagement
+12448,43,22,449.45,1,Regular Customers
+12449,21,191,4067.29,3,At Risk Customers
+12450,155,8,197.88,0,Low Engagement
+12451,10,354,9035.52,2,High Value Customers
+12452,16,22,430.57,1,Regular Customers
+12453,133,43,707.09,1,Regular Customers
+12454,55,15,3528.34,1,Regular Customers
+12455,72,90,2466.86,1,Regular Customers
+12456,43,125,3181.04,3,At Risk Customers
+12457,65,62,2363.23,1,Regular Customers
+12458,70,38,947.4,1,Regular Customers
+12461,93,35,826.88,1,Regular Customers
+12462,18,62,1189.59,1,Regular Customers
+12463,52,83,1344.78,1,Regular Customers
+12464,9,29,1212.05,1,Regular Customers
+12465,16,47,742.1899999999999,1,Regular Customers
+12468,187,38,729.5400000000001,0,Low Engagement
+12471,1,460,19824.05,2,High Value Customers
+12472,31,339,6572.11,3,At Risk Customers
+12473,28,168,3938.5499999999997,3,At Risk Customers
+12474,16,424,7375.79,2,High Value Customers
+12475,53,36,723.38,1,Regular Customers
+12476,15,233,6816.42,3,At Risk Customers
+12477,22,300,13219.74,2,High Value Customers
+12478,3,36,680.99,1,Regular Customers
+12479,10,31,527.2,1,Regular Customers
+12480,27,154,3281.63,3,At Risk Customers
+12481,22,217,5596.32,3,At Risk Customers
+12483,16,75,2484.98,1,Regular Customers
+12484,32,346,4541.72,3,At Risk Customers
+12488,9,55,1298.66,1,Regular Customers
+12489,335,15,334.93,0,Low Engagement
+12490,4,245,5417.93,3,At Risk Customers
+12491,38,26,460.40000000000003,1,Regular Customers
+12492,62,20,263.21000000000004,1,Regular Customers
+12493,165,22,433.74,0,Low Engagement
+12494,15,77,1246.1000000000001,1,Regular Customers
+12497,81,14,1043.1,1,Regular Customers
+12498,20,23,403.70000000000005,1,Regular Customers
+12500,22,61,4257.82,1,Regular Customers
+12501,336,149,2169.39,0,Low Engagement
+12502,95,147,3723.87,3,At Risk Customers
+12504,17,9,482.04999999999995,1,Regular Customers
+12506,232,23,73.5,0,Low Engagement
+12507,133,21,1304.81,1,Regular Customers
+12508,25,69,398.27,1,Regular Customers
+12509,283,7,176.5,0,Low Engagement
+12510,142,33,982.5699999999999,1,Regular Customers
+12512,65,34,138.03,1,Regular Customers
+12513,112,35,612.29,1,Regular Customers
+12514,266,51,1017.68,0,Low Engagement
+12515,352,16,383.7,0,Low Engagement
+12516,77,26,1312.06,1,Regular Customers
+12517,27,284,2502.84,3,At Risk Customers
+12518,0,124,2056.89,1,Regular Customers
+12519,63,18,340.84,1,Regular Customers
+12520,78,152,2634.26,3,At Risk Customers
+12521,142,38,599.68,1,Regular Customers
+12522,38,12,192.72,1,Regular Customers
+12523,18,106,1789.77,1,Regular Customers
+12524,8,144,4485.72,3,At Risk Customers
+12526,0,71,1316.66,1,Regular Customers
+12527,81,18,348.71000000000004,1,Regular Customers
+12528,8,92,1933.48,1,Regular Customers
+12530,59,66,1662.28,1,Regular Customers
+12531,14,17,125.22,1,Regular Customers
+12532,29,16,349.83000000000004,1,Regular Customers
+12534,130,63,1089.18,1,Regular Customers
+12535,91,34,716.35,1,Regular Customers
+12536,42,261,12601.830000000002,2,High Value Customers
+12538,28,21,363.95,1,Regular Customers
+12539,21,273,5568.35,3,At Risk Customers
+12540,19,478,13400.24,2,High Value Customers
+12541,29,52,981.18,1,Regular Customers
+12544,35,19,372.7,1,Regular Customers
+12545,74,50,1000.39,1,Regular Customers
+12546,46,69,1161.5,1,Regular Customers
+12547,197,8,207.79999999999998,0,Low Engagement
+12548,165,5,95.19999999999999,0,Low Engagement
+12550,78,57,964.83,1,Regular Customers
+12551,357,10,168.0,0,Low Engagement
+12552,38,20,437.82,1,Regular Customers
+12553,7,191,3692.28,3,At Risk Customers
+12556,49,121,603.71,1,Regular Customers
+12557,15,33,11990.960000000001,2,High Value Customers
+12558,7,11,269.96,1,Regular Customers
+12559,310,21,561.71,0,Low Engagement
+12560,4,105,2134.01,1,Regular Customers
+12561,302,16,238.85,0,Low Engagement
+12562,7,168,3781.7400000000002,3,At Risk Customers
+12564,260,21,456.9,0,Low Engagement
+12565,288,9,145.92,0,Low Engagement
+12566,85,19,351.65,1,Regular Customers
+12567,22,446,9401.28,2,High Value Customers
+12569,1,188,4124.69,3,At Risk Customers
+12571,39,34,519.61,1,Regular Customers
+12572,8,60,1020.42,1,Regular Customers
+12573,226,28,160.54000000000002,0,Low Engagement
+12574,315,11,218.45,0,Low Engagement
+12576,35,88,1315.83,1,Regular Customers
+12577,34,147,657.8,1,Regular Customers
+12578,20,114,2794.51,1,Regular Customers
+12579,77,29,440.42,1,Regular Customers
+12580,246,24,415.7,0,Low Engagement
+12581,39,15,197.71,1,Regular Customers
+12582,238,22,511.36,0,Low Engagement
+12583,2,247,7281.38,3,At Risk Customers
+12584,3,96,2338.15,1,Regular Customers
+12585,233,87,2040.1,0,Low Engagement
+12586,16,11,196.94000000000003,1,Regular Customers
+12587,7,4,144.0,1,Regular Customers
+12588,38,10,214.89999999999998,1,Regular Customers
+12589,28,35,646.68,1,Regular Customers
+12590,210,68,9864.26,2,High Value Customers
+12591,316,26,452.84999999999997,0,Low Engagement
+12592,91,18,437.6,1,Regular Customers
+12593,108,21,418.09999999999997,1,Regular Customers
+12594,37,118,3338.2200000000003,3,At Risk Customers
+12596,50,27,618.27,1,Regular Customers
+12597,18,206,3811.22,3,At Risk Customers
+12598,9,132,3023.08,3,At Risk Customers
+12599,28,62,1032.58,1,Regular Customers
+12600,28,64,2599.04,1,Regular Customers
+12601,189,28,577.0600000000001,0,Low Engagement
+12602,58,12,153.12,1,Regular Customers
+12603,21,2,739.1999999999999,1,Regular Customers
+12604,78,16,254.18,1,Regular Customers
+12607,59,101,1579.51,1,Regular Customers
+12609,77,60,1126.85,1,Regular Customers
+12610,22,106,2099.54,1,Regular Customers
+12611,51,65,1193.32,1,Regular Customers
+12612,73,19,704.0400000000001,1,Regular Customers
+12613,56,153,3344.38,3,At Risk Customers
+12614,277,20,315.6,0,Low Engagement
+12615,1,105,2291.19,1,Regular Customers
+12616,94,32,713.3,1,Regular Customers
+12617,28,42,355.53,1,Regular Customers
+12618,21,11,177.31,1,Regular Customers
+12619,15,90,3641.24,1,Regular Customers
+12620,14,92,1339.41,1,Regular Customers
+12621,1,467,13689.67,2,High Value Customers
+12622,231,11,180.1,0,Low Engagement
+12623,275,18,305.1,0,Low Engagement
+12624,105,38,641.13,1,Regular Customers
+12625,211,86,2683.82,0,Low Engagement
+12626,22,294,6620.48,3,At Risk Customers
+12627,10,230,4478.53,3,At Risk Customers
+12628,3,41,786.46,1,Regular Customers
+12630,9,64,1270.88,1,Regular Customers
+12631,56,31,640.5,1,Regular Customers
+12633,58,101,2163.98,1,Regular Customers
+12635,89,101,1689.18,1,Regular Customers
+12637,66,390,6021.9,3,At Risk Customers
+12638,32,39,671.69,1,Regular Customers
+12639,238,22,486.1,0,Low Engagement
+12640,23,53,1174.58,1,Regular Customers
+12641,114,10,185.9,1,Regular Customers
+12642,24,47,1013.26,1,Regular Customers
+12643,127,24,3344.64,1,Regular Customers
+12644,129,31,477.91,1,Regular Customers
+12645,33,73,1775.18,1,Regular Customers
+12646,4,45,1346.97,1,Regular Customers
+12647,21,121,3722.82,3,At Risk Customers
+12648,154,21,318.05,0,Low Engagement
+12649,106,31,623.51,1,Regular Customers
+12650,2,20,314.44,1,Regular Customers
+12651,334,9,114.0,0,Low Engagement
+12652,330,48,919.98,0,Low Engagement
+12653,148,43,2209.85,1,Regular Customers
+12654,10,38,601.98,1,Regular Customers
+12656,16,126,4051.17,3,At Risk Customers
+12657,10,47,1643.18,1,Regular Customers
+12658,18,36,686.05,1,Regular Customers
+12659,29,5,91.68,1,Regular Customers
+12660,10,13,245.1,1,Regular Customers
+12662,0,230,3849.78,3,At Risk Customers
+12664,7,37,4881.88,1,Regular Customers
+12665,324,3,63.0,0,Low Engagement
+12667,57,33,620.13,1,Regular Customers
+12668,11,161,3807.15,3,At Risk Customers
+12669,150,101,2744.0299999999997,1,Regular Customers
+12670,9,92,2996.05,1,Regular Customers
+12672,329,10,225.89999999999998,0,Low Engagement
+12673,4,42,610.52,1,Regular Customers
+12674,38,83,1970.6,1,Regular Customers
+12676,24,45,1331.39,1,Regular Customers
+12678,41,165,17628.46,2,High Value Customers
+12679,58,48,1113.02,1,Regular Customers
+12680,0,52,862.81,1,Regular Customers
+12681,14,638,13787.54,2,High Value Customers
+12682,3,525,12288.22,2,High Value Customers
+12683,3,344,8476.57,2,High Value Customers
+12684,7,105,2283.63,1,Regular Customers
+12685,27,157,2863.08,3,At Risk Customers
+12686,371,7,89.14,0,Low Engagement
+12688,113,171,4873.8099999999995,3,At Risk Customers
+12689,25,72,1247.61,1,Regular Customers
+12690,205,16,389.01,0,Low Engagement
+12691,27,32,1035.8,1,Regular Customers
+12693,126,39,855.91,1,Regular Customers
+12694,69,37,869.67,1,Regular Customers
+12695,6,27,582.1,1,Regular Customers
+12697,28,41,957.59,1,Regular Customers
+12700,7,268,4939.99,3,At Risk Customers
+12701,79,53,797.71,1,Regular Customers
+12702,19,12,219.0,1,Regular Customers
+12703,70,21,283.55,1,Regular Customers
+12704,6,88,2340.84,1,Regular Customers
+12705,14,334,6868.29,3,At Risk Customers
+12707,291,33,603.42,0,Low Engagement
+12708,29,157,2712.91,3,At Risk Customers
+12709,14,208,9736.52,2,High Value Customers
+12710,96,77,1149.02,1,Regular Customers
+12712,28,133,4396.13,3,At Risk Customers
+12713,0,38,848.55,1,Regular Customers
+12714,8,259,4708.86,3,At Risk Customers
+12715,105,21,353.86,1,Regular Customers
+12716,3,69,1053.49,1,Regular Customers
+12717,150,55,1030.98,1,Regular Customers
+12718,70,19,238.25,1,Regular Customers
+12719,4,39,644.95,1,Regular Customers
+12720,2,354,5781.73,3,At Risk Customers
+12721,31,161,2656.13,3,At Risk Customers
+12722,84,53,997.63,1,Regular Customers
+12723,3,69,725.07,1,Regular Customers
+12724,4,53,1031.41,1,Regular Customers
+12725,370,24,427.8,0,Low Engagement
+12726,27,124,2609.1,1,Regular Customers
+12727,10,139,3980.7,3,At Risk Customers
+12728,70,46,836.33,1,Regular Customers
+12729,113,26,453.01,1,Regular Customers
+12731,23,274,18895.91,2,High Value Customers
+12732,179,12,236.26000000000002,0,Low Engagement
+12733,233,22,383.95,0,Low Engagement
+12734,352,4,110.39999999999999,0,Low Engagement
+12735,314,43,779.5699999999999,0,Low Engagement
+12736,332,4,234.0,0,Low Engagement
+12738,371,11,155.35,0,Low Engagement
+12739,77,38,1013.04,1,Regular Customers
+12740,63,27,427.6,1,Regular Customers
+12743,133,134,546.43,1,Regular Customers
+12747,1,103,4196.01,3,At Risk Customers
+12749,3,199,4090.88,3,At Risk Customers
+12750,128,15,275.88,1,Regular Customers
+12752,80,53,4366.78,1,Regular Customers
+12754,235,63,3010.74,0,Low Engagement
+12755,280,4,3811.95,0,Low Engagement
+12756,86,4,112.07999999999998,1,Regular Customers
+12757,15,371,7857.1,2,High Value Customers
+12758,116,97,2791.59,1,Regular Customers
+12759,51,95,1531.44,1,Regular Customers
+12762,7,69,1898.52,1,Regular Customers
+12763,137,18,494.08,1,Regular Customers
+12764,316,45,1693.88,0,Low Engagement
+12766,3,310,6989.63,3,At Risk Customers
+12769,238,32,1143.6,0,Low Engagement
+12770,210,12,1351.45,0,Low Engagement
+12772,59,55,892.47,1,Regular Customers
+12775,16,66,1386.04,1,Regular Customers
+12778,19,50,822.23,1,Regular Customers
+12779,37,149,3981.36,3,At Risk Customers
+12781,63,25,826.74,1,Regular Customers
+12782,4,103,2330.92,1,Regular Customers
+12783,1,84,2225.91,1,Regular Customers
+12784,8,59,574.42,1,Regular Customers
+12785,363,14,311.95,0,Low Engagement
+12787,9,20,463.66,1,Regular Customers
+12789,64,4,91.85,1,Regular Customers
+12790,191,21,324.92,0,Low Engagement
+12791,373,2,192.60000000000002,0,Low Engagement
+12792,256,25,400.53999999999996,0,Low Engagement
+12793,334,24,545.48,0,Low Engagement
+12794,52,45,860.41,1,Regular Customers
+12795,18,14,430.48,1,Regular Customers
+12797,365,13,254.03,0,Low Engagement
+12798,9,8,6977.04,3,At Risk Customers
+12802,186,25,427.58,0,Low Engagement
+12808,36,28,483.65000000000003,1,Regular Customers
+12809,177,25,489.31,0,Low Engagement
+12811,260,31,514.85,0,Low Engagement
+12812,44,15,229.64000000000001,1,Regular Customers
+12814,101,2,125.92,1,Regular Customers
+12815,147,47,1063.46,1,Regular Customers
+12816,95,29,572.2,1,Regular Customers
+12817,280,4,166.04,0,Low Engagement
+12818,261,14,1542.08,0,Low Engagement
+12820,2,59,942.34,1,Regular Customers
+12821,213,6,92.72,0,Low Engagement
+12822,70,46,948.88,1,Regular Customers
+12823,74,5,1759.5,1,Regular Customers
+12824,59,25,397.12,1,Regular Customers
+12826,2,91,1474.72,1,Regular Customers
+12827,5,25,430.15000000000003,1,Regular Customers
+12828,2,56,1018.71,1,Regular Customers
+12829,336,11,293.0,0,Low Engagement
+12830,37,38,6814.64,3,At Risk Customers
+12831,261,9,215.05,0,Low Engagement
+12832,31,27,383.03,1,Regular Customers
+12833,144,24,417.38,1,Regular Customers
+12834,282,18,312.38,0,Low Engagement
+12836,58,175,2612.86,3,At Risk Customers
+12837,172,12,134.1,0,Low Engagement
+12838,33,123,683.13,1,Regular Customers
+12839,2,314,5591.42,3,At Risk Customers
+12840,143,113,2726.77,1,Regular Customers
+12841,4,420,4022.35,3,At Risk Customers
+12842,69,34,1118.99,1,Regular Customers
+12843,65,103,1702.26,1,Regular Customers
+12844,28,52,325.96000000000004,1,Regular Customers
+12845,266,27,354.09,0,Low Engagement
+12847,21,91,871.54,1,Regular Customers
+12849,30,51,1050.8899999999999,1,Regular Customers
+12851,96,50,135.18,1,Regular Customers
+12852,294,17,311.55,0,Low Engagement
+12853,134,78,1957.1000000000001,1,Regular Customers
+12854,78,110,1324.5,1,Regular Customers
+12855,372,3,38.1,0,Low Engagement
+12856,7,314,2179.93,3,At Risk Customers
+12857,210,46,1106.4,0,Low Engagement
+12863,51,5,521.2,1,Regular Customers
+12864,137,3,147.12,1,Regular Customers
+12865,25,95,1568.23,1,Regular Customers
+12866,282,26,559.12,0,Low Engagement
+12867,25,538,4036.82,3,At Risk Customers
+12868,185,107,1607.0600000000002,0,Low Engagement
+12871,83,11,380.64,1,Regular Customers
+12872,326,66,599.97,0,Low Engagement
+12873,281,4,374.0,0,Low Engagement
+12875,142,2,343.2300000000001,1,Regular Customers
+12876,57,85,2218.02,1,Regular Customers
+12877,3,154,1535.77,1,Regular Customers
+12878,235,47,854.99,0,Low Engagement
+12879,44,10,573.22,1,Regular Customers
+12881,275,7,298.0,0,Low Engagement
+12882,8,13,1463.04,1,Regular Customers
+12883,24,42,703.47,1,Regular Customers
+12884,87,7,309.05,1,Regular Customers
+12885,62,71,1175.22,1,Regular Customers
+12886,67,82,1378.4,1,Regular Customers
+12888,213,5,354.12,0,Low Engagement
+12890,23,82,380.46999999999997,1,Regular Customers
+12891,185,3,331.0,0,Low Engagement
+12893,30,34,188.14,1,Regular Customers
+12895,41,22,372.8,1,Regular Customers
+12897,204,4,216.5,0,Low Engagement
+12901,8,116,17654.54,2,High Value Customers
+12902,264,10,138.68,0,Low Engagement
+12904,17,72,509.58,1,Regular Customers
+12906,11,63,2919.81,1,Regular Customers
+12908,175,2,750.0,0,Low Engagement
+12909,39,91,2178.67,1,Regular Customers
+12910,22,75,3075.04,1,Regular Customers
+12912,2,24,1662.3,1,Regular Customers
+12913,4,50,2483.63,1,Regular Customers
+12915,148,22,363.65,0,Low Engagement
+12916,138,107,3006.15,1,Regular Customers
+12917,127,2,594.0,1,Regular Customers
+12919,7,50,1335.19,1,Regular Customers
+12920,16,28,164.23,1,Regular Customers
+12922,160,28,405.38,0,Low Engagement
+12923,63,29,176.97,1,Regular Customers
+12924,87,30,933.7,1,Regular Customers
+12925,4,45,694.05,1,Regular Customers
+12928,34,84,2062.7000000000003,1,Regular Customers
+12929,311,8,117.85,0,Low Engagement
+12930,77,25,415.8,1,Regular Customers
+12933,23,106,607.53,1,Regular Customers
+12935,1,129,2160.7,1,Regular Customers
+12936,16,62,1063.9,1,Regular Customers
+12937,14,120,1504.27,1,Regular Customers
+12938,25,9,114.14,1,Regular Customers
+12939,63,47,11581.8,2,High Value Customers
+12940,54,99,913.54,1,Regular Customers
+12942,130,75,683.9,1,Regular Customers
+12944,35,30,604.51,1,Regular Customers
+12945,287,23,462.95,0,Low Engagement
+12947,143,97,1603.99,1,Regular Customers
+12948,15,116,2064.95,1,Regular Customers
+12949,30,215,4167.22,3,At Risk Customers
+12950,1,23,1843.0,1,Regular Customers
+12951,8,63,1064.07,1,Regular Customers
+12952,5,79,1387.79,1,Regular Customers
+12953,9,17,329.85,1,Regular Customers
+12955,0,180,4757.16,3,At Risk Customers
+12956,305,19,108.07,0,Low Engagement
+12957,9,238,4017.54,3,At Risk Customers
+12962,6,16,266.39,1,Regular Customers
+12963,7,95,1856.63,1,Regular Customers
+12965,88,109,771.91,1,Regular Customers
+12966,9,10,160.18,1,Regular Customers
+12967,357,19,1660.9,0,Low Engagement
+12968,111,5,135.95,1,Regular Customers
+12970,6,151,452.24,1,Regular Customers
+12971,3,305,11189.91,2,High Value Customers
+12974,197,8,144.8,0,Low Engagement
+12976,211,22,738.6,0,Low Engagement
+12977,155,9,39.239999999999995,0,Low Engagement
+12980,157,20,7374.900000000001,3,At Risk Customers
+12981,29,20,372.21999999999997,1,Regular Customers
+12982,242,28,390.54,0,Low Engagement
+12984,18,4,97.5,1,Regular Customers
+12985,0,76,1239.38,1,Regular Customers
+12987,73,28,558.7,1,Regular Customers
+12988,291,92,535.32,0,Low Engagement
+12989,2,64,6924.110000000001,3,At Risk Customers
+12990,30,13,409.5,1,Regular Customers
+12991,22,31,503.76,1,Regular Customers
+12993,22,27,414.76,1,Regular Customers
+12994,3,61,974.4200000000001,1,Regular Customers
+12995,84,3,211.32,1,Regular Customers
+12997,21,59,1226.89,1,Regular Customers
+12999,195,28,455.88,0,Low Engagement
+13000,106,31,534.85,1,Regular Customers
+13001,3,339,9818.82,2,High Value Customers
+13002,317,7,120.94999999999999,0,Low Engagement
+13003,105,6,149.05,1,Regular Customers
+13004,11,404,5655.91,3,At Risk Customers
+13005,173,26,513.7,0,Low Engagement
+13006,55,4,81.57,1,Regular Customers
+13008,322,14,229.46999999999997,0,Low Engagement
+13011,371,3,50.550000000000004,0,Low Engagement
+13012,8,89,1661.8400000000001,1,Regular Customers
+13013,0,219,4810.9400000000005,3,At Risk Customers
+13014,10,109,3466.2799999999997,3,At Risk Customers
+13015,52,176,3346.28,3,At Risk Customers
+13016,72,47,789.89,1,Regular Customers
+13017,6,1,204.0,1,Regular Customers
+13018,15,458,7277.7,2,High Value Customers
+13021,3,131,2616.38,3,At Risk Customers
+13023,63,40,689.9,1,Regular Customers
+13026,0,40,975.36,1,Regular Customers
+13027,113,26,6912.0,3,At Risk Customers
+13028,22,45,661.3199999999999,1,Regular Customers
+13029,30,10,1247.5,1,Regular Customers
+13030,10,99,799.48,1,Regular Customers
+13032,51,71,1010.18,1,Regular Customers
+13033,356,11,190.55,0,Low Engagement
+13034,54,37,642.77,1,Regular Customers
+13035,73,27,921.88,1,Regular Customers
+13037,137,48,881.07,1,Regular Customers
+13038,79,28,908.46,1,Regular Customers
+13040,8,43,676.99,1,Regular Customers
+13043,272,13,516.42,0,Low Engagement
+13044,290,33,560.47,0,Low Engagement
+13045,98,18,305.28000000000003,1,Regular Customers
+13046,30,35,629.31,1,Regular Customers
+13047,31,172,3237.54,3,At Risk Customers
+13048,13,136,1835.91,1,Regular Customers
+13049,63,14,656.6800000000001,1,Regular Customers
+13050,14,403,5836.86,3,At Risk Customers
+13052,211,18,348.15000000000003,0,Low Engagement
+13055,77,76,1214.41,1,Regular Customers
+13058,24,8,271.40000000000003,1,Regular Customers
+13059,249,8,183.4,0,Low Engagement
+13060,253,15,307.53,0,Low Engagement
+13061,71,10,248.61,1,Regular Customers
+13062,190,11,346.98,0,Low Engagement
+13064,12,69,1119.49,1,Regular Customers
+13065,372,14,205.86,0,Low Engagement
+13066,23,48,470.8,1,Regular Customers
+13067,81,15,115.46000000000001,1,Regular Customers
+13068,9,2,344.0,1,Regular Customers
+13069,0,425,4436.12,3,At Risk Customers
+13070,191,9,228.8,0,Low Engagement
+13072,266,7,177.15,0,Low Engagement
+13075,129,22,919.61,1,Regular Customers
+13077,0,112,729.27,1,Regular Customers
+13078,2,358,12627.94,2,High Value Customers
+13079,3,6,220.10000000000002,1,Regular Customers
+13080,178,6,58.08,0,Low Engagement
+13082,125,73,3613.63,1,Regular Customers
+13083,3,18,303.75,1,Regular Customers
+13085,157,22,416.08000000000004,0,Low Engagement
+13090,8,155,8910.82,2,High Value Customers
+13091,27,21,345.82,1,Regular Customers
+13092,70,25,477.83,1,Regular Customers
+13093,275,159,7832.47,3,At Risk Customers
+13094,20,24,1927.3200000000002,1,Regular Customers
+13095,70,6,74.39999999999999,1,Regular Customers
+13097,32,423,6010.42,3,At Risk Customers
+13099,98,1,207.35999999999999,1,Regular Customers
+13101,233,8,101.19,0,Low Engagement
+13102,0,304,6424.09,3,At Risk Customers
+13103,39,8,243.94,1,Regular Customers
+13104,2,20,1098.48,1,Regular Customers
+13106,132,1,76.5,1,Regular Customers
+13107,43,58,1531.6200000000001,1,Regular Customers
+13108,372,10,350.06,0,Low Engagement
+13109,59,47,786.54,1,Regular Customers
+13110,30,145,1488.67,1,Regular Customers
+13113,0,200,12245.960000000001,2,High Value Customers
+13115,11,120,2294.78,1,Regular Customers
+13116,137,30,501.14,1,Regular Customers
+13117,21,76,984.91,1,Regular Customers
+13118,19,79,1197.81,1,Regular Customers
+13120,238,1,30.599999999999998,0,Low Engagement
+13121,268,50,283.73,0,Low Engagement
+13122,93,55,922.39,1,Regular Customers
+13124,89,235,3866.33,3,At Risk Customers
+13126,4,140,2099.64,3,At Risk Customers
+13127,77,15,259.17,1,Regular Customers
+13130,93,2,64.0,1,Regular Customers
+13131,22,44,1073.3,1,Regular Customers
+13132,261,3,77.3,0,Low Engagement
+13133,273,7,109.8,0,Low Engagement
+13134,85,98,1793.58,1,Regular Customers
+13135,196,1,3096.0,0,Low Engagement
+13136,55,127,2607.61,1,Regular Customers
+13138,21,63,962.39,1,Regular Customers
+13139,15,170,5064.94,3,At Risk Customers
+13140,107,46,423.72,1,Regular Customers
+13141,84,135,2388.75,1,Regular Customers
+13142,18,23,307.09,1,Regular Customers
+13144,332,3,110.95,0,Low Engagement
+13145,39,6,618.52,1,Regular Customers
+13146,25,17,228.91,1,Regular Customers
+13147,9,4,712.8000000000001,1,Regular Customers
+13148,28,319,3707.12,3,At Risk Customers
+13149,13,86,1676.06,1,Regular Customers
+13151,295,74,1257.8700000000001,0,Low Engagement
+13153,5,15,486.22,1,Regular Customers
+13155,32,85,971.76,1,Regular Customers
+13157,48,87,1741.22,1,Regular Customers
+13158,94,79,1201.06,1,Regular Customers
+13159,8,121,1437.85,1,Regular Customers
+13160,21,4,91.8,1,Regular Customers
+13161,312,8,112.75,0,Low Engagement
+13162,121,79,1688.29,1,Regular Customers
+13165,45,42,1021.48,1,Regular Customers
+13166,282,41,417.2,0,Low Engagement
+13167,18,65,791.33,1,Regular Customers
+13168,35,131,1319.19,1,Regular Customers
+13169,63,13,712.88,1,Regular Customers
+13170,26,32,116.00999999999999,1,Regular Customers
+13171,21,46,468.41,1,Regular Customers
+13173,3,43,353.65,1,Regular Customers
+13174,15,314,2817.03,3,At Risk Customers
+13176,45,72,492.84,1,Regular Customers
+13177,64,17,282.45,1,Regular Customers
+13178,25,265,5725.47,3,At Risk Customers
+13182,44,11,121.18,1,Regular Customers
+13183,7,94,3957.78,3,At Risk Customers
+13184,14,181,1701.29,3,At Risk Customers
+13185,267,1,71.4,0,Low Engagement
+13186,39,79,1575.89,1,Regular Customers
+13187,336,37,236.02,0,Low Engagement
+13188,10,2,114.60000000000001,1,Regular Customers
+13189,18,29,260.68,1,Regular Customers
+13192,94,63,911.94,1,Regular Customers
+13193,60,29,117.88,1,Regular Customers
+13194,135,3,60.7,1,Regular Customers
+13196,10,110,1797.78,1,Regular Customers
+13198,9,226,3401.2400000000002,3,At Risk Customers
+13199,3,119,9817.12,2,High Value Customers
+13200,18,46,870.09,1,Regular Customers
+13203,9,57,869.46,1,Regular Customers
+13207,14,8,250.26000000000002,1,Regular Customers
+13208,58,149,1223.9,1,Regular Customers
+13209,29,321,5891.61,3,At Risk Customers
+13210,93,22,353.48,1,Regular Customers
+13211,9,56,1197.42,1,Regular Customers
+13212,19,142,788.08,1,Regular Customers
+13213,56,90,1520.58,1,Regular Customers
+13216,267,5,333.74,0,Low Engagement
+13217,121,4,533.98,1,Regular Customers
+13218,126,5,62.63999999999999,1,Regular Customers
+13220,77,21,819.2900000000001,1,Regular Customers
+13221,239,66,847.41,0,Low Engagement
+13223,199,5,163.20000000000002,0,Low Engagement
+13224,59,108,2155.95,1,Regular Customers
+13225,2,32,6463.84,3,At Risk Customers
+13226,272,16,108.21000000000001,0,Low Engagement
+13227,201,9,257.7,0,Low Engagement
+13228,80,2,358.0,1,Regular Customers
+13229,225,10,160.95,0,Low Engagement
+13230,3,611,2806.97,3,At Risk Customers
+13232,12,207,1357.6,3,At Risk Customers
+13233,73,43,605.12,1,Regular Customers
+13235,211,58,1031.07,0,Low Engagement
+13236,24,36,744.85,1,Regular Customers
+13238,16,31,700.73,1,Regular Customers
+13239,261,21,329.56,0,Low Engagement
+13240,95,67,663.65,1,Regular Customers
+13242,111,13,270.40000000000003,1,Regular Customers
+13243,202,58,600.07,0,Low Engagement
+13244,92,27,121.74000000000001,1,Regular Customers
+13245,50,16,430.5,1,Regular Customers
+13246,17,141,1987.3,1,Regular Customers
+13247,17,25,501.12,1,Regular Customers
+13248,124,26,465.68,1,Regular Customers
+13249,91,23,711.41,1,Regular Customers
+13253,156,36,1030.4,0,Low Engagement
+13255,8,13,399.51,1,Regular Customers
+13258,11,38,698.58,1,Regular Customers
+13259,61,87,292.32,1,Regular Customers
+13260,60,8,557.62,1,Regular Customers
+13261,268,9,944.1,0,Low Engagement
+13262,262,11,200.29,0,Low Engagement
+13265,52,91,2107.66,1,Regular Customers
+13266,10,187,3834.2599999999998,3,At Risk Customers
+13267,2,211,4521.49,3,At Risk Customers
+13268,17,440,3214.69,3,At Risk Customers
+13269,0,316,5346.2300000000005,3,At Risk Customers
+13270,365,1,590.0,0,Low Engagement
+13271,36,96,217.38,1,Regular Customers
+13272,30,15,276.56,1,Regular Customers
+13273,112,16,138.98,1,Regular Customers
+13276,63,30,590.9300000000001,1,Regular Customers
+13277,15,8,258.4,1,Regular Customers
+13278,40,46,542.73,1,Regular Customers
+13279,77,9,137.75,1,Regular Customers
+13280,121,85,814.86,1,Regular Customers
+13282,17,37,1132.14,1,Regular Customers
+13283,59,7,93.66,1,Regular Customers
+13284,330,13,201.19,0,Low Engagement
+13285,22,187,2709.12,3,At Risk Customers
+13291,155,42,361.11,0,Low Engagement
+13292,38,31,578.9399999999999,1,Regular Customers
+13294,189,54,873.74,0,Low Engagement
+13295,359,10,201.20000000000002,0,Low Engagement
+13296,136,5,87.4,1,Regular Customers
+13297,7,59,2089.85,1,Regular Customers
+13298,0,2,360.0,1,Regular Customers
+13299,267,5,142.5,0,Low Engagement
+13300,168,20,371.89,0,Low Engagement
+13301,103,81,618.09,1,Regular Customers
+13302,154,1,63.75,0,Low Engagement
+13304,350,21,300.42,0,Low Engagement
+13305,3,81,2000.86,1,Regular Customers
+13307,119,1,15.0,1,Regular Customers
+13308,22,54,1385.51,1,Regular Customers
+13309,6,107,1456.79,1,Regular Customers
+13310,27,72,1132.03,1,Regular Customers
+13311,3,26,598.57,1,Regular Customers
+13313,21,78,1555.32,1,Regular Customers
+13314,1,62,775.94,1,Regular Customers
+13316,36,87,5977.7300000000005,3,At Risk Customers
+13317,65,124,2273.68,1,Regular Customers
+13318,0,20,640.76,1,Regular Customers
+13319,4,476,10845.550000000001,2,High Value Customers
+13320,77,106,1548.7,1,Regular Customers
+13321,71,11,567.36,1,Regular Customers
+13322,16,25,199.48000000000002,1,Regular Customers
+13323,2,21,787.85,1,Regular Customers
+13324,35,75,7121.95,3,At Risk Customers
+13325,81,12,675.3,1,Regular Customers
+13327,38,108,3627.77,3,At Risk Customers
+13328,315,17,1308.48,0,Low Engagement
+13329,31,17,789.0,1,Regular Customers
+13330,92,53,1140.93,1,Regular Customers
+13332,13,21,350.9,1,Regular Customers
+13334,81,268,3536.82,3,At Risk Customers
+13336,76,51,795.12,1,Regular Customers
+13338,157,19,487.02,0,Low Engagement
+13339,200,54,860.12,0,Low Engagement
+13340,44,134,10736.48,2,High Value Customers
+13341,260,42,775.85,0,Low Engagement
+13343,177,19,353.43,0,Low Engagement
+13344,67,119,2543.72,1,Regular Customers
+13345,287,20,389.5,0,Low Engagement
+13347,69,8,341.36,1,Regular Customers
+13348,63,14,233.76,1,Regular Customers
+13349,10,16,247.32,1,Regular Customers
+13350,15,40,979.12,1,Regular Customers
+13351,65,16,373.94,1,Regular Customers
+13352,59,24,397.97999999999996,1,Regular Customers
+13354,70,51,743.53,1,Regular Customers
+13355,121,32,674.7,1,Regular Customers
+13356,79,42,768.24,1,Regular Customers
+13357,256,90,609.95,0,Low Engagement
+13358,268,29,439.03,0,Low Engagement
+13359,63,23,439.56,1,Regular Customers
+13362,8,166,3090.7400000000002,3,At Risk Customers
+13363,17,60,992.5,1,Regular Customers
+13364,70,10,134.95999999999998,1,Regular Customers
+13365,33,128,2225.37,1,Regular Customers
+13366,49,1,56.160000000000004,1,Regular Customers
+13368,256,29,623.4,0,Low Engagement
+13369,365,14,308.28000000000003,0,Low Engagement
+13370,371,39,754.87,0,Low Engagement
+13372,89,23,378.64,1,Regular Customers
+13373,60,158,3312.25,3,At Risk Customers
+13375,88,37,778.65,1,Regular Customers
+13376,98,53,1019.76,1,Regular Customers
+13379,25,97,572.56,1,Regular Customers
+13381,31,172,3639.31,3,At Risk Customers
+13382,280,15,222.99,0,Low Engagement
+13384,30,152,4151.93,3,At Risk Customers
+13385,329,35,534.57,0,Low Engagement
+13388,130,35,677.1,1,Regular Customers
+13389,10,51,797.96,1,Regular Customers
+13390,74,13,544.08,1,Regular Customers
+13391,203,1,59.8,0,Low Engagement
+13394,1,155,2520.02,3,At Risk Customers
+13395,184,21,307.72,0,Low Engagement
+13396,28,43,1360.99,1,Regular Customers
+13397,72,38,1544.13,1,Regular Customers
+13398,191,26,457.34,0,Low Engagement
+13402,126,39,621.23,1,Regular Customers
+13403,17,3,75.0,1,Regular Customers
+13404,0,11,252.49,1,Regular Customers
+13405,73,27,572.451,1,Regular Customers
+13410,23,28,1003.06,1,Regular Customers
+13411,106,18,213.55,1,Regular Customers
+13414,133,24,1390.5,1,Regular Customers
+13416,43,19,712.5,1,Regular Customers
+13417,4,28,640.83,1,Regular Customers
+13418,11,304,6127.43,3,At Risk Customers
+13419,63,16,221.06,1,Regular Customers
+13420,149,8,159.85,0,Low Engagement
+13421,39,104,1851.08,1,Regular Customers
+13422,63,127,2626.3,1,Regular Customers
+13425,107,78,1624.21,1,Regular Customers
+13426,0,157,3641.32,3,At Risk Customers
+13427,18,29,582.6,1,Regular Customers
+13428,9,74,218.47,1,Regular Customers
+13429,10,67,1006.8,1,Regular Customers
+13430,18,49,679.45,1,Regular Customers
+13431,66,46,1269.1,1,Regular Customers
+13434,73,10,534.24,1,Regular Customers
+13435,4,101,3809.8900000000003,3,At Risk Customers
+13436,1,12,196.89,1,Regular Customers
+13437,13,167,3408.06,3,At Risk Customers
+13439,254,54,283.71,0,Low Engagement
+13441,91,13,296.64,1,Regular Customers
+13447,22,59,1129.14,1,Regular Customers
+13448,16,195,3539.37,3,At Risk Customers
+13449,23,19,291.88,1,Regular Customers
+13450,26,71,2043.7199999999998,1,Regular Customers
+13451,25,443,2976.15,3,At Risk Customers
+13452,258,2,590.0,0,Low Engagement
+13453,165,17,356.97999999999996,0,Low Engagement
+13455,24,46,1058.34,1,Regular Customers
+13456,17,63,1766.72,1,Regular Customers
+13458,6,382,9646.57,2,High Value Customers
+13460,28,17,183.44,1,Regular Customers
+13461,38,27,1445.0,1,Regular Customers
+13462,252,9,151.5,0,Low Engagement
+13464,57,41,674.68,1,Regular Customers
+13466,183,17,307.9,0,Low Engagement
+13467,10,99,1083.71,1,Regular Customers
+13468,1,302,5704.97,3,At Risk Customers
+13470,98,10,165.0,1,Regular Customers
+13471,0,260,2531.58,3,At Risk Customers
+13473,60,21,422.64,1,Regular Customers
+13474,235,64,229.59,0,Low Engagement
+13475,190,86,1431.78,0,Low Engagement
+13476,178,58,1238.47,0,Low Engagement
+13477,37,79,1454.58,1,Regular Customers
+13479,200,15,300.95,0,Low Engagement
+13481,45,109,1804.56,1,Regular Customers
+13482,231,11,184.64,0,Low Engagement
+13483,65,10,140.34,1,Regular Customers
+13484,240,8,313.8,0,Low Engagement
+13485,232,23,454.24,0,Low Engagement
+13486,77,69,1122.41,1,Regular Customers
+13487,57,34,575.4,1,Regular Customers
+13488,16,422,8968.31,2,High Value Customers
+13489,104,14,449.52,1,Regular Customers
+13491,51,86,1215.82,1,Regular Customers
+13492,135,50,1269.84,1,Regular Customers
+13493,274,8,618.63,0,Low Engagement
+13494,311,18,316.26000000000005,0,Low Engagement
+13495,7,48,2044.8700000000001,1,Regular Customers
+13496,10,35,653.33,1,Regular Customers
+13497,282,19,348.05,0,Low Engagement
+13499,17,42,1159.11,1,Regular Customers
+13500,22,65,1166.77,1,Regular Customers
+13501,287,52,1340.32,0,Low Engagement
+13502,16,18,292.0,1,Regular Customers
+13503,70,17,216.85,1,Regular Customers
+13504,63,22,295.93,1,Regular Customers
+13505,72,215,4393.63,3,At Risk Customers
+13506,315,26,458.52,0,Low Engagement
+13507,2,162,2479.16,3,At Risk Customers
+13508,243,12,110.97,0,Low Engagement
+13509,8,44,979.72,1,Regular Customers
+13510,0,115,1791.56,1,Regular Customers
+13512,260,15,251.21,0,Low Engagement
+13513,126,10,205.1,1,Regular Customers
+13514,73,4,152.20000000000002,1,Regular Customers
+13515,72,59,891.12,1,Regular Customers
+13516,20,44,1389.41,1,Regular Customers
+13517,59,141,2128.42,1,Regular Customers
+13518,85,38,659.4399999999999,1,Regular Customers
+13519,77,8,122.75,1,Regular Customers
+13520,58,93,3624.35,1,Regular Customers
+13521,0,436,1093.65,3,At Risk Customers
+13522,29,5,125.80000000000001,1,Regular Customers
+13523,32,172,3964.88,3,At Risk Customers
+13524,40,27,680.1800000000001,1,Regular Customers
+13525,14,6,628.78,1,Regular Customers
+13527,33,223,2287.51,3,At Risk Customers
+13529,78,15,307.76,1,Regular Customers
+13531,204,22,483.8,0,Low Engagement
+13532,33,66,210.31,1,Regular Customers
+13533,182,76,270.79,0,Low Engagement
+13534,1,296,5870.08,3,At Risk Customers
+13536,0,179,3448.29,3,At Risk Customers
+13538,42,25,1280.85,1,Regular Customers
+13539,85,37,631.34,1,Regular Customers
+13544,39,87,291.41,1,Regular Customers
+13546,11,98,626.99,1,Regular Customers
+13548,95,124,682.41,1,Regular Customers
+13549,25,51,918.2,1,Regular Customers
+13551,318,4,91.80000000000001,0,Low Engagement
+13552,65,109,3740.07,3,At Risk Customers
+13555,73,136,4149.28,3,At Risk Customers
+13557,27,34,584.06,1,Regular Customers
+13558,5,175,605.06,1,Regular Customers
+13560,6,33,174.37,1,Regular Customers
+13561,215,14,141.85999999999999,0,Low Engagement
+13562,81,82,1799.33,1,Regular Customers
+13563,83,49,777.53,1,Regular Customers
+13564,143,83,1749.02,1,Regular Customers
+13565,18,38,240.22,1,Regular Customers
+13566,40,176,874.71,1,Regular Customers
+13568,172,44,192.85,0,Low Engagement
+13569,16,85,373.75,1,Regular Customers
+13570,242,27,239.49,0,Low Engagement
+13571,12,341,2092.32,3,At Risk Customers
+13572,205,33,1384.25,0,Low Engagement
+13573,49,26,294.4,1,Regular Customers
+13575,22,46,732.0699999999999,1,Regular Customers
+13576,9,126,6717.34,3,At Risk Customers
+13577,24,83,1687.6000000000001,1,Regular Customers
+13579,14,23,467.04,1,Regular Customers
+13581,308,10,118.0,0,Low Engagement
+13583,155,53,781.03,0,Low Engagement
+13584,306,24,142.4,0,Low Engagement
+13587,63,8,712.4,1,Regular Customers
+13588,15,174,2478.95,3,At Risk Customers
+13589,14,21,379.65,1,Regular Customers
+13590,10,87,1981.92,1,Regular Customers
+13591,64,58,1117.13,1,Regular Customers
+13592,35,16,247.95999999999998,1,Regular Customers
+13593,107,128,2037.0800000000002,1,Regular Customers
+13594,52,26,396.97,1,Regular Customers
+13596,5,166,697.04,1,Regular Customers
+13598,46,40,180.17000000000002,1,Regular Customers
+13599,0,247,5153.67,3,At Risk Customers
+13600,311,19,219.52,0,Low Engagement
+13601,44,99,693.32,1,Regular Customers
+13602,64,23,428.89,1,Regular Customers
+13603,25,27,164.34,1,Regular Customers
+13606,28,43,280.53999999999996,1,Regular Customers
+13607,39,98,678.01,1,Regular Customers
+13610,11,226,1131.88,3,At Risk Customers
+13611,88,74,1171.8,1,Regular Customers
+13614,23,201,1610.46,3,At Risk Customers
+13615,318,23,417.69,0,Low Engagement
+13617,39,44,544.18,1,Regular Customers
+13618,173,13,177.34,0,Low Engagement
+13621,116,19,213.85,1,Regular Customers
+13623,30,81,747.78,1,Regular Customers
+13626,252,19,257.23,0,Low Engagement
+13627,58,92,1638.47,1,Regular Customers
+13629,22,59,7792.36,3,At Risk Customers
+13630,4,71,2031.78,1,Regular Customers
+13631,99,11,3070.42,1,Regular Customers
+13632,24,146,2121.27,3,At Risk Customers
+13634,32,188,1575.16,3,At Risk Customers
+13635,67,62,1071.03,1,Regular Customers
+13636,36,63,949.12,1,Regular Customers
+13637,51,101,810.5,1,Regular Customers
+13638,15,8,122.64,1,Regular Customers
+13639,73,40,1033.34,1,Regular Customers
+13642,215,66,354.8,0,Low Engagement
+13643,30,28,519.44,1,Regular Customers
+13644,15,146,2624.26,3,At Risk Customers
+13645,119,5,252.1,1,Regular Customers
+13647,9,79,1678.1200000000001,1,Regular Customers
+13649,256,23,346.6,0,Low Engagement
+13650,16,96,1836.34,1,Regular Customers
+13651,34,6,94.2,1,Regular Customers
+13652,45,63,1095.08,1,Regular Customers
+13654,42,166,2707.33,3,At Risk Customers
+13655,113,56,932.97,1,Regular Customers
+13656,164,49,379.65,0,Low Engagement
+13657,10,16,382.14,1,Regular Customers
+13658,9,108,2639.17,1,Regular Customers
+13659,205,104,1573.2,0,Low Engagement
+13662,85,53,897.76,1,Regular Customers
+13663,178,13,189.47,0,Low Engagement
+13666,59,12,84.65,1,Regular Customers
+13667,148,87,305.02,1,Regular Customers
+13668,2,470,6363.59,2,High Value Customers
+13669,50,9,218.55,1,Regular Customers
+13670,74,25,349.7,1,Regular Customers
+13672,300,6,186.39000000000001,0,Low Engagement
+13673,18,65,396.92,1,Regular Customers
+13675,150,25,486.82000000000005,0,Low Engagement
+13678,151,16,232.6,0,Low Engagement
+13680,0,195,3722.42,3,At Risk Customers
+13681,17,57,827.83,1,Regular Customers
+13682,186,3,59.5,0,Low Engagement
+13684,285,30,67.23,0,Low Engagement
+13685,2,39,3119.44,1,Regular Customers
+13686,182,8,72.0,0,Low Engagement
+13689,62,6,910.0,1,Regular Customers
+13690,58,9,172.25,1,Regular Customers
+13692,24,53,1488.32,1,Regular Customers
+13695,30,90,2504.13,1,Regular Customers
+13697,38,12,151.29999999999998,1,Regular Customers
+13699,154,14,308.58000000000004,0,Low Engagement
+13700,25,197,2265.12,3,At Risk Customers
+13703,317,1,99.5,0,Low Engagement
+13704,4,134,2308.06,3,At Risk Customers
+13705,7,28,711.86,1,Regular Customers
+13706,302,20,330.79,0,Low Engagement
+13707,266,48,806.41,0,Low Engagement
+13708,270,51,296.88,0,Low Engagement
+13709,3,336,6328.05,3,At Risk Customers
+13710,31,8,180.48,1,Regular Customers
+13711,218,13,252.06,0,Low Engagement
+13712,246,10,228.84,0,Low Engagement
+13715,280,105,1079.34,0,Low Engagement
+13716,268,21,138.28,0,Low Engagement
+13717,31,102,1445.01,1,Regular Customers
+13718,245,12,306.55,0,Low Engagement
+13719,14,60,1041.68,1,Regular Customers
+13720,116,43,799.9,1,Regular Customers
+13721,35,28,524.14,1,Regular Customers
+13722,131,85,2375.41,1,Regular Customers
+13723,216,6,199.85000000000002,0,Low Engagement
+13725,49,104,1980.56,1,Regular Customers
+13726,38,42,1079.6599999999999,1,Regular Customers
+13727,28,20,333.48,1,Regular Customers
+13728,36,63,1016.14,1,Regular Customers
+13730,135,43,752.6,1,Regular Customers
+13731,218,38,610.59,0,Low Engagement
+13732,27,33,491.86,1,Regular Customers
+13735,24,196,2885.2400000000002,3,At Risk Customers
+13736,4,191,731.9,3,At Risk Customers
+13737,199,30,339.59999999999997,0,Low Engagement
+13739,17,3,216.9,1,Regular Customers
+13740,240,23,350.75,0,Low Engagement
+13741,71,34,668.4300000000001,1,Regular Customers
+13742,16,321,3131.02,3,At Risk Customers
+13743,2,41,1341.6,1,Regular Customers
+13744,94,72,1156.36,1,Regular Customers
+13745,161,25,300.04,0,Low Engagement
+13747,373,1,79.6,0,Low Engagement
+13748,95,28,948.25,1,Regular Customers
+13750,53,24,1647.26,1,Regular Customers
+13751,287,9,296.25,0,Low Engagement
+13752,123,76,1186.28,1,Regular Customers
+13753,287,35,741.26,0,Low Engagement
+13754,151,12,282.59999999999997,0,Low Engagement
+13755,3,342,2161.35,3,At Risk Customers
+13756,1,142,5189.52,3,At Risk Customers
+13758,11,117,3190.55,3,At Risk Customers
+13759,32,25,659.4100000000001,1,Regular Customers
+13760,53,57,286.79,1,Regular Customers
+13761,49,70,1070.65,1,Regular Customers
+13762,218,7,306.72,0,Low Engagement
+13763,62,15,1714.96,1,Regular Customers
+13764,70,208,1521.76,3,At Risk Customers
+13767,1,368,17220.36,2,High Value Customers
+13769,1,135,2796.51,3,At Risk Customers
+13771,63,119,2634.45,1,Regular Customers
+13772,33,177,1132.13,3,At Risk Customers
+13774,81,22,345.0,1,Regular Customers
+13778,102,9,178.7,1,Regular Customers
+13780,6,57,360.01,1,Regular Customers
+13781,250,17,127.84,0,Low Engagement
+13782,12,115,912.0,1,Regular Customers
+13784,9,31,2462.79,1,Regular Customers
+13786,366,7,230.39999999999998,0,Low Engagement
+13787,75,31,309.04,1,Regular Customers
+13790,3,45,348.8,1,Regular Customers
+13791,127,11,1516.0,1,Regular Customers
+13792,65,13,195.55,1,Regular Customers
+13799,116,39,688.86,1,Regular Customers
+13800,309,33,558.32,0,Low Engagement
+13801,66,23,324.8,1,Regular Customers
+13802,138,60,4599.42,1,Regular Customers
+13803,254,17,277.07,0,Low Engagement
+13804,30,137,2635.79,3,At Risk Customers
+13805,51,13,924.6,1,Regular Customers
+13806,63,10,256.38,1,Regular Customers
+13807,366,7,112.6,0,Low Engagement
+13808,5,76,1747.66,1,Regular Customers
+13809,304,12,155.05,0,Low Engagement
+13810,28,35,1499.01,1,Regular Customers
+13811,183,13,814.5,0,Low Engagement
+13812,41,36,539.0,1,Regular Customers
+13813,39,69,1366.8600000000001,1,Regular Customers
+13814,91,57,1579.12,1,Regular Customers
+13815,21,176,4027.36,3,At Risk Customers
+13816,23,28,571.6700000000001,1,Regular Customers
+13817,28,24,382.98,1,Regular Customers
+13819,301,36,1140.35,0,Low Engagement
+13821,144,59,385.64,1,Regular Customers
+13822,5,96,632.0,1,Regular Customers
+13823,18,40,957.66,1,Regular Customers
+13824,32,46,1698.94,1,Regular Customers
+13826,175,10,189.5,0,Low Engagement
+13827,57,93,412.05,1,Regular Customers
+13828,21,15,209.49,1,Regular Customers
+13831,15,74,2202.99,1,Regular Customers
+13832,18,3,52.199999999999996,1,Regular Customers
+13833,158,29,384.8,0,Low Engagement
+13835,24,55,834.57,1,Regular Customers
+13837,211,19,271.24,0,Low Engagement
+13838,5,174,691.73,1,Regular Customers
+13841,252,1,85.0,0,Low Engagement
+13842,58,206,3385.62,3,At Risk Customers
+13844,10,20,361.62,1,Regular Customers
+13845,64,9,312.98,1,Regular Customers
+13846,24,55,865.0600000000001,1,Regular Customers
+13848,91,5,1255.0,1,Regular Customers
+13849,51,101,1537.95,1,Regular Customers
+13850,128,93,1595.48,1,Regular Customers
+13851,95,81,2651.46,1,Regular Customers
+13853,56,23,1090.14,1,Regular Customers
+13854,8,110,8109.5199999999995,3,At Risk Customers
+13856,168,14,388.5,0,Low Engagement
+13858,56,11,216.17,1,Regular Customers
+13859,325,28,201.16,0,Low Engagement
+13860,0,76,1245.9,1,Regular Customers
+13862,17,139,2209.36,3,At Risk Customers
+13863,247,20,305.78,0,Low Engagement
+13865,57,30,501.56,1,Regular Customers
+13866,73,7,145.67000000000002,1,Regular Customers
+13867,30,61,1015.29,1,Regular Customers
+13868,6,33,3192.54,1,Regular Customers
+13869,122,307,3104.95,3,At Risk Customers
+13870,1,115,2770.94,1,Regular Customers
+13871,22,336,6403.25,3,At Risk Customers
+13873,119,23,389.6,1,Regular Customers
+13874,357,18,540.45,0,Low Engagement
+13875,53,104,1786.79,1,Regular Customers
+13876,63,7,122.7,1,Regular Customers
+13877,85,3,117.24,1,Regular Customers
+13878,54,36,1281.53,1,Regular Customers
+13880,20,165,3219.77,3,At Risk Customers
+13881,3,178,17159.52,2,High Value Customers
+13882,2,65,1191.13,1,Regular Customers
+13883,10,142,2674.48,3,At Risk Customers
+13884,6,59,787.6,1,Regular Customers
+13885,188,28,506.8,0,Low Engagement
+13886,70,16,243.56,1,Regular Customers
+13887,203,19,349.55,0,Low Engagement
+13888,119,40,605.63,1,Regular Customers
+13889,92,15,416.90000000000003,1,Regular Customers
+13890,0,110,1883.8100000000002,1,Regular Customers
+13892,26,27,632.97,1,Regular Customers
+13893,297,21,821.1,0,Low Engagement
+13894,23,27,564.62,1,Regular Customers
+13895,27,118,2593.07,1,Regular Customers
+13897,49,17,311.16,1,Regular Customers
+13898,325,12,155.93,0,Low Engagement
+13899,15,19,388.52,1,Regular Customers
+13900,182,43,740.95,0,Low Engagement
+13901,71,149,2867.2,3,At Risk Customers
+13904,36,26,332.64,1,Regular Customers
+13908,79,122,2369.55,1,Regular Customers
+13911,56,148,2580.91,3,At Risk Customers
+13914,11,33,626.45,1,Regular Customers
+13917,49,18,272.04,1,Regular Customers
+13918,49,30,1212.8400000000001,1,Regular Customers
+13919,58,28,384.81,1,Regular Customers
+13922,351,7,172.25,0,Low Engagement
+13923,53,20,351.13,1,Regular Customers
+13924,1,117,1838.8500000000001,1,Regular Customers
+13925,92,41,678.25,1,Regular Customers
+13926,22,11,223.85000000000002,1,Regular Customers
+13927,74,21,348.99,1,Regular Customers
+13928,10,27,464.57,1,Regular Customers
+13929,168,9,842.65,0,Low Engagement
+13930,57,17,337.34,1,Regular Customers
+13931,95,58,1237.53,1,Regular Customers
+13932,294,16,307.4,0,Low Engagement
+13933,108,23,608.7900000000001,1,Regular Customers
+13934,263,31,922.1,0,Low Engagement
+13936,179,26,376.58,0,Low Engagement
+13937,168,9,158.85,0,Low Engagement
+13938,34,7,71.66,1,Regular Customers
+13939,22,45,568.55,1,Regular Customers
+13940,16,49,839.14,1,Regular Customers
+13941,21,45,5112.96,1,Regular Customers
+13946,78,11,561.5699999999999,1,Regular Customers
+13947,64,5,90.6,1,Regular Customers
+13948,360,3,102.0,0,Low Engagement
+13949,2,160,2427.32,3,At Risk Customers
+13950,10,35,745.06,1,Regular Customers
+13951,175,39,674.45,0,Low Engagement
+13952,217,137,3251.071,0,Low Engagement
+13953,6,20,3515.68,1,Regular Customers
+13954,1,25,439.92,1,Regular Customers
+13955,153,33,322.96,0,Low Engagement
+13956,4,152,1026.42,1,Regular Customers
+13959,78,92,598.2,1,Regular Customers
+13960,20,12,230.22,1,Regular Customers
+13962,21,11,169.55,1,Regular Customers
+13963,307,35,664.54,0,Low Engagement
+13967,145,2,80.7,0,Low Engagement
+13969,6,626,9053.94,2,High Value Customers
+13971,18,149,2758.26,3,At Risk Customers
+13972,70,15,190.25,1,Regular Customers
+13973,286,11,264.7,0,Low Engagement
+13974,48,28,413.59000000000003,1,Regular Customers
+13975,30,338,2526.28,3,At Risk Customers
+13976,206,10,357.98,0,Low Engagement
+13978,14,15,196.79000000000002,1,Regular Customers
+13979,72,54,869.87,1,Regular Customers
+13980,59,11,200.14,1,Regular Customers
+13982,38,111,1871.81,1,Regular Customers
+13983,29,107,2603.43,1,Regular Customers
+13984,26,16,920.51,1,Regular Customers
+13985,3,349,7060.13,2,High Value Customers
+13986,16,13,320.46,1,Regular Customers
+13988,19,234,4147.96,3,At Risk Customers
+13989,65,41,1266.08,1,Regular Customers
+13990,212,16,311.3,0,Low Engagement
+13991,11,84,855.97,1,Regular Customers
+13992,29,5,76.8,1,Regular Customers
+13993,42,121,3466.36,3,At Risk Customers
+13994,3,155,2313.14,3,At Risk Customers
+13995,14,86,1393.69,1,Regular Customers
+13999,9,208,3901.81,3,At Risk Customers
+14000,210,15,635.66,0,Low Engagement
+14001,45,39,2043.0800000000002,1,Regular Customers
+14002,133,47,529.73,1,Regular Customers
+14004,42,171,4582.64,3,At Risk Customers
+14005,9,84,2874.72,1,Regular Customers
+14006,115,30,962.19,1,Regular Customers
+14009,197,42,695.61,0,Low Engagement
+14012,277,11,328.8,0,Low Engagement
+14013,109,34,473.02,1,Regular Customers
+14014,76,39,505.18,1,Regular Customers
+14015,52,20,917.34,1,Regular Customers
+14016,161,161,4341.21,3,At Risk Customers
+14019,46,66,1421.61,1,Regular Customers
+14020,16,39,642.8,1,Regular Customers
+14021,154,22,631.9,0,Low Engagement
+14022,224,28,440.0,0,Low Engagement
+14023,6,31,584.07,1,Regular Customers
+14024,121,16,327.7,1,Regular Customers
+14027,60,6,104.82,1,Regular Customers
+14029,62,15,467.66,1,Regular Customers
+14030,17,243,2360.09,3,At Risk Customers
+14031,6,250,17286.86,2,High Value Customers
+14032,1,143,2975.59,3,At Risk Customers
+14034,21,89,651.8199999999999,1,Regular Customers
+14035,28,66,1428.02,1,Regular Customers
+14036,284,38,626.65,0,Low Engagement
+14037,175,28,147.20000000000002,0,Low Engagement
+14038,77,92,1560.38,1,Regular Customers
+14039,32,6,152.2,1,Regular Customers
+14040,40,235,3614.92,3,At Risk Customers
+14041,265,21,141.41,0,Low Engagement
+14044,26,209,652.82,3,At Risk Customers
+14045,108,6,1659.75,1,Regular Customers
+14046,283,14,154.99,0,Low Engagement
+14047,8,32,1308.6100000000001,1,Regular Customers
+14048,304,85,409.93,0,Low Engagement
+14049,16,488,5681.72,3,At Risk Customers
+14050,31,54,746.36,1,Regular Customers
+14051,0,210,15610.390000000001,2,High Value Customers
+14052,19,56,225.36,1,Regular Customers
+14053,123,4,260.25,1,Regular Customers
+14054,64,6,92.46,1,Regular Customers
+14055,105,10,725.6400000000001,1,Regular Customers
+14057,23,284,6217.96,3,At Risk Customers
+14059,266,8,183.6,0,Low Engagement
+14060,4,202,6140.42,3,At Risk Customers
+14062,9,111,10464.85,2,High Value Customers
+14064,28,80,1353.74,1,Regular Customers
+14066,266,7,152.55,0,Low Engagement
+14067,63,52,374.7,1,Regular Customers
+14068,319,24,265.85,0,Low Engagement
+14071,3,324,1438.82,3,At Risk Customers
+14073,31,13,151.04,1,Regular Customers
+14075,4,43,942.26,1,Regular Customers
+14076,128,46,122.47,1,Regular Customers
+14077,40,42,499.41999999999996,1,Regular Customers
+14078,101,65,1049.37,1,Regular Customers
+14079,124,12,375.1,1,Regular Customers
+14080,32,4,45.599999999999994,1,Regular Customers
+14081,301,153,934.52,0,Low Engagement
+14082,364,29,182.25,0,Low Engagement
+14083,3,181,1018.43,3,At Risk Customers
+14085,1,450,4448.54,3,At Risk Customers
+14087,2,69,194.42,1,Regular Customers
+14089,56,14,161.0,1,Regular Customers
+14090,324,1,76.32000000000001,0,Low Engagement
+14092,7,214,4076.91,3,At Risk Customers
+14093,11,105,442.85,1,Regular Customers
+14098,36,21,147.35,1,Regular Customers
+14099,15,250,3104.17,3,At Risk Customers
+14100,137,26,194.9,1,Regular Customers
+14101,73,35,5976.79,3,At Risk Customers
+14102,4,79,1360.28,1,Regular Customers
+14104,154,21,216.20999999999998,0,Low Engagement
+14105,238,74,1266.23,0,Low Engagement
+14107,51,123,2703.23,1,Regular Customers
+14108,30,34,597.91,1,Regular Customers
+14109,72,9,144.2,1,Regular Customers
+14110,3,155,5683.15,3,At Risk Customers
+14111,13,10,692.85,1,Regular Customers
+14112,22,160,2915.15,3,At Risk Customers
+14113,3,34,1840.42,1,Regular Customers
+14114,273,15,386.53,0,Low Engagement
+14116,19,72,1382.74,1,Regular Customers
+14117,143,3,90.0,0,Low Engagement
+14121,3,159,2780.15,3,At Risk Customers
+14124,83,5,419.58000000000004,1,Regular Customers
+14125,10,167,2740.43,3,At Risk Customers
+14126,7,15,706.1300000000001,1,Regular Customers
+14127,122,44,709.71,1,Regular Customers
+14128,60,46,637.5,1,Regular Customers
+14129,1,52,1123.8600000000001,1,Regular Customers
+14130,318,67,483.86,0,Low Engagement
+14132,1,200,3586.0299999999997,3,At Risk Customers
+14133,129,28,605.64,1,Regular Customers
+14135,1,134,4690.31,3,At Risk Customers
+14138,1,47,982.3800000000001,1,Regular Customers
+14139,45,26,415.82,1,Regular Customers
+14140,3,66,935.05,1,Regular Customers
+14141,2,40,915.13,1,Regular Customers
+14142,372,22,311.81,0,Low Engagement
+14143,133,7,115.8,1,Regular Customers
+14145,46,11,3742.2,1,Regular Customers
+14146,8,210,4191.0,3,At Risk Customers
+14147,77,5,483.4,1,Regular Customers
+14148,233,3,157.2,0,Low Engagement
+14149,220,28,446.62,0,Low Engagement
+14150,35,26,658.64,1,Regular Customers
+14152,74,49,621.29,1,Regular Customers
+14154,238,52,1345.62,0,Low Engagement
+14155,265,6,118.75,0,Low Engagement
+14157,19,48,432.88,1,Regular Customers
+14158,39,41,507.66,1,Regular Customers
+14161,215,108,1110.52,0,Low Engagement
+14162,173,25,289.36,0,Low Engagement
+14163,86,52,2445.91,1,Regular Customers
+14164,70,29,1631.77,1,Regular Customers
+14165,275,25,122.53999999999999,0,Low Engagement
+14167,38,52,574.84,1,Regular Customers
+14171,97,58,363.79,1,Regular Customers
+14173,10,29,450.84,1,Regular Customers
+14174,32,26,134.46,1,Regular Customers
+14175,59,149,3222.3,3,At Risk Customers
+14176,296,31,576.9000000000001,0,Low Engagement
+14177,85,42,559.41,1,Regular Customers
+14178,8,327,1620.93,3,At Risk Customers
+14179,40,165,719.78,1,Regular Customers
+14180,10,240,4748.52,3,At Risk Customers
+14184,66,24,452.89,1,Regular Customers
+14185,330,3,197.65,0,Low Engagement
+14188,30,65,2054.36,1,Regular Customers
+14189,1,265,4654.08,3,At Risk Customers
+14191,1,259,4684.76,3,At Risk Customers
+14193,67,42,853.39,1,Regular Customers
+14194,4,579,11349.52,2,High Value Customers
+14195,201,7,1012.0,0,Low Engagement
+14196,106,6,335.52,1,Regular Customers
+14198,17,39,701.4,1,Regular Customers
+14199,217,2,185.39999999999998,0,Low Engagement
+14201,59,37,747.44,1,Regular Customers
+14204,1,44,161.03,1,Regular Customers
+14205,16,24,466.7,1,Regular Customers
+14206,238,20,328.15999999999997,0,Low Engagement
+14208,94,10,151.74,1,Regular Customers
+14209,10,87,2073.43,1,Regular Customers
+14210,105,102,1905.8400000000001,1,Regular Customers
+14211,52,112,2241.1,1,Regular Customers
+14212,89,9,1070.48,1,Regular Customers
+14214,30,67,1004.38,1,Regular Customers
+14215,11,108,1789.72,1,Regular Customers
+14216,2,59,1839.3,1,Regular Customers
+14217,1,100,2004.98,1,Regular Customers
+14218,42,12,169.48000000000002,1,Regular Customers
+14219,3,7,89.94,1,Regular Customers
+14220,246,21,632.4,0,Low Engagement
+14221,41,193,3432.8,3,At Risk Customers
+14222,176,41,683.17,0,Low Engagement
+14223,91,60,991.13,1,Regular Customers
+14224,109,118,1050.12,1,Regular Customers
+14226,28,67,2232.19,1,Regular Customers
+14227,25,175,3350.96,3,At Risk Customers
+14229,51,40,1547.2,1,Regular Customers
+14231,183,50,925.71,0,Low Engagement
+14232,42,115,2048.07,1,Regular Customers
+14233,48,35,1462.72,1,Regular Customers
+14234,21,159,775.46,1,Regular Customers
+14235,74,79,3144.86,1,Regular Customers
+14236,80,15,490.86,1,Regular Customers
+14237,372,9,161.0,0,Low Engagement
+14238,325,8,146.85,0,Low Engagement
+14239,42,112,2380.85,1,Regular Customers
+14240,29,42,890.34,1,Regular Customers
+14241,183,10,213.70000000000002,0,Low Engagement
+14242,234,16,280.55,0,Low Engagement
+14243,8,141,2588.77,3,At Risk Customers
+14245,219,108,1693.45,0,Low Engagement
+14246,110,75,1474.06,1,Regular Customers
+14247,277,20,136.76999999999998,0,Low Engagement
+14248,317,8,302.58,0,Low Engagement
+14250,6,111,1904.05,1,Regular Customers
+14251,1,78,2879.7000000000003,1,Regular Customers
+14256,259,53,969.0600000000001,0,Low Engagement
+14257,63,106,3099.7200000000003,1,Regular Customers
+14258,8,111,12669.98,2,High Value Customers
+14259,141,5,120.0,1,Regular Customers
+14261,50,52,1163.45,1,Regular Customers
+14262,7,143,2618.23,3,At Risk Customers
+14264,154,17,333.97,0,Low Engagement
+14265,108,31,530.18,1,Regular Customers
+14267,162,55,1516.24,0,Low Engagement
+14270,331,29,492.65000000000003,0,Low Engagement
+14271,225,10,112.32,0,Low Engagement
+14272,73,33,437.96,1,Regular Customers
+14273,50,29,559.97,1,Regular Customers
+14276,98,64,1119.74,1,Regular Customers
+14277,14,225,4216.2,3,At Risk Customers
+14280,196,8,134.04,0,Low Engagement
+14282,2,156,3729.34,3,At Risk Customers
+14284,30,32,595.25,1,Regular Customers
+14285,20,27,1910.01,1,Regular Customers
+14286,23,280,4628.75,3,At Risk Customers
+14287,7,9,176.63,1,Regular Customers
+14288,212,16,426.6,0,Low Engagement
+14289,8,47,911.26,1,Regular Customers
+14290,10,101,2314.65,1,Regular Customers
+14291,1,237,3883.25,3,At Risk Customers
+14292,7,100,4871.93,3,At Risk Customers
+14293,2,61,1046.56,1,Regular Customers
+14295,39,5,166.20000000000002,1,Regular Customers
+14297,17,62,1305.33,1,Regular Customers
+14299,7,143,3965.62,3,At Risk Customers
+14300,18,3,43.2,1,Regular Customers
+14301,116,13,640.14,1,Regular Customers
+14304,222,17,383.45,0,Low Engagement
+14305,70,105,1858.96,1,Regular Customers
+14306,50,33,2093.32,1,Regular Customers
+14307,88,180,2995.72,3,At Risk Customers
+14309,7,117,2352.53,1,Regular Customers
+14311,242,20,310.26,0,Low Engagement
+14312,46,87,1611.59,1,Regular Customers
+14314,106,8,120.0,1,Regular Customers
+14315,44,101,2481.13,1,Regular Customers
+14317,64,24,508.58000000000004,1,Regular Customers
+14320,206,31,477.79,0,Low Engagement
+14321,10,123,1530.75,1,Regular Customers
+14323,114,36,605.0600000000001,1,Regular Customers
+14326,241,8,183.85,0,Low Engagement
+14327,162,12,311.65,0,Low Engagement
+14329,16,259,5014.84,3,At Risk Customers
+14331,123,28,462.65999999999997,1,Regular Customers
+14332,22,26,866.31,1,Regular Customers
+14333,67,15,415.2,1,Regular Customers
+14334,16,162,2552.21,3,At Risk Customers
+14335,15,63,468.26,1,Regular Customers
+14336,16,90,1614.91,1,Regular Customers
+14338,160,31,588.22,0,Low Engagement
+14339,242,14,309.52,0,Low Engagement
+14340,218,6,134.7,0,Low Engagement
+14341,44,129,2182.28,1,Regular Customers
+14342,20,21,668.5600000000001,1,Regular Customers
+14344,126,71,889.9300000000001,1,Regular Customers
+14345,38,6,108.97999999999999,1,Regular Customers
+14346,120,60,1021.58,1,Regular Customers
+14348,259,18,409.57,0,Low Engagement
+14349,9,31,133.5,1,Regular Customers
+14350,273,18,282.93,0,Low Engagement
+14351,164,1,51.0,0,Low Engagement
+14352,156,47,1078.96,0,Low Engagement
+14353,214,6,90.6,0,Low Engagement
+14354,5,9,163.62,1,Regular Customers
+14355,365,11,174.4,0,Low Engagement
+14356,79,33,701.23,1,Regular Customers
+14357,42,41,225.77,1,Regular Customers
+14359,18,55,912.18,1,Regular Customers
+14360,31,118,2128.23,1,Regular Customers
+14362,21,41,161.2,1,Regular Customers
+14364,108,69,3717.35,1,Regular Customers
+14367,7,524,9261.52,2,High Value Customers
+14368,319,8,155.0,0,Low Engagement
+14371,294,4,100.5,0,Low Engagement
+14373,357,4,76.55,0,Low Engagement
+14375,184,75,257.68,0,Low Engagement
+14377,190,11,617.05,0,Low Engagement
+14379,43,46,348.1,1,Regular Customers
+14381,51,56,202.68,1,Regular Customers
+14382,25,131,626.0699999999999,1,Regular Customers
+14383,37,59,1247.69,1,Regular Customers
+14385,8,14,202.11,1,Regular Customers
+14386,296,7,142.4,0,Low Engagement
+14387,32,140,1770.56,1,Regular Customers
+14388,9,186,3212.84,3,At Risk Customers
+14389,64,45,1043.46,1,Regular Customers
+14390,9,286,4652.82,3,At Risk Customers
+14393,217,5,67.95,0,Low Engagement
+14395,1,350,3507.71,3,At Risk Customers
+14396,64,73,487.99,1,Regular Customers
+14397,2,87,2612.96,1,Regular Customers
+14400,148,25,574.7,0,Low Engagement
+14401,3,182,4051.48,3,At Risk Customers
+14403,129,20,1475.81,1,Regular Customers
+14404,33,103,1474.32,1,Regular Customers
+14406,118,8,156.75,1,Regular Customers
+14407,106,73,2157.73,1,Regular Customers
+14408,10,107,2606.53,1,Regular Customers
+14409,70,54,2059.4500000000003,1,Regular Customers
+14410,91,193,1105.07,3,At Risk Customers
+14411,310,14,1063.0,0,Low Engagement
+14412,42,43,770.03,1,Regular Customers
+14413,361,23,122.7,0,Low Engagement
+14414,91,97,1496.98,1,Regular Customers
+14415,0,590,5900.28,2,High Value Customers
+14416,21,14,490.22,1,Regular Customers
+14418,3,124,1937.25,1,Regular Customers
+14419,10,206,1058.06,3,At Risk Customers
+14420,98,29,387.52,1,Regular Customers
+14421,56,27,813.11,1,Regular Customers
+14422,0,222,4263.64,3,At Risk Customers
+14423,217,3,265.2,0,Low Engagement
+14424,17,1,322.08,1,Regular Customers
+14426,23,224,4481.67,3,At Risk Customers
+14427,49,17,363.34000000000003,1,Regular Customers
+14428,6,144,1244.83,1,Regular Customers
+14431,302,17,470.36,0,Low Engagement
+14432,9,382,2255.51,3,At Risk Customers
+14434,21,12,1372.8,1,Regular Customers
+14436,98,9,89.06,1,Regular Customers
+14437,365,5,63.0,0,Low Engagement
+14438,305,9,131.9,0,Low Engagement
+14439,319,32,2661.24,0,Low Engagement
+14440,7,55,2357.6800000000003,1,Regular Customers
+14441,0,51,1712.89,1,Regular Customers
+14442,204,63,1589.82,0,Low Engagement
+14443,53,93,1420.2,1,Regular Customers
+14446,0,293,1039.58,3,At Risk Customers
+14447,18,70,1163.23,1,Regular Customers
+14448,8,20,375.35,1,Regular Customers
+14449,18,258,907.1,3,At Risk Customers
+14450,180,40,483.25,0,Low Engagement
+14451,59,109,662.59,1,Regular Customers
+14452,10,62,264.44,1,Regular Customers
+14453,189,22,119.93,0,Low Engagement
+14457,310,4,113.64,0,Low Engagement
+14459,154,37,1837.92,1,Regular Customers
+14460,109,16,434.34,1,Regular Customers
+14461,147,180,2103.06,3,At Risk Customers
+14462,65,240,2004.02,3,At Risk Customers
+14463,97,6,529.62,1,Regular Customers
+14465,246,130,1058.6200000000001,0,Low Engagement
+14466,28,72,2272.4,1,Regular Customers
+14467,17,90,598.76,1,Regular Customers
+14470,11,43,461.19,1,Regular Customers
+14472,103,281,1936.84,3,At Risk Customers
+14473,73,7,234.34000000000003,1,Regular Customers
+14474,45,29,547.66,1,Regular Customers
+14475,71,42,925.85,1,Regular Customers
+14476,256,19,215.7,0,Low Engagement
+14477,19,10,1309.6,1,Regular Customers
+14479,253,18,316.25,0,Low Engagement
+14480,10,13,279.05,1,Regular Customers
+14481,164,30,636.51,0,Low Engagement
+14482,17,144,2068.15,3,At Risk Customers
+14483,281,9,137.1,0,Low Engagement
+14484,49,14,321.92,1,Regular Customers
+14485,38,47,165.75,1,Regular Customers
+14487,26,144,1196.33,1,Regular Customers
+14488,67,46,1064.28,1,Regular Customers
+14489,206,30,463.38,0,Low Engagement
+14491,174,17,340.93,0,Low Engagement
+14493,6,120,2383.2400000000002,1,Regular Customers
+14494,25,7,139.56,1,Regular Customers
+14495,50,6,123.8,1,Regular Customers
+14496,311,19,538.8100000000001,0,Low Engagement
+14497,308,29,475.37,0,Low Engagement
+14498,42,193,1957.32,3,At Risk Customers
+14499,25,194,815.32,3,At Risk Customers
+14500,87,7,356.85,1,Regular Customers
+14501,183,10,251.21,0,Low Engagement
+14502,19,624,2470.67,3,At Risk Customers
+14503,2,164,3543.26,3,At Risk Customers
+14504,46,107,673.26,1,Regular Customers
+14506,16,316,2012.17,3,At Risk Customers
+14507,23,96,1383.18,1,Regular Customers
+14508,21,57,276.42,1,Regular Customers
+14511,10,68,1314.81,1,Regular Customers
+14512,187,23,275.28,0,Low Engagement
+14513,100,12,455.59000000000003,1,Regular Customers
+14514,60,73,1055.35,1,Regular Customers
+14515,17,101,2102.09,1,Regular Customers
+14517,32,18,330.45,1,Regular Customers
+14518,63,16,174.37,1,Regular Customers
+14520,1,4,270.6,1,Regular Customers
+14522,23,17,974.54,1,Regular Customers
+14523,107,12,241.09,1,Regular Customers
+14524,31,203,1867.68,3,At Risk Customers
+14525,19,291,4332.2,3,At Risk Customers
+14528,36,18,364.21999999999997,1,Regular Customers
+14529,59,229,620.04,3,At Risk Customers
+14530,25,216,2925.91,3,At Risk Customers
+14532,235,64,932.85,0,Low Engagement
+14533,24,62,1949.72,1,Regular Customers
+14534,2,519,4447.05,3,At Risk Customers
+14535,59,330,2864.19,3,At Risk Customers
+14536,259,19,171.8,0,Low Engagement
+14537,57,10,355.56,1,Regular Customers
+14538,64,19,388.25,1,Regular Customers
+14539,15,32,537.48,1,Regular Customers
+14540,9,76,996.26,1,Regular Customers
+14541,58,111,1461.65,1,Regular Customers
+14542,185,5,103.25,0,Low Engagement
+14543,28,72,3630.33,1,Regular Customers
+14544,23,114,2024.45,1,Regular Customers
+14546,4,399,2578.09,3,At Risk Customers
+14547,3,366,4007.54,3,At Risk Customers
+14548,150,4,652.8,0,Low Engagement
+14549,310,56,289.24,0,Low Engagement
+14550,10,48,765.62,1,Regular Customers
+14551,17,10,186.23,1,Regular Customers
+14552,151,58,165.07,0,Low Engagement
+14553,18,113,859.27,1,Regular Customers
+14554,9,216,2381.04,3,At Risk Customers
+14555,56,21,324.14,1,Regular Customers
+14557,84,16,788.38,1,Regular Customers
+14560,6,74,2237.77,1,Regular Customers
+14561,75,69,1080.76,1,Regular Customers
+14562,3,423,5074.77,3,At Risk Customers
+14565,95,127,3099.12,3,At Risk Customers
+14566,110,4,1432.0,1,Regular Customers
+14567,56,33,1530.3600000000001,1,Regular Customers
+14569,0,12,227.39,1,Regular Customers
+14570,280,29,218.06,0,Low Engagement
+14572,2,270,2832.84,3,At Risk Customers
+14573,179,235,1653.42,3,At Risk Customers
+14576,371,1,35.400000000000006,0,Low Engagement
+14577,12,123,859.71,1,Regular Customers
+14578,2,24,168.63,1,Regular Customers
+14581,16,17,138.6,1,Regular Customers
+14582,40,6,114.11,1,Regular Customers
+14583,5,330,1052.55,3,At Risk Customers
+14584,168,100,1042.26,0,Low Engagement
+14585,49,29,157.05,1,Regular Customers
+14586,276,19,237.36,0,Low Engagement
+14587,18,383,1601.14,3,At Risk Customers
+14589,371,3,39.75,0,Low Engagement
+14591,14,197,1447.14,3,At Risk Customers
+14592,34,164,570.46,1,Regular Customers
+14593,21,152,617.99,1,Regular Customers
+14594,6,53,379.83,1,Regular Customers
+14595,19,102,1740.6,1,Regular Customers
+14597,10,55,883.15,1,Regular Customers
+14598,43,50,221.97,1,Regular Customers
+14600,305,25,393.33000000000004,0,Low Engagement
+14601,10,7,213.96,1,Regular Customers
+14603,274,2,660.0,0,Low Engagement
+14607,15,86,16569.5,2,High Value Customers
+14608,3,20,1785.15,1,Regular Customers
+14609,71,4,601.56,1,Regular Customers
+14616,242,3,406.08000000000004,0,Low Engagement
+14618,8,16,553.44,1,Regular Customers
+14619,245,20,394.44,0,Low Engagement
+14620,205,26,412.78000000000003,0,Low Engagement
+14621,0,92,1788.3600000000001,1,Regular Customers
+14622,184,21,320.58000000000004,0,Low Engagement
+14623,31,134,889.25,1,Regular Customers
+14624,56,13,225.85,1,Regular Customers
+14625,195,53,899.63,0,Low Engagement
+14626,23,122,2791.27,3,At Risk Customers
+14628,90,24,671.96,1,Regular Customers
+14629,3,152,959.01,1,Regular Customers
+14631,50,41,1006.98,1,Regular Customers
+14632,262,8,114.56,0,Low Engagement
+14633,265,20,344.90000000000003,0,Low Engagement
+14636,35,28,609.85,1,Regular Customers
+14638,50,16,443.6,1,Regular Customers
+14639,51,172,2984.49,3,At Risk Customers
+14640,23,106,2125.08,1,Regular Customers
+14641,21,7,110.46,1,Regular Customers
+14642,58,2,96.12,1,Regular Customers
+14643,169,31,693.8100000000001,0,Low Engagement
+14644,67,26,830.76,1,Regular Customers
+14645,156,30,597.09,0,Low Engagement
+14647,200,30,243.22,0,Low Engagement
+14649,4,199,1417.29,3,At Risk Customers
+14651,66,102,654.6,1,Regular Customers
+14652,76,29,114.18,1,Regular Customers
+14653,0,237,1947.55,3,At Risk Customers
+14655,7,49,1932.23,1,Regular Customers
+14656,168,80,291.05,0,Low Engagement
+14657,17,126,848.22,1,Regular Customers
+14658,4,29,247.15,1,Regular Customers
+14659,8,253,2529.93,3,At Risk Customers
+14660,86,30,285.74,1,Regular Customers
+14661,26,4,107.95,1,Regular Customers
+14662,28,168,771.17,1,Regular Customers
+14664,19,99,637.89,1,Regular Customers
+14665,60,90,1835.7,1,Regular Customers
+14666,23,14,195.25,1,Regular Customers
+14667,10,573,9241.2,2,High Value Customers
+14669,241,170,1269.99,0,Low Engagement
+14670,279,132,411.53,0,Low Engagement
+14672,234,61,765.55,0,Low Engagement
+14673,2,74,1736.4,1,Regular Customers
+14675,15,102,604.75,1,Regular Customers
+14676,30,42,2548.2400000000002,1,Regular Customers
+14681,70,7,498.95,1,Regular Customers
+14682,187,2,52.0,0,Low Engagement
+14684,25,421,1236.28,3,At Risk Customers
+14687,106,15,628.38,1,Regular Customers
+14688,7,327,5630.87,3,At Risk Customers
+14689,208,13,112.8,0,Low Engagement
+14690,43,50,371.7,1,Regular Customers
+14691,30,71,2114.33,1,Regular Customers
+14692,136,68,591.55,1,Regular Customers
+14693,264,8,172.9,0,Low Engagement
+14696,3,130,2078.95,1,Regular Customers
+14697,217,22,188.60999999999999,0,Low Engagement
+14698,1,210,1250.76,3,At Risk Customers
+14699,213,8,109.13000000000001,0,Low Engagement
+14700,31,115,2235.3,1,Regular Customers
+14701,10,335,2549.37,3,At Risk Customers
+14702,0,347,3292.14,3,At Risk Customers
+14703,14,22,318.17,1,Regular Customers
+14704,10,415,1546.91,3,At Risk Customers
+14705,198,1,179.0,0,Low Engagement
+14708,2,28,1126.37,1,Regular Customers
+14709,14,196,4921.04,3,At Risk Customers
+14710,13,139,606.13,1,Regular Customers
+14711,9,357,2868.8,3,At Risk Customers
+14712,28,25,917.07,1,Regular Customers
+14713,8,339,2666.36,3,At Risk Customers
+14714,23,10,160.19,1,Regular Customers
+14715,24,71,867.38,1,Regular Customers
+14716,42,55,329.68,1,Regular Customers
+14719,1,237,1602.13,3,At Risk Customers
+14720,5,37,663.81,1,Regular Customers
+14722,146,29,187.92000000000002,0,Low Engagement
+14723,9,278,1158.3,3,At Risk Customers
+14725,24,52,718.08,1,Regular Customers
+14727,273,10,268.58,0,Low Engagement
+14729,373,71,313.49,0,Low Engagement
+14730,0,501,2005.06,3,At Risk Customers
+14731,46,45,380.02,1,Regular Customers
+14732,7,147,2702.4900000000002,3,At Risk Customers
+14733,15,202,9585.91,2,High Value Customers
+14735,3,194,6065.69,3,At Risk Customers
+14737,3,17,1164.55,1,Regular Customers
+14738,42,54,1314.45,1,Regular Customers
+14739,3,60,3902.28,1,Regular Customers
+14740,196,89,1448.21,0,Low Engagement
+14741,11,59,1400.34,1,Regular Customers
+14744,15,26,1099.98,1,Regular Customers
+14745,112,69,1220.26,1,Regular Customers
+14747,248,18,328.2,0,Low Engagement
+14748,28,89,1415.75,1,Regular Customers
+14752,43,5,389.64,1,Regular Customers
+14753,86,30,563.15,1,Regular Customers
+14754,44,41,638.05,1,Regular Customers
+14755,9,235,5010.28,3,At Risk Customers
+14756,14,38,738.96,1,Regular Customers
+14757,74,19,420.5,1,Regular Customers
+14758,144,71,1484.06,1,Regular Customers
+14759,4,102,1625.97,1,Regular Customers
+14760,296,5,89.2,0,Low Engagement
+14761,58,11,255.9,1,Regular Customers
+14762,263,21,300.52,0,Low Engagement
+14764,46,6,278.3,1,Regular Customers
+14765,28,39,254.11,1,Regular Customers
+14766,7,135,2473.37,3,At Risk Customers
+14768,16,5,192.60000000000002,1,Regular Customers
+14770,231,52,876.42,0,Low Engagement
+14772,111,9,139.26,1,Regular Customers
+14775,57,60,1011.9,1,Regular Customers
+14776,50,117,2538.3,1,Regular Customers
+14778,126,35,730.86,1,Regular Customers
+14779,280,41,386.15,0,Low Engagement
+14780,54,27,447.68,1,Regular Customers
+14782,319,6,200.10000000000002,0,Low Engagement
+14784,25,15,289.99,1,Regular Customers
+14785,9,3,77.4,1,Regular Customers
+14788,6,30,679.4399999999999,1,Regular Customers
+14789,28,6,197.64,1,Regular Customers
+14790,16,46,745.06,1,Regular Customers
+14792,63,2,6.2,1,Regular Customers
+14793,20,14,228.99,1,Regular Customers
+14794,2,80,1319.91,1,Regular Customers
+14795,165,6,131.45000000000002,0,Low Engagement
+14798,52,12,173.74,1,Regular Customers
+14799,50,13,157.7,1,Regular Customers
+14800,47,385,4339.74,3,At Risk Customers
+14801,60,59,193.14,1,Regular Customers
+14803,161,44,845.55,0,Low Engagement
+14804,8,12,353.27,1,Regular Customers
+14805,14,47,554.65,1,Regular Customers
+14806,74,11,193.39000000000001,1,Regular Customers
+14808,39,235,2741.17,3,At Risk Customers
+14810,40,255,2087.88,3,At Risk Customers
+14813,369,30,155.43,0,Low Engagement
+14815,36,53,778.5,1,Regular Customers
+14816,196,4,271.85,0,Low Engagement
+14817,199,63,1110.34,0,Low Engagement
+14818,73,48,657.8,1,Regular Customers
+14819,63,13,272.07,1,Regular Customers
+14820,20,29,507.29,1,Regular Customers
+14821,366,2,48.800000000000004,0,Low Engagement
+14823,179,70,321.43,0,Low Engagement
+14824,9,29,1127.71,1,Regular Customers
+14825,3,121,2226.91,1,Regular Customers
+14828,196,17,2139.76,0,Low Engagement
+14829,28,42,697.55,1,Regular Customers
+14830,52,40,197.13,1,Regular Customers
+14834,17,67,1720.3,1,Regular Customers
+14836,9,6,102.44999999999999,1,Regular Customers
+14837,89,108,1649.5,1,Regular Customers
+14840,267,4,62.85,0,Low Engagement
+14841,52,138,3295.76,3,At Risk Customers
+14842,43,145,2824.69,3,At Risk Customers
+14844,63,130,3189.81,3,At Risk Customers
+14847,148,13,309.4,0,Low Engagement
+14849,21,388,7930.54,2,High Value Customers
+14850,311,21,325.75,0,Low Engagement
+14851,22,28,511.35,1,Regular Customers
+14852,57,143,2836.69,3,At Risk Customers
+14853,23,9,475.8,1,Regular Customers
+14854,77,127,2759.83,3,At Risk Customers
+14855,118,20,645.65,1,Regular Customers
+14856,35,66,1311.3799999999999,1,Regular Customers
+14857,59,60,1173.12,1,Regular Customers
+14859,12,58,1353.74,1,Regular Customers
+14860,18,11,170.32,1,Regular Customers
+14861,51,6,125.79,1,Regular Customers
+14862,25,48,841.1999999999999,1,Regular Customers
+14863,28,11,266.76,1,Regular Customers
+14865,6,4,52.2,1,Regular Customers
+14866,10,99,14389.9,2,High Value Customers
+14867,185,36,710.28,0,Low Engagement
+14868,2,144,2953.59,3,At Risk Customers
+14869,8,71,725.7,1,Regular Customers
+14870,261,13,327.25,0,Low Engagement
+14871,2,98,522.38,1,Regular Customers
+14873,209,28,519.68,0,Low Engagement
+14875,107,47,1465.3200000000002,1,Regular Customers
+14878,12,124,1485.54,1,Regular Customers
+14880,76,47,706.19,1,Regular Customers
+14881,19,17,255.4,1,Regular Customers
+14882,26,11,589.7,1,Regular Customers
+14883,18,53,761.59,1,Regular Customers
+14885,131,15,765.3199999999999,1,Regular Customers
+14886,252,18,364.8,0,Low Engagement
+14887,78,6,1862.0,1,Regular Customers
+14888,206,20,369.2,0,Low Engagement
+14889,335,10,135.9,0,Low Engagement
+14890,253,7,125.65,0,Low Engagement
+14891,147,33,554.38,1,Regular Customers
+14893,9,73,1237.8500000000001,1,Regular Customers
+14894,84,23,655.75,1,Regular Customers
+14895,7,498,11138.710000000001,2,High Value Customers
+14896,204,43,468.77000000000004,0,Low Engagement
+14897,7,55,1366.38,1,Regular Customers
+14898,22,116,1303.52,1,Regular Customers
+14901,10,96,1421.29,1,Regular Customers
+14902,25,20,332.66,1,Regular Customers
+14903,20,355,2810.63,3,At Risk Customers
+14904,1,69,1025.44,1,Regular Customers
+14905,157,17,616.15,0,Low Engagement
+14907,2,165,3501.1,3,At Risk Customers
+14908,73,9,277.8,1,Regular Customers
+14910,2,30,434.35,1,Regular Customers
+14912,16,27,867.85,1,Regular Customers
+14913,35,87,1227.43,1,Regular Customers
+14915,90,12,307.48,1,Regular Customers
+14916,70,77,1268.98,1,Regular Customers
+14918,115,45,1610.15,1,Regular Customers
+14920,212,57,977.77,0,Low Engagement
+14921,29,78,1316.07,1,Regular Customers
+14923,50,44,749.1,1,Regular Customers
+14924,245,10,310.05,0,Low Engagement
+14929,31,11,223.88,1,Regular Customers
+14930,108,128,2372.86,1,Regular Customers
+14931,4,41,1257.68,1,Regular Customers
+14932,365,17,363.53,0,Low Engagement
+14934,81,87,1890.94,1,Regular Customers
+14935,296,10,1784.71,0,Low Engagement
+14936,33,364,8137.02,2,High Value Customers
+14937,56,34,1621.88,1,Regular Customers
+14944,29,170,5900.25,3,At Risk Customers
+14946,13,3,100.9,1,Regular Customers
+14947,71,14,290.82,1,Regular Customers
+14948,22,63,1101.97,1,Regular Customers
+14950,18,19,371.2,1,Regular Customers
+14951,78,20,311.69,1,Regular Customers
+14952,59,138,8099.49,3,At Risk Customers
+14953,24,55,289.82,1,Regular Customers
+14954,11,85,336.17,1,Regular Customers
+14957,252,12,58.49,0,Low Engagement
+14958,146,42,499.68,1,Regular Customers
+14959,63,59,695.42,1,Regular Customers
+14960,7,27,221.27,1,Regular Customers
+14961,10,312,7044.68,3,At Risk Customers
+14962,270,5,126.7,0,Low Engagement
+14963,9,198,1487.8,3,At Risk Customers
+14964,246,13,206.21,0,Low Engagement
+14965,95,83,599.0,1,Regular Customers
+14966,14,38,191.32,1,Regular Customers
+14967,49,6,463.8,1,Regular Customers
+14968,29,37,147.59,1,Regular Customers
+14970,67,34,1592.06,1,Regular Customers
+14971,34,160,1116.57,1,Regular Customers
+14972,127,18,114.77,1,Regular Customers
+14973,106,32,1314.45,1,Regular Customers
+14974,36,21,114.39,1,Regular Customers
+14975,56,11,279.94,1,Regular Customers
+14976,56,72,790.86,1,Regular Customers
+14978,71,216,1931.42,3,At Risk Customers
+14981,245,8,102.12,0,Low Engagement
+14984,18,41,213.27,1,Regular Customers
+14985,197,87,296.75,0,Low Engagement
+14987,15,4,326.4,1,Regular Customers
+14988,211,40,334.54,0,Low Engagement
+14995,38,61,233.23000000000002,1,Regular Customers
+14997,45,26,546.1999999999999,1,Regular Customers
+14998,169,75,429.87,0,Low Engagement
+15000,47,77,490.52,1,Regular Customers
+15002,115,115,1641.76,1,Regular Customers
+15004,146,158,1246.32,1,Regular Customers
+15006,50,144,502.09,1,Regular Customers
+15007,158,12,156.91,0,Low Engagement
+15009,11,182,1261.78,3,At Risk Customers
+15010,35,20,308.94,1,Regular Customers
+15012,53,128,423.04,1,Regular Customers
+15014,42,35,260.17,1,Regular Customers
+15016,172,20,170.04,0,Low Engagement
+15017,33,20,125.58,1,Regular Customers
+15018,38,31,496.21000000000004,1,Regular Customers
+15019,266,70,266.0,0,Low Engagement
+15021,8,472,1914.82,3,At Risk Customers
+15022,11,135,905.04,1,Regular Customers
+15023,2,562,6802.76,2,High Value Customers
+15024,9,155,1661.33,3,At Risk Customers
+15025,32,72,377.01,1,Regular Customers
+15026,79,61,469.0,1,Regular Customers
+15027,30,35,1066.1499999999999,1,Regular Customers
+15028,7,48,627.13,1,Regular Customers
+15030,71,7,518.28,1,Regular Customers
+15031,3,111,668.14,1,Regular Customers
+15032,255,52,4959.1,0,Low Engagement
+15033,4,510,2586.67,3,At Risk Customers
+15034,15,394,4308.61,3,At Risk Customers
+15035,89,27,252.73000000000002,1,Regular Customers
+15036,71,127,465.55,1,Regular Customers
+15038,58,130,705.49,1,Regular Customers
+15041,169,67,180.35,0,Low Engagement
+15042,198,5,135.93,0,Low Engagement
+15043,30,3,537.0,1,Regular Customers
+15044,18,453,7700.2300000000005,2,High Value Customers
+15045,151,12,735.66,0,Low Engagement
+15046,8,206,5213.7699999999995,3,At Risk Customers
+15047,269,22,343.62,0,Low Engagement
+15048,64,97,384.05,1,Regular Customers
+15049,273,3,121.17000000000002,0,Low Engagement
+15050,24,78,1782.09,1,Regular Customers
+15051,22,143,1391.61,1,Regular Customers
+15052,318,30,215.78,0,Low Engagement
+15053,4,71,697.79,1,Regular Customers
+15054,11,114,302.1,1,Regular Customers
+15057,274,25,1489.5,0,Low Engagement
+15058,24,276,2124.9900000000002,3,At Risk Customers
+15059,40,237,1337.72,3,At Risk Customers
+15060,7,121,303.09,1,Regular Customers
+15062,70,57,987.86,1,Regular Customers
+15063,212,5,370.79999999999995,0,Low Engagement
+15065,37,155,3158.13,3,At Risk Customers
+15066,52,42,893.59,1,Regular Customers
+15067,77,82,1744.76,1,Regular Customers
+15068,45,104,553.36,1,Regular Customers
+15069,178,70,1109.53,0,Low Engagement
+15070,372,1,106.2,0,Low Engagement
+15071,93,26,982.07,1,Regular Customers
+15073,9,54,1043.41,1,Regular Customers
+15074,104,42,748.87,1,Regular Customers
+15075,77,27,773.03,1,Regular Customers
+15076,172,49,880.85,0,Low Engagement
+15078,6,440,9743.11,2,High Value Customers
+15079,212,47,895.61,0,Low Engagement
+15081,21,33,504.8,1,Regular Customers
+15083,256,5,88.2,0,Low Engagement
+15087,281,15,306.94,0,Low Engagement
+15088,20,57,1160.07,1,Regular Customers
+15089,9,145,2420.84,3,At Risk Customers
+15090,307,23,381.32,0,Low Engagement
+15091,67,30,480.71,1,Regular Customers
+15092,214,26,457.81,0,Low Engagement
+15093,17,108,4597.02,3,At Risk Customers
+15095,103,47,1370.6,1,Regular Customers
+15096,42,11,219.39000000000001,1,Regular Customers
+15097,3,25,248.08,1,Regular Customers
+15099,83,23,410.48,1,Regular Customers
+15100,333,3,876.0,0,Low Engagement
+15101,8,8,317.53,1,Regular Customers
+15103,30,35,703.36,1,Regular Customers
+15104,196,69,1027.44,0,Low Engagement
+15105,17,101,2298.93,1,Regular Customers
+15106,17,100,1422.52,1,Regular Customers
+15107,310,16,319.5,0,Low Engagement
+15108,141,60,1300.25,1,Regular Customers
+15109,245,28,484.95,0,Low Engagement
+15110,23,35,996.1,1,Regular Customers
+15111,28,84,1567.48,1,Regular Customers
+15113,9,100,3609.33,3,At Risk Customers
+15114,29,197,2760.56,3,At Risk Customers
+15115,17,21,340.11,1,Regular Customers
+15116,17,45,1352.75,1,Regular Customers
+15117,14,79,1551.78,1,Regular Customers
+15118,133,1,244.8,1,Regular Customers
+15119,245,14,266.4,0,Low Engagement
+15120,133,21,358.82,1,Regular Customers
+15121,49,28,457.72,1,Regular Customers
+15122,113,82,1633.78,1,Regular Customers
+15123,6,106,2199.31,1,Regular Customers
+15124,22,15,184.19,1,Regular Customers
+15125,24,127,11528.48,2,High Value Customers
+15127,65,16,406.53,1,Regular Customers
+15128,59,102,1471.0,1,Regular Customers
+15129,49,84,3447.4,1,Regular Customers
+15130,169,22,330.11,0,Low Engagement
+15132,17,52,977.9300000000001,1,Regular Customers
+15133,127,29,982.42,1,Regular Customers
+15134,14,73,1387.99,1,Regular Customers
+15135,238,9,139.05,0,Low Engagement
+15136,2,68,1286.7,1,Regular Customers
+15139,239,13,178.96,0,Low Engagement
+15140,51,80,2354.25,1,Regular Customers
+15142,45,26,498.74,1,Regular Customers
+15143,225,14,259.45,0,Low Engagement
+15144,7,217,6580.44,3,At Risk Customers
+15145,3,67,1194.73,1,Regular Customers
+15146,164,91,1327.16,0,Low Engagement
+15147,239,28,623.5,0,Low Engagement
+15148,10,20,301.29,1,Regular Customers
+15149,133,23,520.8000000000001,1,Regular Customers
+15150,16,343,5314.47,3,At Risk Customers
+15152,9,271,4745.69,3,At Risk Customers
+15153,30,22,329.25,1,Regular Customers
+15154,74,85,296.42,1,Regular Customers
+15156,0,55,961.49,1,Regular Customers
+15157,3,125,1936.07,1,Regular Customers
+15158,44,7,401.40000000000003,1,Regular Customers
+15160,356,4,158.16,0,Low Engagement
+15163,17,29,304.47,1,Regular Customers
+15164,68,103,843.05,1,Regular Customers
+15165,372,27,487.75,0,Low Engagement
+15167,320,41,163.0,0,Low Engagement
+15168,25,5,106.56,1,Regular Customers
+15171,330,5,1289.5,0,Low Engagement
+15172,8,110,1624.05,1,Regular Customers
+15174,322,11,135.75,0,Low Engagement
+15175,71,23,224.14,1,Regular Customers
+15178,259,3,40.5,0,Low Engagement
+15179,17,93,2206.95,1,Regular Customers
+15180,366,6,87.5,0,Low Engagement
+15181,65,16,689.4799999999999,1,Regular Customers
+15182,153,29,622.85,0,Low Engagement
+15184,28,63,406.76,1,Regular Customers
+15185,69,21,310.62,1,Regular Customers
+15186,13,19,411.41,1,Regular Customers
+15187,1,91,4777.18,3,At Risk Customers
+15189,0,212,16225.39,2,High Value Customers
+15192,119,51,1044.32,1,Regular Customers
+15193,60,19,499.32,1,Regular Customers
+15194,2,310,7616.53,2,High Value Customers
+15195,2,1,3861.0,1,Regular Customers
+15197,10,32,1079.6100000000001,1,Regular Customers
+15198,91,10,193.64,1,Regular Customers
+15199,58,13,1268.7,1,Regular Customers
+15201,86,69,1236.54,1,Regular Customers
+15203,25,142,1827.8,1,Regular Customers
+15204,356,9,316.58,0,Low Engagement
+15205,84,37,653.24,1,Regular Customers
+15206,9,9,420.29999999999995,1,Regular Customers
+15208,0,42,870.12,1,Regular Customers
+15210,224,20,331.18,0,Low Engagement
+15211,59,52,894.4100000000001,1,Regular Customers
+15212,240,5,101.8,0,Low Engagement
+15213,318,24,328.35,0,Low Engagement
+15214,1,110,1661.44,1,Regular Customers
+15215,46,35,734.94,1,Regular Customers
+15216,87,2,96.6,1,Regular Customers
+15218,10,166,5756.89,3,At Risk Customers
+15219,175,9,305.75,0,Low Engagement
+15220,51,117,1778.96,1,Regular Customers
+15221,365,5,403.25,0,Low Engagement
+15222,318,5,585.0,0,Low Engagement
+15223,225,20,755.75,0,Low Engagement
+15224,357,14,322.08,0,Low Engagement
+15225,233,23,409.40000000000003,0,Low Engagement
+15226,310,8,154.41,0,Low Engagement
+15227,36,58,1219.4,1,Regular Customers
+15228,65,125,3386.71,3,At Risk Customers
+15230,238,23,429.6,0,Low Engagement
+15232,112,31,612.06,1,Regular Customers
+15234,276,14,197.0,0,Low Engagement
+15235,217,143,2247.51,0,Low Engagement
+15236,298,15,321.05,0,Low Engagement
+15237,1,99,1412.32,1,Regular Customers
+15238,28,50,1071.99,1,Regular Customers
+15239,9,49,780.59,1,Regular Customers
+15240,44,78,1706.57,1,Regular Customers
+15241,66,110,1756.44,1,Regular Customers
+15243,73,22,316.68,1,Regular Customers
+15244,64,34,631.57,1,Regular Customers
+15245,133,89,2515.84,1,Regular Customers
+15246,237,33,514.15,0,Low Engagement
+15247,121,6,356.0,1,Regular Customers
+15249,31,350,6688.46,3,At Risk Customers
+15251,8,111,10484.99,2,High Value Customers
+15252,35,44,740.78,1,Regular Customers
+15253,15,53,918.1999999999999,1,Regular Customers
+15254,126,18,300.36,1,Regular Customers
+15255,66,47,890.85,1,Regular Customers
+15256,148,6,98.45,0,Low Engagement
+15257,282,7,317.15,0,Low Engagement
+15258,168,34,623.16,0,Low Engagement
+15260,99,77,1810.77,1,Regular Customers
+15261,134,19,254.82,1,Regular Customers
+15262,323,10,178.95000000000002,0,Low Engagement
+15263,106,12,156.51,1,Regular Customers
+15264,63,23,393.74,1,Regular Customers
+15265,150,82,1506.1200000000001,1,Regular Customers
+15266,337,6,119.3,0,Low Engagement
+15267,21,11,1717.36,1,Regular Customers
+15269,23,2,408.8,1,Regular Customers
+15270,15,41,2379.49,1,Regular Customers
+15271,6,274,2507.07,3,At Risk Customers
+15272,56,63,721.94,1,Regular Customers
+15274,3,47,716.57,1,Regular Customers
+15275,37,41,615.14,1,Regular Customers
+15276,65,52,135.31,1,Regular Customers
+15277,46,12,255.89999999999998,1,Regular Customers
+15279,354,19,290.51,0,Low Engagement
+15280,171,16,113.12,0,Low Engagement
+15281,58,139,2332.15,3,At Risk Customers
+15286,49,3,240.55,1,Regular Customers
+15287,21,20,486.69,1,Regular Customers
+15288,42,88,2306.52,1,Regular Customers
+15289,28,58,939.78,1,Regular Customers
+15290,4,204,7943.22,2,High Value Customers
+15291,25,103,4668.3,3,At Risk Customers
+15292,200,25,180.94,0,Low Engagement
+15296,50,194,3672.86,3,At Risk Customers
+15297,9,39,641.94,1,Regular Customers
+15298,1,192,4799.9,3,At Risk Customers
+15299,66,7,4507.01,1,Regular Customers
+15300,63,28,496.44,1,Regular Customers
+15301,50,243,5070.35,3,At Risk Customers
+15303,289,31,574.02,0,Low Engagement
+15304,60,23,694.4000000000001,1,Regular Customers
+15306,63,58,1174.35,1,Regular Customers
+15307,95,12,205.3,1,Regular Customers
+15308,273,19,310.47,0,Low Engagement
+15312,74,47,924.85,1,Regular Customers
+15313,109,1,52.0,1,Regular Customers
+15314,198,24,327.97,0,Low Engagement
+15315,63,37,570.5,1,Regular Customers
+15316,326,1,165.0,0,Low Engagement
+15318,3,33,312.62,1,Regular Customers
+15319,283,16,204.5,0,Low Engagement
+15320,43,36,267.13,1,Regular Customers
+15321,70,95,2748.31,1,Regular Customers
+15322,85,42,679.68,1,Regular Customers
+15325,103,49,162.29,1,Regular Customers
+15326,333,29,311.71,0,Low Engagement
+15327,52,10,208.75,1,Regular Customers
+15329,38,57,1049.7,1,Regular Customers
+15330,31,13,714.96,1,Regular Customers
+15332,365,35,1661.06,0,Low Engagement
+15333,207,16,1028.56,0,Low Engagement
+15334,156,99,351.67,0,Low Engagement
+15335,53,36,173.97,1,Regular Customers
+15339,65,86,574.07,1,Regular Customers
+15341,80,17,2020.52,1,Regular Customers
+15342,129,24,406.09,1,Regular Customers
+15343,86,21,364.5,1,Regular Customers
+15344,0,26,563.94,1,Regular Customers
+15345,45,20,393.54,1,Regular Customers
+15346,332,17,252.42000000000002,0,Low Engagement
+15347,365,5,201.60000000000002,0,Low Engagement
+15348,71,9,158.04,1,Regular Customers
+15349,157,72,473.81,0,Low Engagement
+15350,372,5,115.65,0,Low Engagement
+15351,11,225,1960.1100000000001,3,At Risk Customers
+15353,254,63,777.02,0,Low Engagement
+15355,28,14,277.05,1,Regular Customers
+15356,30,519,2766.5,3,At Risk Customers
+15358,4,551,8347.2,2,High Value Customers
+15360,39,13,427.93,1,Regular Customers
+15361,361,7,418.92,0,Low Engagement
+15363,372,16,326.0,0,Low Engagement
+15364,95,29,913.19,1,Regular Customers
+15365,25,114,2314.32,1,Regular Customers
+15366,74,44,602.51,1,Regular Customers
+15367,56,95,1877.59,1,Regular Customers
+15368,20,4,446.94000000000005,1,Regular Customers
+15370,40,94,2386.05,1,Regular Customers
+15372,136,27,2007.3999999999999,1,Regular Customers
+15373,7,132,2415.91,3,At Risk Customers
+15374,128,3,168.0,1,Regular Customers
+15376,39,117,1233.3600000000001,1,Regular Customers
+15379,168,194,3703.29,3,At Risk Customers
+15380,8,36,1690.2600000000002,1,Regular Customers
+15381,213,8,596.85,0,Low Engagement
+15382,14,302,5955.71,3,At Risk Customers
+15384,169,41,642.41,0,Low Engagement
+15385,39,12,316.88,1,Regular Customers
+15386,185,31,394.14,0,Low Engagement
+15388,269,10,140.54,0,Low Engagement
+15389,171,1,500.0,0,Low Engagement
+15392,4,84,1535.53,1,Regular Customers
+15393,15,12,231.86,1,Regular Customers
+15394,9,85,2183.54,1,Regular Customers
+15395,325,7,107.45,0,Low Engagement
+15396,112,14,288.18,1,Regular Customers
+15397,289,6,94.0,0,Low Engagement
+15398,15,73,1345.53,1,Regular Customers
+15399,0,50,815.77,1,Regular Customers
+15400,91,12,716.2,1,Regular Customers
+15402,148,42,626.77,1,Regular Customers
+15405,188,8,349.1,0,Low Engagement
+15406,30,53,510.71000000000004,1,Regular Customers
+15407,33,153,1056.44,1,Regular Customers
+15408,263,34,267.18,0,Low Engagement
+15410,83,122,3450.84,3,At Risk Customers
+15411,25,99,1358.88,1,Regular Customers
+15412,170,10,190.53,0,Low Engagement
+15414,9,39,774.9000000000001,1,Regular Customers
+15415,312,48,572.8100000000001,0,Low Engagement
+15416,64,192,3984.32,3,At Risk Customers
+15417,84,28,508.8,1,Regular Customers
+15419,24,8,135.86,1,Regular Customers
+15421,58,53,950.36,1,Regular Customers
+15422,322,6,97.7,0,Low Engagement
+15423,37,2,43.5,1,Regular Customers
+15424,253,17,383.34,0,Low Engagement
+15426,18,292,1447.39,3,At Risk Customers
+15427,32,306,1483.14,3,At Risk Customers
+15428,14,6,93.78,1,Regular Customers
+15429,26,82,397.35,1,Regular Customers
+15432,22,10,171.19,1,Regular Customers
+15433,213,41,533.3,0,Low Engagement
+15434,7,55,1041.48,1,Regular Customers
+15435,21,29,149.29,1,Regular Customers
+15436,11,329,1122.53,3,At Risk Customers
+15437,261,45,200.16,0,Low Engagement
+15438,130,25,156.57999999999998,1,Regular Customers
+15440,54,62,383.68,1,Regular Customers
+15442,248,2,594.0,0,Low Engagement
+15443,1,382,3236.91,3,At Risk Customers
+15444,8,219,1418.26,3,At Risk Customers
+15445,263,5,113.5,0,Low Engagement
+15447,330,9,155.17,0,Low Engagement
+15448,312,28,494.64,0,Low Engagement
+15449,25,60,974.52,1,Regular Customers
+15450,29,30,429.84,1,Regular Customers
+15452,29,58,538.73,1,Regular Customers
+15453,1,286,1388.37,3,At Risk Customers
+15454,361,25,179.1,0,Low Engagement
+15456,282,60,447.22,0,Low Engagement
+15457,261,58,237.07,0,Low Engagement
+15458,24,7,161.64,1,Regular Customers
+15460,353,58,216.76,0,Low Engagement
+15462,93,11,234.6,1,Regular Customers
+15463,28,7,126.14,1,Regular Customers
+15464,337,157,1048.85,0,Low Engagement
+15465,19,97,7354.62,3,At Risk Customers
+15466,84,57,334.53,1,Regular Customers
+15467,8,52,524.88,1,Regular Customers
+15468,50,24,467.51,1,Regular Customers
+15469,49,24,538.55,1,Regular Customers
+15471,1,77,469.48,1,Regular Customers
+15472,112,76,371.56,1,Regular Customers
+15473,13,11,1771.2,1,Regular Customers
+15475,76,29,454.10999999999996,1,Regular Customers
+15478,39,46,1441.42,1,Regular Customers
+15480,115,45,905.5,1,Regular Customers
+15482,15,98,11054.96,2,High Value Customers
+15483,160,88,233.81,0,Low Engagement
+15484,0,188,3594.31,3,At Risk Customers
+15485,29,86,2575.0,1,Regular Customers
+15488,92,2,91.32000000000001,1,Regular Customers
+15489,22,50,1134.28,1,Regular Customers
+15491,94,154,3100.09,3,At Risk Customers
+15492,27,35,659.4599999999999,1,Regular Customers
+15493,32,297,2001.8,3,At Risk Customers
+15494,20,125,1299.23,1,Regular Customers
+15497,17,15,1262.2,1,Regular Customers
+15498,2,512,13316.4,2,High Value Customers
+15500,7,68,1131.56,1,Regular Customers
+15502,15,213,10384.93,2,High Value Customers
+15503,362,70,147.09,0,Low Engagement
+15504,80,13,52.83,1,Regular Customers
+15505,52,97,3610.96,3,At Risk Customers
+15506,22,164,979.26,1,Regular Customers
+15507,171,46,492.36,0,Low Engagement
+15508,188,92,1000.27,0,Low Engagement
+15510,330,1,250.0,0,Low Engagement
+15511,11,160,909.23,1,Regular Customers
+15512,155,7,121.0,0,Low Engagement
+15513,32,308,14758.220000000001,2,High Value Customers
+15514,11,178,4139.46,3,At Risk Customers
+15516,44,15,62.43,1,Regular Customers
+15517,232,27,267.03,0,Low Engagement
+15518,63,214,1942.45,3,At Risk Customers
+15520,1,18,343.5,1,Regular Customers
+15521,39,185,3000.2,3,At Risk Customers
+15522,32,57,398.84,1,Regular Customers
+15523,83,10,412.01000000000005,1,Regular Customers
+15524,24,1,440.0,1,Regular Customers
+15525,1,178,825.92,1,Regular Customers
+15526,32,4,148.44,1,Regular Customers
+15527,18,163,2429.78,3,At Risk Customers
+15528,253,26,229.33,0,Low Engagement
+15530,21,108,1502.35,1,Regular Customers
+15531,7,228,2007.44,3,At Risk Customers
+15532,24,256,1580.93,3,At Risk Customers
+15533,18,83,807.57,1,Regular Customers
+15535,172,75,536.4,0,Low Engagement
+15537,162,24,110.92,0,Low Engagement
+15539,6,41,538.46,1,Regular Customers
+15540,10,15,213.3,1,Regular Customers
+15541,113,29,85.13000000000001,1,Regular Customers
+15543,287,28,127.86,0,Low Engagement
+15544,8,259,3546.71,3,At Risk Customers
+15545,53,81,292.71999999999997,1,Regular Customers
+15549,76,115,1693.26,1,Regular Customers
+15550,3,61,575.63,1,Regular Customers
+15551,36,29,436.06,1,Regular Customers
+15552,216,17,90.12,0,Low Engagement
+15553,59,56,437.23,1,Regular Customers
+15554,277,14,217.2,0,Low Engagement
+15556,23,31,279.77,1,Regular Customers
+15557,28,20,473.65000000000003,1,Regular Customers
+15561,11,27,800.59,1,Regular Customers
+15562,351,1,134.55,0,Low Engagement
+15563,21,113,1400.44,1,Regular Customers
+15565,49,8,173.16,1,Regular Customers
+15567,18,7,186.01,1,Regular Customers
+15568,2,53,758.29,1,Regular Customers
+15569,103,31,1375.71,1,Regular Customers
+15570,6,323,4165.52,3,At Risk Customers
+15571,11,57,650.4300000000001,1,Regular Customers
+15572,4,215,2552.86,3,At Risk Customers
+15573,31,104,607.45,1,Regular Customers
+15574,177,168,702.25,0,Low Engagement
+15576,37,45,940.6700000000001,1,Regular Customers
+15577,150,39,258.88,0,Low Engagement
+15578,161,13,127.1,0,Low Engagement
+15579,68,51,348.6,1,Regular Customers
+15581,120,149,3679.9700000000003,3,At Risk Customers
+15582,24,44,682.9100000000001,1,Regular Customers
+15584,23,123,725.11,1,Regular Customers
+15585,176,31,455.3,0,Low Engagement
+15587,49,9,913.6800000000001,1,Regular Customers
+15589,255,29,478.53000000000003,0,Low Engagement
+15592,46,24,388.58,1,Regular Customers
+15593,70,5,199.8,1,Regular Customers
+15594,15,103,1771.78,1,Regular Customers
+15596,100,77,1406.59,1,Regular Customers
+15597,34,22,324.57,1,Regular Customers
+15598,52,14,240.68,1,Regular Customers
+15599,26,52,761.74,1,Regular Customers
+15601,10,410,6776.56,2,High Value Customers
+15602,7,46,1297.8700000000001,1,Regular Customers
+15603,78,2,48.480000000000004,1,Regular Customers
+15604,51,17,216.39,1,Regular Customers
+15605,35,67,1198.23,1,Regular Customers
+15606,60,77,2920.16,1,Regular Customers
+15607,336,13,104.76,0,Low Engagement
+15608,27,60,1093.68,1,Regular Customers
+15609,183,16,298.48,0,Low Engagement
+15610,51,6,112.46000000000001,1,Regular Customers
+15611,9,43,1591.45,1,Regular Customers
+15612,35,6,195.15,1,Regular Customers
+15615,9,423,10399.74,2,High Value Customers
+15618,32,45,776.851,1,Regular Customers
+15619,10,3,336.40000000000003,1,Regular Customers
+15620,56,100,1553.18,1,Regular Customers
+15621,3,16,1293.03,1,Regular Customers
+15622,42,185,3709.56,3,At Risk Customers
+15623,140,19,301.03,1,Regular Customers
+15624,116,34,588.13,1,Regular Customers
+15625,103,64,1534.26,1,Regular Customers
+15626,74,49,675.8,1,Regular Customers
+15628,4,155,2870.2400000000002,3,At Risk Customers
+15630,44,60,1186.35,1,Regular Customers
+15632,15,167,3285.31,3,At Risk Customers
+15634,16,15,243.55,1,Regular Customers
+15636,89,25,724.76,1,Regular Customers
+15637,52,15,223.36,1,Regular Customers
+15639,133,25,425.32,1,Regular Customers
+15640,3,484,12515.66,2,High Value Customers
+15641,104,119,1887.2,1,Regular Customers
+15643,191,33,664.0,0,Low Engagement
+15644,165,238,813.0,3,At Risk Customers
+15645,18,52,612.01,1,Regular Customers
+15646,157,35,447.64000000000004,0,Low Engagement
+15648,203,25,657.35,0,Low Engagement
+15649,335,2,816.0,0,Low Engagement
+15651,36,32,646.3,1,Regular Customers
+15652,90,21,337.74,1,Regular Customers
+15653,92,6,877.4399999999999,1,Regular Customers
+15654,8,21,922.53,1,Regular Customers
+15655,242,34,560.67,0,Low Engagement
+15656,44,47,748.5,1,Regular Customers
+15657,22,1,30.0,1,Regular Customers
+15658,189,48,1024.1000000000001,0,Low Engagement
+15659,43,11,306.45,1,Regular Customers
+15660,24,90,1600.86,1,Regular Customers
+15661,316,5,309.8,0,Low Engagement
+15663,105,9,138.14,1,Regular Customers
+15664,50,17,386.43,1,Regular Customers
+15665,167,116,2242.01,1,Regular Customers
+15667,39,13,301.32,1,Regular Customers
+15668,217,1,76.32000000000001,0,Low Engagement
+15669,39,33,684.34,1,Regular Customers
+15670,296,12,173.05,0,Low Engagement
+15671,18,78,2657.13,1,Regular Customers
+15673,87,155,2881.02,3,At Risk Customers
+15674,72,114,2446.6,1,Regular Customers
+15675,80,21,323.69,1,Regular Customers
+15676,18,202,3435.76,3,At Risk Customers
+15677,48,33,657.23,1,Regular Customers
+15678,52,12,352.7,1,Regular Customers
+15679,23,110,781.28,1,Regular Customers
+15680,8,78,1333.68,1,Regular Customers
+15681,24,53,1426.16,1,Regular Customers
+15683,116,10,193.75,1,Regular Customers
+15687,8,166,2993.1,3,At Risk Customers
+15689,119,9,254.1,1,Regular Customers
+15690,3,19,239.76,1,Regular Customers
+15691,251,2,136.8,0,Low Engagement
+15692,27,12,191.04,1,Regular Customers
+15694,0,78,6479.4,3,At Risk Customers
+15695,266,22,409.98,0,Low Engagement
+15696,32,171,2736.46,3,At Risk Customers
+15699,17,18,309.65,1,Regular Customers
+15700,171,86,696.68,0,Low Engagement
+15701,1,237,1542.14,3,At Risk Customers
+15703,264,5,211.5,0,Low Engagement
+15704,139,117,2293.62,1,Regular Customers
+15705,200,6,143.1,0,Low Engagement
+15706,63,55,1060.56,1,Regular Customers
+15707,34,214,945.58,3,At Risk Customers
+15708,40,288,3364.2400000000002,3,At Risk Customers
+15709,283,6,133.25,0,Low Engagement
+15712,8,53,1072.3600000000001,1,Regular Customers
+15713,142,19,356.7,1,Regular Customers
+15714,11,35,330.88,1,Regular Customers
+15716,145,118,1118.81,1,Regular Customers
+15717,233,7,150.3,0,Low Engagement
+15720,23,128,598.73,1,Regular Customers
+15721,11,91,507.08,1,Regular Customers
+15722,35,69,2222.56,1,Regular Customers
+15723,364,41,203.1,0,Low Engagement
+15724,200,11,218.25,0,Low Engagement
+15725,14,32,415.25,1,Regular Customers
+15727,16,302,5178.96,3,At Risk Customers
+15729,212,5,85.0,0,Low Engagement
+15730,65,70,1120.88,1,Regular Customers
+15732,211,14,294.12,0,Low Engagement
+15733,282,10,162.3,0,Low Engagement
+15734,114,26,1339.45,1,Regular Customers
+15737,14,72,1205.1200000000001,1,Regular Customers
+15738,18,173,4812.42,3,At Risk Customers
+15739,65,8,449.12,1,Regular Customers
+15740,48,9,154.88,1,Regular Customers
+15743,15,88,784.46,1,Regular Customers
+15744,77,3,34.8,1,Regular Customers
+15745,18,62,1094.59,1,Regular Customers
+15746,133,28,196.88,1,Regular Customers
+15747,12,93,974.04,1,Regular Customers
+15748,39,21,149.31,1,Regular Customers
+15750,2,293,2465.48,3,At Risk Customers
+15752,39,411,2637.38,3,At Risk Customers
+15753,304,1,79.2,0,Low Engagement
+15754,50,28,458.57,1,Regular Customers
+15755,9,141,2364.25,3,At Risk Customers
+15756,60,192,532.96,1,Regular Customers
+15757,65,45,714.42,1,Regular Customers
+15758,24,9,205.25,1,Regular Customers
+15759,217,7,253.04,0,Low Engagement
+15762,64,37,583.75,1,Regular Customers
+15763,31,61,1086.92,1,Regular Customers
+15764,87,180,3279.97,3,At Risk Customers
+15766,63,11,315.06,1,Regular Customers
+15768,115,27,621.8299999999999,1,Regular Customers
+15773,5,10,635.6800000000001,1,Regular Customers
+15774,68,25,270.8,1,Regular Customers
+15775,244,7,104.9,0,Low Engagement
+15776,132,18,241.62,1,Regular Customers
+15777,240,21,1047.11,0,Low Engagement
+15780,183,29,475.28000000000003,0,Low Engagement
+15781,24,20,345.46,1,Regular Customers
+15782,9,43,2614.7400000000002,1,Regular Customers
+15783,10,14,246.3,1,Regular Customers
+15785,32,83,2328.9700000000003,1,Regular Customers
+15786,45,267,4932.2,3,At Risk Customers
+15787,25,206,948.05,3,At Risk Customers
+15789,357,25,351.3,0,Low Engagement
+15790,9,35,220.85,1,Regular Customers
+15791,43,75,1612.69,1,Regular Customers
+15793,14,12,965.61,1,Regular Customers
+15795,149,42,610.01,1,Regular Customers
+15796,0,133,2711.56,3,At Risk Customers
+15797,112,8,2207.4,1,Regular Customers
+15799,75,98,884.14,1,Regular Customers
+15800,106,119,699.08,1,Regular Customers
+15801,45,64,1063.95,1,Regular Customers
+15802,142,1,451.42,1,Regular Customers
+15803,50,8,415.82000000000005,1,Regular Customers
+15804,0,262,4206.39,3,At Risk Customers
+15805,22,301,5528.4800000000005,3,At Risk Customers
+15806,45,31,784.58,1,Regular Customers
+15807,49,48,903.9,1,Regular Customers
+15808,305,208,3734.9700000000003,0,Low Engagement
+15809,35,35,515.77,1,Regular Customers
+15810,78,89,1391.98,1,Regular Customers
+15811,21,133,2218.62,1,Regular Customers
+15812,106,41,1801.14,1,Regular Customers
+15813,207,40,1303.9099999999999,0,Low Engagement
+15814,16,72,1945.33,1,Regular Customers
+15815,63,49,2100.6,1,Regular Customers
+15819,48,123,1905.45,1,Regular Customers
+15820,319,17,206.98,0,Low Engagement
+15821,43,62,570.96,1,Regular Customers
+15822,2,33,885.47,1,Regular Customers
+15823,371,1,15.0,0,Low Engagement
+15825,171,20,532.94,0,Low Engagement
+15826,55,68,1654.31,1,Regular Customers
+15827,72,115,1836.0900000000001,1,Regular Customers
+15829,98,51,636.14,1,Regular Customers
+15830,37,39,576.0,1,Regular Customers
+15831,57,68,801.76,1,Regular Customers
+15832,253,54,836.79,0,Low Engagement
+15834,69,273,2233.75,3,At Risk Customers
+15835,43,50,954.09,1,Regular Customers
+15836,49,10,137.37,1,Regular Customers
+15837,64,24,391.98,1,Regular Customers
+15839,32,62,1048.49,1,Regular Customers
+15840,58,27,355.56,1,Regular Customers
+15841,72,47,1224.06,1,Regular Customers
+15843,303,8,118.95000000000002,0,Low Engagement
+15844,45,11,130.73999999999998,1,Regular Customers
+15845,17,138,3711.77,3,At Risk Customers
+15847,37,22,389.27,1,Regular Customers
+15850,18,97,238.85,1,Regular Customers
+15852,186,22,160.71,0,Low Engagement
+15853,51,30,110.8,1,Regular Customers
+15854,3,140,2974.65,3,At Risk Customers
+15855,136,80,712.24,1,Regular Customers
+15856,3,645,16387.57,2,High Value Customers
+15857,18,14,297.0,1,Regular Customers
+15858,15,191,1438.85,3,At Risk Customers
+15860,40,142,977.21,1,Regular Customers
+15861,11,546,3165.36,3,At Risk Customers
+15862,7,147,832.88,1,Regular Customers
+15863,25,18,68.84,1,Regular Customers
+15864,21,20,1936.3200000000002,1,Regular Customers
+15865,40,40,895.13,1,Regular Customers
+15866,100,45,230.53,1,Regular Customers
+15867,4,461,3812.64,3,At Risk Customers
+15869,276,15,149.64,0,Low Engagement
+15870,32,76,354.09000000000003,1,Regular Customers
+15872,14,128,360.93,1,Regular Customers
+15874,63,120,4405.88,3,At Risk Customers
+15877,1,129,493.28,1,Regular Customers
+15880,368,105,343.28000000000003,0,Low Engagement
+15881,311,29,501.39000000000004,0,Low Engagement
+15882,198,23,516.36,0,Low Engagement
+15883,1,49,396.48,1,Regular Customers
+15885,92,18,379.35,1,Regular Customers
+15886,59,12,181.09,1,Regular Customers
+15888,80,12,168.31,1,Regular Customers
+15889,156,93,446.87,0,Low Engagement
+15891,226,62,524.52,0,Low Engagement
+15894,252,41,263.55,0,Low Engagement
+15895,149,11,179.17,0,Low Engagement
+15897,193,24,222.05,0,Low Engagement
+15898,0,86,1388.88,1,Regular Customers
+15899,368,4,56.25,0,Low Engagement
+15900,23,51,351.11,1,Regular Customers
+15901,16,116,363.88,1,Regular Customers
+15903,9,74,5126.76,3,At Risk Customers
+15904,7,30,164.68,1,Regular Customers
+15906,19,150,1567.69,1,Regular Customers
+15907,3,249,967.45,3,At Risk Customers
+15909,173,7,191.94,0,Low Engagement
+15910,0,267,1232.18,3,At Risk Customers
+15912,177,19,264.62,0,Low Engagement
+15916,15,155,1528.09,1,Regular Customers
+15917,247,12,123.1,0,Low Engagement
+15918,190,40,334.23,0,Low Engagement
+15919,19,143,639.89,1,Regular Customers
+15920,153,60,167.5,0,Low Engagement
+15921,172,25,336.03000000000003,0,Low Engagement
+15922,372,11,369.5,0,Low Engagement
+15923,372,21,127.08,0,Low Engagement
+15925,193,12,207.15,0,Low Engagement
+15930,66,21,426.63,1,Regular Customers
+15932,3,115,2495.87,1,Regular Customers
+15933,20,74,1107.46,1,Regular Customers
+15935,238,12,416.86,0,Low Engagement
+15937,63,7,145.35,1,Regular Customers
+15938,111,18,404.58,1,Regular Customers
+15939,89,76,6115.01,3,At Risk Customers
+15940,310,1,35.8,0,Low Engagement
+15942,133,14,337.44,1,Regular Customers
+15944,276,6,325.1,0,Low Engagement
+15945,364,2,181.0,0,Low Engagement
+15947,82,29,1708.24,1,Regular Customers
+15948,7,60,955.24,1,Regular Customers
+15949,16,19,364.72,1,Regular Customers
+15950,31,98,1765.51,1,Regular Customers
+15951,8,41,708.22,1,Regular Customers
+15952,33,91,806.57,1,Regular Customers
+15953,14,98,1659.3799999999999,1,Regular Customers
+15955,23,183,4416.26,3,At Risk Customers
+15957,31,42,428.89,1,Regular Customers
+15958,73,7,104.35,1,Regular Customers
+15963,19,28,470.76,1,Regular Customers
+15965,16,122,845.64,1,Regular Customers
+15967,22,84,418.83,1,Regular Customers
+15969,2,20,666.1,1,Regular Customers
+15970,303,11,314.1,0,Low Engagement
+15971,17,35,4199.85,1,Regular Customers
+15973,366,4,307.82000000000005,0,Low Engagement
+15974,38,176,3442.15,3,At Risk Customers
+15975,83,24,371.01,1,Regular Customers
+15976,164,98,430.94,0,Low Engagement
+15977,16,65,1054.73,1,Regular Customers
+15978,76,49,1098.78,1,Regular Customers
+15980,88,43,2398.86,1,Regular Customers
+15981,24,97,3408.48,1,Regular Customers
+15983,21,113,1475.02,1,Regular Customers
+15984,2,270,2837.67,3,At Risk Customers
+15985,122,37,1142.42,1,Regular Customers
+15986,29,14,168.12,1,Regular Customers
+15987,11,140,1451.28,1,Regular Customers
+15988,18,27,158.03,1,Regular Customers
+15990,43,52,792.11,1,Regular Customers
+15992,3,3,41.989999999999995,1,Regular Customers
+15993,8,552,2797.57,3,At Risk Customers
+15994,54,35,427.07,1,Regular Customers
+15996,87,130,1060.68,1,Regular Customers
+15998,36,506,3089.97,3,At Risk Customers
+16000,2,9,12393.7,2,High Value Customers
+16003,29,103,2735.37,1,Regular Customers
+16005,11,218,615.39,3,At Risk Customers
+16006,210,8,101.4,0,Low Engagement
+16007,47,385,1701.94,3,At Risk Customers
+16008,23,33,478.78,1,Regular Customers
+16009,21,90,992.71,1,Regular Customers
+16010,245,86,407.5,0,Low Engagement
+16011,7,212,3362.71,3,At Risk Customers
+16012,34,94,1415.29,1,Regular Customers
+16014,37,145,662.38,1,Regular Customers
+16015,3,182,705.39,1,Regular Customers
+16016,2,235,1508.76,3,At Risk Customers
+16017,46,32,211.88,1,Regular Customers
+16018,38,28,408.90000000000003,1,Regular Customers
+16019,46,160,3786.2400000000002,3,At Risk Customers
+16020,16,46,851.01,1,Regular Customers
+16022,259,76,628.28,0,Low Engagement
+16023,45,101,719.81,1,Regular Customers
+16024,11,64,251.24,1,Regular Customers
+16025,29,28,439.65999999999997,1,Regular Customers
+16026,42,32,236.09,1,Regular Customers
+16027,91,16,934.62,1,Regular Customers
+16030,309,29,331.24,0,Low Engagement
+16031,91,100,548.94,1,Regular Customers
+16034,195,22,437.7,0,Low Engagement
+16036,86,55,758.92,1,Regular Customers
+16037,269,39,855.02,0,Low Engagement
+16038,7,26,471.78000000000003,1,Regular Customers
+16040,64,65,1313.55,1,Regular Customers
+16041,30,6,3166.4,1,Regular Customers
+16042,21,71,1197.27,1,Regular Customers
+16043,37,39,773.99,1,Regular Customers
+16045,119,83,1340.7,1,Regular Customers
+16048,372,8,256.44,0,Low Engagement
+16049,39,312,1111.79,3,At Risk Customers
+16050,173,10,137.9,0,Low Engagement
+16052,53,34,362.06,1,Regular Customers
+16053,32,84,1511.95,1,Regular Customers
+16054,144,70,783.9,1,Regular Customers
+16055,220,8,134.8,0,Low Engagement
+16056,44,68,664.85,1,Regular Customers
+16057,15,121,2263.12,1,Regular Customers
+16059,65,180,1459.8600000000001,3,At Risk Customers
+16062,9,64,1153.62,1,Regular Customers
+16063,259,23,335.32,0,Low Engagement
+16065,364,74,372.09,0,Low Engagement
+16066,16,102,1521.87,1,Regular Customers
+16070,21,33,852.15,1,Regular Customers
+16071,44,21,326.24,1,Regular Customers
+16072,287,23,584.3199999999999,0,Low Engagement
+16073,296,1,122.39999999999999,0,Low Engagement
+16076,2,129,2234.73,1,Regular Customers
+16078,283,1,79.2,0,Low Engagement
+16079,16,21,1352.0,1,Regular Customers
+16080,81,10,217.16,1,Regular Customers
+16081,55,227,2806.9,3,At Risk Customers
+16083,100,31,1317.62,1,Regular Customers
+16084,298,38,436.18,0,Low Engagement
+16085,22,167,981.51,1,Regular Customers
+16086,58,39,1121.39,1,Regular Customers
+16091,154,18,315.06,0,Low Engagement
+16092,114,51,817.86,1,Regular Customers
+16093,106,1,17.0,1,Regular Customers
+16094,11,63,1078.23,1,Regular Customers
+16096,263,12,320.62,0,Low Engagement
+16097,239,10,185.04999999999998,0,Low Engagement
+16098,87,67,2005.63,1,Regular Customers
+16099,49,39,731.9,1,Regular Customers
+16101,70,76,1290.7,1,Regular Customers
+16102,41,57,1842.14,1,Regular Customers
+16103,6,48,1429.64,1,Regular Customers
+16104,61,29,302.36,1,Regular Customers
+16105,248,13,336.96,0,Low Engagement
+16106,65,6,108.38,1,Regular Customers
+16107,17,31,3204.1600000000003,1,Regular Customers
+16108,84,48,842.5,1,Regular Customers
+16109,218,18,611.88,0,Low Engagement
+16110,44,354,1337.48,3,At Risk Customers
+16112,142,16,195.73999999999998,1,Regular Customers
+16113,182,30,161.38,0,Low Engagement
+16114,170,8,135.75000000000003,0,Low Engagement
+16115,9,284,1667.97,3,At Risk Customers
+16116,211,34,612.78,0,Low Engagement
+16117,189,30,232.21,0,Low Engagement
+16119,7,16,423.36,1,Regular Customers
+16120,58,30,1309.14,1,Regular Customers
+16121,56,212,867.11,3,At Risk Customers
+16122,72,38,684.4200000000001,1,Regular Customers
+16123,51,16,307.78,1,Regular Customers
+16124,316,11,249.0,0,Low Engagement
+16125,366,13,289.35,0,Low Engagement
+16126,28,117,6287.77,3,At Risk Customers
+16127,38,40,656.25,1,Regular Customers
+16128,17,89,1880.22,1,Regular Customers
+16131,51,78,3506.54,1,Regular Customers
+16133,3,338,14589.04,2,High Value Customers
+16134,21,35,618.09,1,Regular Customers
+16135,262,21,517.55,0,Low Engagement
+16136,59,37,709.38,1,Regular Customers
+16139,18,31,635.41,1,Regular Customers
+16140,65,35,725.18,1,Regular Customers
+16141,87,30,620.4,1,Regular Customers
+16142,249,37,535.34,0,Low Engagement
+16143,2,117,2424.94,1,Regular Customers
+16144,246,1,175.2,0,Low Engagement
+16145,8,224,3799.4900000000002,3,At Risk Customers
+16146,156,29,734.13,0,Low Engagement
+16147,133,22,375.0,1,Regular Customers
+16148,295,1,76.32000000000001,0,Low Engagement
+16149,4,18,280.52,1,Regular Customers
+16150,42,117,2053.02,1,Regular Customers
+16152,268,29,1829.04,0,Low Engagement
+16153,49,89,1824.23,1,Regular Customers
+16156,8,130,3122.04,3,At Risk Customers
+16157,15,18,656.69,1,Regular Customers
+16159,281,14,348.2,0,Low Engagement
+16160,64,20,1025.44,1,Regular Customers
+16161,1,474,5575.56,3,At Risk Customers
+16162,251,2,37.4,0,Low Engagement
+16163,231,6,856.6,0,Low Engagement
+16164,16,34,822.48,1,Regular Customers
+16168,10,98,3787.6,3,At Risk Customers
+16169,7,85,1822.97,1,Regular Customers
+16170,50,125,1885.05,1,Regular Customers
+16171,58,3,73.2,1,Regular Customers
+16172,94,69,1140.21,1,Regular Customers
+16173,15,84,1418.32,1,Regular Customers
+16174,125,23,1009.5500000000001,1,Regular Customers
+16175,93,58,1037.59,1,Regular Customers
+16177,49,15,331.95,1,Regular Customers
+16178,137,8,197.9,1,Regular Customers
+16179,60,11,215.83,1,Regular Customers
+16180,99,162,10254.18,2,High Value Customers
+16181,72,11,305.54,1,Regular Customers
+16182,71,28,6617.65,3,At Risk Customers
+16183,66,15,338.71000000000004,1,Regular Customers
+16184,63,45,1158.79,1,Regular Customers
+16185,16,31,529.41,1,Regular Customers
+16186,22,218,4006.94,3,At Risk Customers
+16187,31,295,6911.4400000000005,3,At Risk Customers
+16188,44,67,981.86,1,Regular Customers
+16189,15,11,215.48,1,Regular Customers
+16190,39,6,215.08,1,Regular Customers
+16191,2,134,5180.52,3,At Risk Customers
+16193,236,19,314.45,0,Low Engagement
+16198,74,15,400.68100000000004,1,Regular Customers
+16200,3,179,1080.6200000000001,3,At Risk Customers
+16201,2,111,1863.47,1,Regular Customers
+16202,360,18,365.27,0,Low Engagement
+16203,58,35,592.9,1,Regular Customers
+16204,22,57,405.71,1,Regular Customers
+16205,30,98,761.38,1,Regular Customers
+16206,54,63,537.0600000000001,1,Regular Customers
+16207,24,19,394.38,1,Regular Customers
+16208,44,66,664.26,1,Regular Customers
+16209,88,46,2262.62,1,Regular Customers
+16211,88,23,547.02,1,Regular Customers
+16212,18,41,690.34,1,Regular Customers
+16213,78,6,159.0,1,Regular Customers
+16214,170,44,1062.75,0,Low Engagement
+16215,80,14,242.35,1,Regular Customers
+16216,266,37,914.9300000000001,0,Low Engagement
+16217,234,15,304.25,0,Low Engagement
+16218,29,84,3084.68,1,Regular Customers
+16221,36,97,864.86,1,Regular Customers
+16222,317,137,846.72,0,Low Engagement
+16224,56,96,1295.3,1,Regular Customers
+16225,44,134,1096.32,1,Regular Customers
+16226,202,8,255.12,0,Low Engagement
+16227,224,6,314.22,0,Low Engagement
+16229,86,47,1010.6,1,Regular Customers
+16230,189,35,542.03,0,Low Engagement
+16232,43,37,990.88,1,Regular Customers
+16233,70,22,536.6800000000001,1,Regular Customers
+16235,40,46,867.31,1,Regular Customers
+16236,77,20,432.2,1,Regular Customers
+16239,56,19,414.2,1,Regular Customers
+16240,23,135,3718.8,3,At Risk Customers
+16241,9,662,2607.87,3,At Risk Customers
+16242,7,294,3603.21,3,At Risk Customers
+16243,33,51,409.1,1,Regular Customers
+16244,211,91,1522.75,0,Low Engagement
+16245,23,90,1413.66,1,Regular Customers
+16247,169,16,114.56,0,Low Engagement
+16248,61,7,152.94,1,Regular Customers
+16249,52,69,1800.07,1,Regular Customers
+16250,260,24,389.44,0,Low Engagement
+16253,66,123,3683.86,3,At Risk Customers
+16255,16,270,2619.91,3,At Risk Customers
+16256,266,13,752.4300000000001,0,Low Engagement
+16257,176,2,46.95,0,Low Engagement
+16258,44,135,5203.51,3,At Risk Customers
+16260,50,18,1035.45,1,Regular Customers
+16261,16,124,746.83,1,Regular Customers
+16265,8,258,5447.0,3,At Risk Customers
+16266,73,61,861.89,1,Regular Customers
+16268,70,45,667.65,1,Regular Customers
+16270,352,54,1141.24,0,Low Engagement
+16271,2,133,1429.24,1,Regular Customers
+16272,116,25,411.7,1,Regular Customers
+16274,372,67,357.95,0,Low Engagement
+16275,196,33,559.87,0,Low Engagement
+16276,176,6,810.6000000000001,0,Low Engagement
+16278,99,23,566.38,1,Regular Customers
+16279,20,107,1509.58,1,Regular Customers
+16281,71,17,2062.06,1,Regular Customers
+16282,339,11,168.3,0,Low Engagement
+16283,5,166,1570.81,3,At Risk Customers
+16284,30,109,823.97,1,Regular Customers
+16287,169,8,142.5,0,Low Engagement
+16292,121,17,302.25,1,Regular Customers
+16293,21,118,2248.9900000000002,1,Regular Customers
+16295,9,79,1328.55,1,Regular Customers
+16297,268,20,301.9,0,Low Engagement
+16298,22,27,598.2,1,Regular Customers
+16302,126,11,233.22,1,Regular Customers
+16303,25,162,5360.63,3,At Risk Customers
+16305,138,22,361.21999999999997,1,Regular Customers
+16306,213,41,632.27,0,Low Engagement
+16308,37,4,2560.0,1,Regular Customers
+16309,105,42,706.57,1,Regular Customers
+16311,17,37,616.26,1,Regular Customers
+16313,2,16,274.15000000000003,1,Regular Customers
+16315,330,14,226.37,0,Low Engagement
+16316,63,151,2938.91,3,At Risk Customers
+16317,119,69,1341.65,1,Regular Customers
+16318,34,19,328.15,1,Regular Customers
+16319,217,3,404.40000000000003,0,Low Engagement
+16320,171,56,1038.46,0,Low Engagement
+16321,71,12,373.65000000000003,1,Regular Customers
+16322,0,37,326.75,1,Regular Customers
+16323,195,1,207.50000000000003,0,Low Engagement
+16324,127,118,428.68,1,Regular Customers
+16325,46,18,594.24,1,Regular Customers
+16326,5,319,3110.96,3,At Risk Customers
+16327,13,319,3844.22,3,At Risk Customers
+16330,17,39,251.91,1,Regular Customers
+16332,27,153,1593.2,1,Regular Customers
+16337,36,10,151.05,1,Regular Customers
+16338,156,11,214.79999999999998,0,Low Engagement
+16339,283,20,109.95,0,Low Engagement
+16340,106,153,549.07,1,Regular Customers
+16341,24,77,1971.87,1,Regular Customers
+16342,74,15,322.41,1,Regular Customers
+16343,15,47,370.47999999999996,1,Regular Customers
+16344,157,2,101.10000000000001,0,Low Engagement
+16345,43,38,575.41,1,Regular Customers
+16347,10,92,887.65,1,Regular Customers
+16348,31,235,1469.45,3,At Risk Customers
+16349,290,9,53.5,0,Low Engagement
+16350,20,57,1116.47,1,Regular Customers
+16351,332,8,153.9,0,Low Engagement
+16352,17,28,494.44,1,Regular Customers
+16353,3,94,6675.71,3,At Risk Customers
+16354,62,39,395.8,1,Regular Customers
+16356,197,31,211.77,0,Low Engagement
+16357,32,34,658.88,1,Regular Customers
+16358,0,109,2027.5,1,Regular Customers
+16359,6,66,1750.92,1,Regular Customers
+16360,4,662,3512.53,3,At Risk Customers
+16361,9,106,896.66,1,Regular Customers
+16362,31,81,734.77,1,Regular Customers
+16363,52,5,109.36000000000001,1,Regular Customers
+16364,11,53,707.04,1,Regular Customers
+16365,17,51,1540.42,1,Regular Customers
+16366,18,18,327.3,1,Regular Customers
+16367,36,130,804.49,1,Regular Customers
+16368,1,76,497.43,1,Regular Customers
+16369,17,118,1553.66,1,Regular Customers
+16370,81,228,1320.56,3,At Risk Customers
+16372,32,97,367.93,1,Regular Customers
+16374,65,111,473.03000000000003,1,Regular Customers
+16376,8,125,987.01,1,Regular Customers
+16377,266,5,676.2,0,Low Engagement
+16378,246,23,362.95,0,Low Engagement
+16379,3,108,2157.4,1,Regular Customers
+16380,60,32,1780.59,1,Regular Customers
+16383,74,102,668.36,1,Regular Customers
+16384,89,33,584.5,1,Regular Customers
+16385,59,59,555.89,1,Regular Customers
+16386,28,88,317.2,1,Regular Customers
+16387,322,4,94.36,0,Low Engagement
+16389,52,34,1382.07,1,Regular Customers
+16392,269,45,221.19,0,Low Engagement
+16393,1,330,3046.21,3,At Risk Customers
+16394,56,83,1555.34,1,Regular Customers
+16395,60,210,1486.9,3,At Risk Customers
+16398,153,82,1705.8,1,Regular Customers
+16399,18,73,408.57,1,Regular Customers
+16400,94,29,303.93,1,Regular Customers
+16401,0,186,4098.32,3,At Risk Customers
+16402,264,60,299.6,0,Low Engagement
+16403,311,10,177.5,0,Low Engagement
+16404,69,23,443.05,1,Regular Customers
+16405,301,5,167.25,0,Low Engagement
+16406,18,62,163.07,1,Regular Customers
+16407,12,172,2126.93,3,At Risk Customers
+16409,35,232,2028.88,3,At Risk Customers
+16411,18,45,214.65,1,Regular Customers
+16412,53,35,151.83,1,Regular Customers
+16413,56,31,262.2,1,Regular Customers
+16414,21,7,126.25,1,Regular Customers
+16415,43,54,210.35,1,Regular Customers
+16416,26,71,1051.4,1,Regular Customers
+16418,44,102,675.27,1,Regular Customers
+16419,112,51,972.23,1,Regular Customers
+16423,24,18,346.12,1,Regular Customers
+16424,190,5,133.56,0,Low Engagement
+16425,301,21,302.7,0,Low Engagement
+16426,1,372,1908.25,3,At Risk Customers
+16427,262,9,241.06,0,Low Engagement
+16429,105,2,284.55,1,Regular Customers
+16430,56,6,300.85,1,Regular Customers
+16431,212,83,642.81,0,Low Engagement
+16432,63,8,287.4,1,Regular Customers
+16433,27,17,184.26,1,Regular Customers
+16434,28,109,1522.25,1,Regular Customers
+16438,5,132,798.35,1,Regular Customers
+16440,7,282,3640.67,3,At Risk Customers
+16441,66,24,381.2,1,Regular Customers
+16442,1,174,616.79,1,Regular Customers
+16444,45,84,654.67,1,Regular Customers
+16445,33,63,230.51,1,Regular Customers
+16447,135,36,259.01,1,Regular Customers
+16448,197,20,188.89000000000001,0,Low Engagement
+16449,197,40,707.69,0,Low Engagement
+16450,149,11,311.92,0,Low Engagement
+16451,87,14,266.97,1,Regular Customers
+16454,44,2,6.9,1,Regular Customers
+16455,63,99,1841.18,1,Regular Customers
+16456,98,111,2158.37,1,Regular Customers
+16457,217,9,208.36,0,Low Engagement
+16458,2,202,3482.7400000000002,3,At Risk Customers
+16460,27,135,814.72,1,Regular Customers
+16461,177,33,151.42,0,Low Engagement
+16462,73,3,136.0,1,Regular Customers
+16463,20,82,1422.4,1,Regular Customers
+16464,19,236,1314.68,3,At Risk Customers
+16466,33,148,1603.46,1,Regular Customers
+16468,73,2,74.9,1,Regular Customers
+16469,23,182,650.43,1,Regular Customers
+16470,51,170,762.39,1,Regular Customers
+16471,274,13,223.95000000000002,0,Low Engagement
+16473,164,18,316.11,0,Low Engagement
+16474,6,360,1871.5,3,At Risk Customers
+16475,87,28,544.3,1,Regular Customers
+16477,63,146,2494.46,3,At Risk Customers
+16478,24,17,331.0,1,Regular Customers
+16479,9,35,300.83,1,Regular Customers
+16480,75,53,769.29,1,Regular Customers
+16482,15,18,220.62,1,Regular Customers
+16483,191,19,139.35,0,Low Engagement
+16484,173,25,404.3,0,Low Engagement
+16485,76,42,363.65,1,Regular Customers
+16488,32,29,498.8,1,Regular Customers
+16491,46,39,731.5,1,Regular Customers
+16493,79,56,1351.63,1,Regular Customers
+16494,296,50,826.53,0,Low Engagement
+16495,2,97,684.41,1,Regular Customers
+16496,8,95,1599.52,1,Regular Customers
+16497,49,136,2965.69,3,At Risk Customers
+16498,160,15,100.97,0,Low Engagement
+16499,359,19,365.45,0,Low Engagement
+16500,4,11,400.86,1,Regular Customers
+16503,106,84,1431.93,1,Regular Customers
+16504,24,86,484.38,1,Regular Customers
+16505,31,4,777.6,1,Regular Customers
+16506,19,3,90.30000000000001,1,Regular Customers
+16509,296,13,363.7,0,Low Engagement
+16510,371,13,248.1,0,Low Engagement
+16511,21,169,950.26,1,Regular Customers
+16513,4,35,874.59,1,Regular Customers
+16515,51,113,1627.13,1,Regular Customers
+16516,29,6,101.69999999999999,1,Regular Customers
+16517,276,17,162.7,0,Low Engagement
+16518,60,40,484.32,1,Regular Customers
+16519,24,13,215.07999999999998,1,Regular Customers
+16520,185,156,1046.57,0,Low Engagement
+16523,1,290,9418.470000000001,2,High Value Customers
+16525,1,183,13027.45,2,High Value Customers
+16526,171,15,290.36,0,Low Engagement
+16527,80,14,228.06,1,Regular Customers
+16528,3,17,244.41,1,Regular Customers
+16529,189,30,455.25,0,Low Engagement
+16531,21,77,1244.59,1,Regular Customers
+16532,17,4,6748.8,3,At Risk Customers
+16533,18,177,1095.56,3,At Risk Customers
+16535,4,31,593.75,1,Regular Customers
+16536,109,55,548.97,1,Regular Customers
+16539,2,45,1388.81,1,Regular Customers
+16542,53,5,119.62,1,Regular Customers
+16545,164,3,339.3,0,Low Engagement
+16546,290,25,787.15,0,Low Engagement
+16550,108,251,2298.97,3,At Risk Customers
+16551,95,32,922.12,1,Regular Customers
+16552,242,17,379.73,0,Low Engagement
+16553,162,84,5719.82,3,At Risk Customers
+16554,41,52,837.1,1,Regular Customers
+16555,34,17,285.89,1,Regular Customers
+16556,66,207,3313.79,3,At Risk Customers
+16557,23,11,281.85,1,Regular Customers
+16558,0,460,8338.49,2,High Value Customers
+16560,26,56,841.41,1,Regular Customers
+16561,5,31,511.12,1,Regular Customers
+16563,53,19,1077.74,1,Regular Customers
+16565,363,3,173.7,0,Low Engagement
+16566,14,18,614.66,1,Regular Customers
+16567,193,35,865.6,0,Low Engagement
+16569,2,5,124.2,1,Regular Customers
+16570,14,126,3738.4,3,At Risk Customers
+16571,26,87,1421.69,1,Regular Customers
+16572,126,57,1009.6,1,Regular Customers
+16573,84,42,663.61,1,Regular Customers
+16574,70,28,451.44,1,Regular Customers
+16581,182,9,105.84,0,Low Engagement
+16582,112,6,313.62,1,Regular Customers
+16583,373,14,233.45,0,Low Engagement
+16584,79,28,936.08,1,Regular Customers
+16586,248,8,463.95,0,Low Engagement
+16587,231,13,225.15,0,Low Engagement
+16589,70,33,459.24,1,Regular Customers
+16591,68,10,213.5,1,Regular Customers
+16592,3,216,4113.68,3,At Risk Customers
+16593,50,27,330.03,1,Regular Customers
+16594,74,53,181.09,1,Regular Customers
+16595,60,85,360.16,1,Regular Customers
+16596,15,12,250.15,1,Regular Customers
+16597,3,7,90.04,1,Regular Customers
+16598,285,10,145.04999999999998,0,Low Engagement
+16600,3,62,813.52,1,Regular Customers
+16601,40,31,244.79999999999998,1,Regular Customers
+16602,35,29,528.08,1,Regular Customers
+16603,74,34,482.47,1,Regular Customers
+16607,17,172,3347.71,3,At Risk Customers
+16609,14,276,5493.46,3,At Risk Customers
+16610,218,6,75.66,0,Low Engagement
+16611,185,10,129.49,0,Low Engagement
+16612,32,66,1187.66,1,Regular Customers
+16613,69,30,618.59,1,Regular Customers
+16614,182,26,506.19,0,Low Engagement
+16616,14,33,500.42,1,Regular Customers
+16617,235,5,151.85,0,Low Engagement
+16618,30,96,2647.59,1,Regular Customers
+16619,263,14,226.21,0,Low Engagement
+16620,3,9,178.96,1,Regular Customers
+16621,51,29,813.48,1,Regular Customers
+16623,245,5,129.45,0,Low Engagement
+16624,80,48,810.5699999999999,1,Regular Customers
+16625,274,23,333.08,0,Low Engagement
+16626,0,179,4413.1,3,At Risk Customers
+16627,78,20,322.8,1,Regular Customers
+16628,29,117,2188.05,1,Regular Customers
+16629,73,64,417.73,1,Regular Customers
+16633,16,152,2883.1,3,At Risk Customers
+16634,222,9,217.9,0,Low Engagement
+16637,31,69,1154.47,1,Regular Customers
+16638,22,94,1680.72,1,Regular Customers
+16639,30,50,1257.51,1,Regular Customers
+16641,105,12,231.10000000000002,1,Regular Customers
+16642,4,34,688.33,1,Regular Customers
+16643,245,27,487.51,0,Low Engagement
+16644,177,62,833.78,0,Low Engagement
+16647,169,14,214.06,0,Low Engagement
+16648,42,19,290.65999999999997,1,Regular Customers
+16650,71,24,518.42,1,Regular Customers
+16652,58,118,6773.97,3,At Risk Customers
+16653,15,69,1212.66,1,Regular Customers
+16654,140,29,601.27,1,Regular Customers
+16655,17,261,3794.52,3,At Risk Customers
+16656,21,73,8625.8,2,High Value Customers
+16657,9,208,933.62,3,At Risk Customers
+16658,367,8,123.24,0,Low Engagement
+16659,188,2,39.12,0,Low Engagement
+16660,15,16,1267.6499999999999,1,Regular Customers
+16665,361,9,135.39999999999998,0,Low Engagement
+16666,18,32,118.98,1,Regular Customers
+16667,67,53,570.13,1,Regular Customers
+16668,14,20,306.71999999999997,1,Regular Customers
+16669,23,160,1374.8700000000001,1,Regular Customers
+16670,16,252,4095.9,3,At Risk Customers
+16671,27,6,1692.27,1,Regular Customers
+16672,1,114,8134.9400000000005,3,At Risk Customers
+16674,54,98,319.61,1,Regular Customers
+16676,33,89,1592.1200000000001,1,Regular Customers
+16678,2,163,3109.99,3,At Risk Customers
+16679,365,3,129.75,0,Low Engagement
+16680,42,10,183.7,1,Regular Customers
+16681,72,44,1770.34,1,Regular Customers
+16682,4,30,1028.0,1,Regular Customers
+16685,60,62,324.24,1,Regular Customers
+16686,46,585,3062.83,3,At Risk Customers
+16688,0,62,1260.86,1,Regular Customers
+16689,75,13,422.59999999999997,1,Regular Customers
+16690,71,12,225.57999999999998,1,Regular Customers
+16692,255,3,1276.0,0,Low Engagement
+16693,68,60,482.01,1,Regular Customers
+16696,134,10,657.9000000000001,1,Regular Customers
+16697,240,21,112.75,0,Low Engagement
+16698,226,5,1998.0,0,Low Engagement
+16700,8,308,5076.55,3,At Risk Customers
+16701,8,144,5398.3,3,At Risk Customers
+16705,0,270,14034.99,2,High Value Customers
+16706,36,123,531.35,1,Regular Customers
+16708,45,27,656.63,1,Regular Customers
+16709,84,79,3029.87,1,Regular Customers
+16710,18,402,2483.04,3,At Risk Customers
+16711,2,22,1651.03,1,Regular Customers
+16712,8,447,3645.43,3,At Risk Customers
+16713,18,624,6923.13,2,High Value Customers
+16714,218,93,1161.53,0,Low Engagement
+16715,77,19,301.71999999999997,1,Regular Customers
+16716,266,2,901.2,0,Low Engagement
+16717,23,199,3858.38,3,At Risk Customers
+16718,368,45,623.75,0,Low Engagement
+16719,14,201,1790.42,3,At Risk Customers
+16720,25,27,155.24,1,Regular Customers
+16721,261,37,292.47,0,Low Engagement
+16722,16,225,4730.81,3,At Risk Customers
+16723,90,43,589.15,1,Regular Customers
+16725,301,151,781.02,0,Low Engagement
+16726,25,185,1382.02,3,At Risk Customers
+16727,363,46,272.82,0,Low Engagement
+16728,45,269,1054.67,3,At Risk Customers
+16729,37,660,7239.92,2,High Value Customers
+16730,51,82,743.11,1,Regular Customers
+16732,31,28,603.75,1,Regular Customers
+16734,51,53,650.51,1,Regular Customers
+16735,78,125,2300.56,1,Regular Customers
+16737,52,1,417.59999999999997,1,Regular Customers
+16738,297,1,3.75,0,Low Engagement
+16739,176,13,323.0,0,Low Engagement
+16742,46,1,464.9,1,Regular Customers
+16743,28,191,2238.09,3,At Risk Customers
+16744,10,242,1304.76,3,At Risk Customers
+16745,86,357,7194.3,2,High Value Customers
+16746,4,449,6697.66,2,High Value Customers
+16747,37,42,836.06,1,Regular Customers
+16748,17,69,1515.9,1,Regular Customers
+16750,44,95,623.93,1,Regular Customers
+16751,30,25,1764.72,1,Regular Customers
+16752,372,9,207.5,0,Low Engagement
+16753,57,34,223.92000000000002,1,Regular Customers
+16754,371,2,2002.4,0,Low Engagement
+16755,113,170,1496.83,3,At Risk Customers
+16756,214,13,239.4,0,Low Engagement
+16757,318,7,106.83000000000001,0,Low Engagement
+16758,64,22,369.34000000000003,1,Regular Customers
+16759,7,42,789.79,1,Regular Customers
+16761,96,13,316.62,1,Regular Customers
+16762,19,89,1501.38,1,Regular Customers
+16763,198,23,611.85,0,Low Engagement
+16765,293,1,34.0,0,Low Engagement
+16766,272,34,1145.6,0,Low Engagement
+16767,30,222,5580.6,3,At Risk Customers
+16768,47,54,478.09000000000003,1,Regular Customers
+16769,259,40,380.39,0,Low Engagement
+16770,57,145,770.1,1,Regular Customers
+16771,32,255,2246.81,3,At Risk Customers
+16773,56,26,171.59,1,Regular Customers
+16774,67,48,661.52,1,Regular Customers
+16775,9,158,1695.66,3,At Risk Customers
+16776,59,76,388.28,1,Regular Customers
+16777,79,50,226.35,1,Regular Customers
+16778,73,16,245.94,1,Regular Customers
+16779,1,333,10629.720000000001,2,High Value Customers
+16780,99,60,425.19,1,Regular Customers
+16781,371,17,311.25,0,Low Engagement
+16782,9,190,2279.9,3,At Risk Customers
+16784,19,3,107.6,1,Regular Customers
+16788,122,155,597.48,1,Regular Customers
+16789,7,5,80.8,1,Regular Customers
+16790,3,93,1545.6200000000001,1,Regular Customers
+16791,28,320,1721.78,3,At Risk Customers
+16792,281,12,110.38000000000001,0,Low Engagement
+16793,56,16,243.84,1,Regular Customers
+16794,0,285,1222.71,3,At Risk Customers
+16795,364,66,414.88,0,Low Engagement
+16796,88,18,305.62,1,Regular Customers
+16800,10,164,1201.49,1,Regular Customers
+16801,162,76,1619.73,0,Low Engagement
+16803,64,24,332.3,1,Regular Customers
+16804,22,60,536.99,1,Regular Customers
+16805,173,98,460.59,0,Low Engagement
+16806,102,103,801.49,1,Regular Customers
+16807,142,67,1121.59,1,Regular Customers
+16808,98,23,288.42,1,Regular Customers
+16809,22,149,914.69,1,Regular Customers
+16810,191,15,309.54,0,Low Engagement
+16811,4,28,547.07,1,Regular Customers
+16812,360,15,479.35,0,Low Engagement
+16813,7,449,1692.98,3,At Risk Customers
+16814,13,324,6509.1,3,At Risk Customers
+16816,102,28,417.06,1,Regular Customers
+16817,2,86,1604.75,1,Regular Customers
+16818,10,188,3349.57,3,At Risk Customers
+16820,95,26,497.61,1,Regular Customers
+16823,226,38,358.38,0,Low Engagement
+16824,15,26,460.64,1,Regular Customers
+16825,38,28,775.1800000000001,1,Regular Customers
+16826,50,22,341.7,1,Regular Customers
+16828,92,8,128.5,1,Regular Customers
+16829,156,11,197.22,0,Low Engagement
+16830,38,23,325.91,1,Regular Customers
+16832,183,12,199.15,0,Low Engagement
+16833,0,47,1106.53,1,Regular Customers
+16834,227,24,413.46,0,Low Engagement
+16835,127,10,180.85,1,Regular Customers
+16836,39,11,251.87,1,Regular Customers
+16837,30,165,3170.98,3,At Risk Customers
+16838,196,25,588.85,0,Low Engagement
+16839,8,266,16594.35,2,High Value Customers
+16841,36,116,1869.82,1,Regular Customers
+16842,100,63,1264.19,1,Regular Customers
+16843,42,378,10196.57,2,High Value Customers
+16846,49,11,214.32,1,Regular Customers
+16847,42,12,193.44,1,Regular Customers
+16848,52,14,281.42,1,Regular Customers
+16849,186,8,124.57,0,Low Engagement
+16850,333,19,332.41,0,Low Engagement
+16851,3,20,342.45,1,Regular Customers
+16852,9,9,144.91000000000003,1,Regular Customers
+16855,23,19,328.4,1,Regular Customers
+16856,14,2,35.400000000000006,1,Regular Customers
+16858,368,10,375.69000000000005,0,Low Engagement
+16859,144,52,747.81,1,Regular Customers
+16861,59,6,173.76,1,Regular Customers
+16863,30,26,502.8,1,Regular Customers
+16866,140,11,207.73999999999998,1,Regular Customers
+16869,22,128,825.42,1,Regular Customers
+16871,21,137,2812.34,3,At Risk Customers
+16872,76,7,680.02,1,Regular Customers
+16873,4,279,7123.62,3,At Risk Customers
+16875,66,112,2095.53,1,Regular Customers
+16877,11,159,853.72,1,Regular Customers
+16878,83,3,13.3,1,Regular Customers
+16880,30,178,1519.08,3,At Risk Customers
+16881,66,1,432.0,1,Regular Customers
+16882,66,39,705.12,1,Regular Customers
+16883,186,38,276.73,0,Low Engagement
+16884,37,26,429.84000000000003,1,Regular Customers
+16885,14,101,471.51,1,Regular Customers
+16887,34,37,194.88,1,Regular Customers
+16889,194,135,1578.67,0,Low Engagement
+16891,1,203,809.7,3,At Risk Customers
+16892,0,99,525.54,1,Regular Customers
+16893,366,45,145.93,0,Low Engagement
+16895,64,69,219.14,1,Regular Customers
+16897,298,37,289.78,0,Low Engagement
+16898,25,162,508.81,1,Regular Customers
+16899,7,125,1281.56,1,Regular Customers
+16900,16,79,887.11,1,Regular Customers
+16902,115,44,1706.88,1,Regular Customers
+16903,28,60,373.24,1,Regular Customers
+16905,4,208,3102.43,3,At Risk Customers
+16906,81,93,579.77,1,Regular Customers
+16907,28,151,981.65,1,Regular Customers
+16909,71,18,379.14,1,Regular Customers
+16910,3,547,1510.06,3,At Risk Customers
+16912,28,101,2575.38,1,Regular Customers
+16913,289,8,113.44,0,Low Engagement
+16914,35,38,208.46,1,Regular Customers
+16915,8,57,621.6800000000001,1,Regular Customers
+16916,23,143,576.26,1,Regular Customers
+16917,276,9,391.52,0,Low Engagement
+16918,49,128,1068.82,1,Regular Customers
+16919,155,327,2596.45,3,At Risk Customers
+16921,60,60,169.79,1,Regular Customers
+16924,20,83,846.75,1,Regular Customers
+16926,370,14,230.25,0,Low Engagement
+16927,115,6,543.05,1,Regular Customers
+16928,79,209,2847.6,3,At Risk Customers
+16929,3,77,1295.39,1,Regular Customers
+16930,25,54,380.55,1,Regular Customers
+16932,52,53,161.94,1,Regular Customers
+16933,0,44,563.23,1,Regular Customers
+16934,54,62,950.9300000000001,1,Regular Customers
+16936,25,57,262.68,1,Regular Customers
+16938,8,241,2736.38,3,At Risk Customers
+16940,51,305,3049.88,3,At Risk Customers
+16942,12,281,1920.59,3,At Risk Customers
+16943,211,33,816.73,0,Low Engagement
+16945,21,249,4345.5,3,At Risk Customers
+16947,235,21,406.48,0,Low Engagement
+16948,138,19,435.02,1,Regular Customers
+16949,3,60,1286.27,1,Regular Customers
+16950,56,42,1178.56,1,Regular Customers
+16951,134,86,1277.75,1,Regular Customers
+16952,108,16,167.61,1,Regular Customers
+16953,29,1,20.8,1,Regular Customers
+16954,0,54,2085.08,1,Regular Customers
+16955,184,25,518.67,0,Low Engagement
+16956,17,16,308.74,1,Regular Customers
+16957,238,16,416.64,0,Low Engagement
+16959,86,7,117.35000000000001,1,Regular Customers
+16960,38,101,507.05,1,Regular Customers
+16961,115,14,234.17,1,Regular Customers
+16963,186,7,110.55000000000001,0,Low Engagement
+16965,226,26,201.19,0,Low Engagement
+16966,7,28,2154.97,1,Regular Customers
+16967,188,21,319.02,0,Low Engagement
+16968,3,31,439.43,1,Regular Customers
+16969,38,42,650.41,1,Regular Customers
+16971,37,41,357.21,1,Regular Customers
+16976,266,2,251.51999999999998,0,Low Engagement
+16978,77,39,344.33,1,Regular Customers
+16979,3,89,1852.0,1,Regular Customers
+16980,254,87,1078.96,0,Low Engagement
+16982,60,22,384.06,1,Regular Customers
+16983,12,148,1931.25,3,At Risk Customers
+16984,87,407,4481.35,3,At Risk Customers
+16985,16,120,5464.12,3,At Risk Customers
+16986,29,3,1873.2,1,Regular Customers
+16987,2,129,1625.05,1,Regular Customers
+16988,4,7,126.12,1,Regular Customers
+16989,6,12,1133.25,1,Regular Customers
+16990,218,1,179.0,0,Low Engagement
+16992,10,93,1614.31,1,Regular Customers
+16996,29,37,1456.96,1,Regular Customers
+16997,287,12,702.0,0,Low Engagement
+16998,149,4,295.0,0,Low Engagement
+16999,22,23,484.82,1,Regular Customers
+17001,0,169,3989.57,3,At Risk Customers
+17002,85,49,1493.73,1,Regular Customers
+17004,45,44,1412.94,1,Regular Customers
+17006,4,44,781.78,1,Regular Customers
+17007,50,52,889.9300000000001,1,Regular Customers
+17010,17,11,195.36,1,Regular Customers
+17011,29,15,270.9,1,Regular Customers
+17014,7,74,586.33,1,Regular Customers
+17015,28,217,1842.56,3,At Risk Customers
+17017,2,252,8694.26,2,High Value Customers
+17018,40,16,920.1,1,Regular Customers
+17019,10,234,1272.61,3,At Risk Customers
+17022,30,7,71.0,1,Regular Customers
+17024,44,3,95.85,1,Regular Customers
+17025,60,9,357.77,1,Regular Customers
+17026,184,4,154.82999999999998,0,Low Engagement
+17027,78,153,890.29,1,Regular Customers
+17029,110,2,716.0,1,Regular Customers
+17030,63,11,146.87,1,Regular Customers
+17031,11,22,380.35,1,Regular Customers
+17033,85,28,1030.14,1,Regular Customers
+17034,15,30,745.52,1,Regular Customers
+17035,245,28,433.53000000000003,0,Low Engagement
+17037,87,75,1267.32,1,Regular Customers
+17038,29,22,112.4,1,Regular Customers
+17040,137,15,449.73,1,Regular Customers
+17041,26,70,1081.57,1,Regular Customers
+17042,2,98,1044.3799999999999,1,Regular Customers
+17043,31,102,1735.18,1,Regular Customers
+17044,24,6,948.48,1,Regular Customers
+17045,112,22,339.44,1,Regular Customers
+17046,156,22,642.02,0,Low Engagement
+17047,84,65,1100.9,1,Regular Customers
+17048,117,43,925.35,1,Regular Customers
+17049,2,318,5659.9800000000005,3,At Risk Customers
+17050,95,316,3228.84,3,At Risk Customers
+17051,193,43,247.14000000000001,0,Low Engagement
+17052,27,92,413.75,1,Regular Customers
+17053,130,13,498.48,1,Regular Customers
+17054,27,83,1356.33,1,Regular Customers
+17058,81,62,1179.89,1,Regular Customers
+17059,29,516,3095.04,3,At Risk Customers
+17060,265,5,234.24,0,Low Engagement
+17061,73,99,5232.2300000000005,3,At Risk Customers
+17062,313,70,538.37,0,Low Engagement
+17063,20,78,1461.14,1,Regular Customers
+17064,58,62,859.35,1,Regular Customers
+17068,11,296,4552.14,3,At Risk Customers
+17069,27,143,2709.7000000000003,3,At Risk Customers
+17070,113,64,312.14,1,Regular Customers
+17071,27,140,2429.03,3,At Risk Customers
+17073,17,174,1446.09,3,At Risk Customers
+17075,17,77,834.12,1,Regular Customers
+17076,35,25,841.0799999999999,1,Regular Customers
+17078,35,28,378.2,1,Regular Customers
+17079,77,2,118.80000000000001,1,Regular Customers
+17080,21,8,287.62,1,Regular Customers
+17081,24,64,290.16,1,Regular Customers
+17082,32,81,2003.85,1,Regular Customers
+17083,108,52,1405.78,1,Regular Customers
+17084,34,162,2949.75,3,At Risk Customers
+17085,122,187,1566.65,3,At Risk Customers
+17086,6,96,2050.08,1,Regular Customers
+17088,27,115,1991.01,1,Regular Customers
+17090,3,63,2043.95,1,Regular Customers
+17091,2,195,3827.76,3,At Risk Customers
+17092,49,125,1777.78,1,Regular Customers
+17094,321,14,302.0,0,Low Engagement
+17095,22,74,1324.16,1,Regular Customers
+17096,14,48,1022.13,1,Regular Customers
+17097,1,211,954.42,3,At Risk Customers
+17100,17,65,971.74,1,Regular Customers
+17101,9,42,1621.73,1,Regular Customers
+17102,261,1,25.5,0,Low Engagement
+17105,158,90,665.78,0,Low Engagement
+17107,32,418,10815.43,2,High Value Customers
+17109,28,117,885.04,1,Regular Customers
+17110,164,12,163.29999999999998,0,Low Engagement
+17111,46,30,248.61,1,Regular Customers
+17114,5,127,808.62,1,Regular Customers
+17115,7,39,837.5,1,Regular Customers
+17117,287,9,116.19999999999999,0,Low Engagement
+17118,317,10,157.02,0,Low Engagement
+17119,2,35,606.91,1,Regular Customers
+17120,232,18,307.46,0,Low Engagement
+17122,118,7,138.32,1,Regular Customers
+17123,161,9,345.29999999999995,0,Low Engagement
+17124,184,32,298.89,0,Low Engagement
+17125,49,40,259.35,1,Regular Customers
+17126,151,260,1004.75,3,At Risk Customers
+17128,334,14,157.09,0,Low Engagement
+17131,4,134,2463.17,3,At Risk Customers
+17133,15,27,4892.240000000001,1,Regular Customers
+17134,106,24,425.0,1,Regular Customers
+17135,15,52,1139.73,1,Regular Customers
+17138,275,24,380.5,0,Low Engagement
+17139,15,478,10668.47,2,High Value Customers
+17140,246,20,465.32,0,Low Engagement
+17142,238,15,579.0,0,Low Engagement
+17144,0,48,984.57,1,Regular Customers
+17146,105,35,749.78,1,Regular Customers
+17147,22,81,1714.59,1,Regular Customers
+17148,51,9,124.88,1,Regular Customers
+17152,194,14,1689.5,0,Low Engagement
+17153,23,14,213.78,1,Regular Customers
+17154,74,23,329.34,1,Regular Customers
+17155,17,20,251.70000000000002,1,Regular Customers
+17157,7,13,319.0,1,Regular Customers
+17158,31,67,1266.97,1,Regular Customers
+17159,21,101,1538.88,1,Regular Customers
+17160,30,229,3518.03,3,At Risk Customers
+17162,28,104,1715.46,1,Regular Customers
+17163,21,5,293.1,1,Regular Customers
+17164,32,144,2467.35,3,At Risk Customers
+17165,283,10,158.68,0,Low Engagement
+17166,38,12,206.34,1,Regular Customers
+17169,57,54,835.78,1,Regular Customers
+17171,288,16,224.91,0,Low Engagement
+17172,78,15,317.76,1,Regular Customers
+17173,4,86,3766.6,1,Regular Customers
+17174,217,4,59.9,0,Low Engagement
+17175,43,63,1443.69,1,Regular Customers
+17176,201,15,306.13,0,Low Engagement
+17179,177,80,711.79,0,Low Engagement
+17180,55,128,796.03,1,Regular Customers
+17181,56,23,239.92000000000002,1,Regular Customers
+17183,7,73,3347.31,1,Regular Customers
+17186,46,2,144.0,1,Regular Customers
+17187,226,10,203.95,0,Low Engagement
+17188,10,84,2474.23,1,Regular Customers
+17189,105,61,384.40000000000003,1,Regular Customers
+17190,58,19,444.74,1,Regular Customers
+17191,27,237,2095.13,3,At Risk Customers
+17193,35,32,1699.3000000000002,1,Regular Customers
+17194,273,29,262.62,0,Low Engagement
+17197,29,29,1013.01,1,Regular Customers
+17198,23,96,692.22,1,Regular Customers
+17201,53,40,342.63,1,Regular Customers
+17203,35,152,3563.85,3,At Risk Customers
+17204,174,57,1564.56,0,Low Engagement
+17205,53,13,384.08,1,Regular Customers
+17206,52,7,204.24,1,Regular Customers
+17211,26,211,2317.2200000000003,3,At Risk Customers
+17212,252,4,226.85,0,Low Engagement
+17213,39,157,2781.23,3,At Risk Customers
+17214,59,103,1069.1200000000001,1,Regular Customers
+17217,233,9,113.5,0,Low Engagement
+17218,3,274,1960.72,3,At Risk Customers
+17219,31,25,114.23,1,Regular Customers
+17220,23,472,3198.25,3,At Risk Customers
+17221,6,63,335.13,1,Regular Customers
+17222,64,28,354.15,1,Regular Customers
+17223,309,49,426.79,0,Low Engagement
+17226,308,21,393.49,0,Low Engagement
+17227,18,47,939.32,1,Regular Customers
+17228,15,208,1906.09,3,At Risk Customers
+17229,95,47,318.76,1,Regular Customers
+17230,263,69,3638.41,0,Low Engagement
+17231,11,541,3174.32,3,At Risk Customers
+17232,2,36,421.52,1,Regular Customers
+17233,34,25,190.88,1,Regular Customers
+17234,182,14,149.89000000000001,0,Low Engagement
+17235,24,29,550.06,1,Regular Customers
+17236,12,105,916.13,1,Regular Customers
+17237,10,19,314.69,1,Regular Customers
+17238,2,566,3744.65,3,At Risk Customers
+17239,312,15,382.5,0,Low Engagement
+17242,107,40,1135.04,1,Regular Customers
+17243,0,400,8676.85,2,High Value Customers
+17244,52,31,954.9,1,Regular Customers
+17245,204,9,171.45,0,Low Engagement
+17247,14,55,282.19,1,Regular Customers
+17248,119,69,318.65,1,Regular Customers
+17250,3,57,384.52,1,Regular Customers
+17251,362,39,283.28000000000003,0,Low Engagement
+17252,116,87,353.86,1,Regular Customers
+17253,17,18,178.26,1,Regular Customers
+17254,4,112,272.44,1,Regular Customers
+17255,40,78,298.41,1,Regular Customers
+17256,106,16,240.0,1,Regular Customers
+17259,147,124,603.37,1,Regular Customers
+17262,51,12,1253.3600000000001,1,Regular Customers
+17263,207,23,63.440000000000005,0,Low Engagement
+17265,138,127,562.9,1,Regular Customers
+17266,1,80,310.64,1,Regular Customers
+17267,126,38,317.62,1,Regular Customers
+17268,107,6,763.64,1,Regular Customers
+17272,41,114,2148.63,1,Regular Customers
+17274,34,27,111.97999999999999,1,Regular Customers
+17277,227,69,1065.3500000000001,0,Low Engagement
+17278,240,15,246.04,0,Low Engagement
+17279,57,9,187.82999999999998,1,Regular Customers
+17282,129,94,1703.41,1,Regular Customers
+17284,59,292,1652.58,3,At Risk Customers
+17286,21,45,153.92,1,Regular Customers
+17287,25,124,1064.11,1,Regular Customers
+17288,8,142,1419.73,1,Regular Customers
+17289,31,111,944.41,1,Regular Customers
+17290,3,102,525.24,1,Regular Customers
+17291,307,1,550.8000000000001,0,Low Engagement
+17293,7,135,1875.1100000000001,1,Regular Customers
+17295,28,69,556.95,1,Regular Customers
+17297,16,51,131.78,1,Regular Customers
+17298,100,30,498.42,1,Regular Customers
+17299,11,57,669.11,1,Regular Customers
+17301,20,66,197.63,1,Regular Customers
+17302,14,79,1135.63,1,Regular Customers
+17303,360,53,250.04,0,Low Engagement
+17306,10,66,8631.31,2,High Value Customers
+17309,94,12,82.75,1,Regular Customers
+17311,77,55,1384.85,1,Regular Customers
+17312,138,14,644.3,1,Regular Customers
+17313,30,24,2328.84,1,Regular Customers
+17314,24,131,2527.92,3,At Risk Customers
+17315,1,473,6292.26,2,High Value Customers
+17317,45,9,2600.34,1,Regular Customers
+17320,99,73,1200.6200000000001,1,Regular Customers
+17321,7,107,700.86,1,Regular Customers
+17323,14,200,921.07,3,At Risk Customers
+17324,17,50,990.23,1,Regular Customers
+17325,279,6,96.8,0,Low Engagement
+17329,13,33,523.11,1,Regular Customers
+17330,22,6,363.9,1,Regular Customers
+17331,123,1,175.2,1,Regular Customers
+17333,85,28,494.25,1,Regular Customers
+17334,301,11,307.02,0,Low Engagement
+17337,150,543,2027.8700000000001,3,At Risk Customers
+17339,93,9,243.36,1,Regular Customers
+17340,29,407,12353.29,2,High Value Customers
+17341,156,183,781.36,1,Regular Customers
+17343,354,17,193.64,0,Low Engagement
+17344,45,32,160.57,1,Regular Customers
+17345,14,87,537.74,1,Regular Customers
+17346,3,500,2676.56,3,At Risk Customers
+17347,85,1,228.96,1,Regular Customers
+17348,14,215,1159.52,3,At Risk Customers
+17349,178,9,110.75,0,Low Engagement
+17350,7,71,1286.07,1,Regular Customers
+17351,35,27,587.15,1,Regular Customers
+17353,128,8,1740.0,1,Regular Customers
+17354,50,16,1393.06,1,Regular Customers
+17356,311,19,178.22,0,Low Engagement
+17357,23,45,388.14,1,Regular Customers
+17358,302,59,365.85,0,Low Engagement
+17359,10,15,127.86,1,Regular Customers
+17360,16,132,585.79,1,Regular Customers
+17361,48,29,488.2,1,Regular Customers
+17362,238,35,312.23,0,Low Engagement
+17364,0,411,4481.18,3,At Risk Customers
+17365,12,468,4801.56,3,At Risk Customers
+17367,237,34,168.4,0,Low Engagement
+17368,22,111,1912.67,1,Regular Customers
+17370,72,33,446.18,1,Regular Customers
+17371,16,87,423.89,1,Regular Customers
+17372,40,253,1342.68,3,At Risk Customers
+17373,39,57,646.92,1,Regular Customers
+17374,218,28,495.77,0,Low Engagement
+17375,198,69,400.1,0,Low Engagement
+17376,70,24,203.2,1,Regular Customers
+17377,23,418,4100.92,3,At Risk Customers
+17379,10,83,404.66,1,Regular Customers
+17382,64,2,65.4,1,Regular Customers
+17383,3,51,199.29,1,Regular Customers
+17384,18,15,336.4,1,Regular Customers
+17385,14,47,261.11,1,Regular Customers
+17386,7,28,2686.42,1,Regular Customers
+17387,19,78,784.11,1,Regular Customers
+17388,77,15,1259.56,1,Regular Customers
+17391,163,3,508.8,0,Low Engagement
+17392,306,62,457.91,0,Low Engagement
+17394,218,4,203.86999999999998,0,Low Engagement
+17396,38,27,7330.8,3,At Risk Customers
+17397,21,92,696.41,1,Regular Customers
+17398,114,38,653.38,1,Regular Customers
+17400,125,213,2129.96,3,At Risk Customers
+17402,4,59,2633.85,1,Regular Customers
+17403,35,33,281.62,1,Regular Customers
+17405,0,82,1031.41,1,Regular Customers
+17406,332,113,2200.42,0,Low Engagement
+17408,162,2,32.65,0,Low Engagement
+17409,184,13,771.85,0,Low Engagement
+17410,15,64,1214.72,1,Regular Customers
+17411,11,41,778.94,1,Regular Customers
+17412,2,66,1258.06,1,Regular Customers
+17414,43,6,778.0,1,Regular Customers
+17415,79,14,507.84,1,Regular Customers
+17416,29,269,6893.42,3,At Risk Customers
+17418,41,30,463.46000000000004,1,Regular Customers
+17419,10,206,4226.57,3,At Risk Customers
+17420,49,30,598.83,1,Regular Customers
+17422,15,117,1979.37,1,Regular Customers
+17423,45,26,698.41,1,Regular Customers
+17425,18,43,759.17,1,Regular Customers
+17426,7,271,5037.26,3,At Risk Customers
+17427,71,2,100.8,1,Regular Customers
+17428,0,328,17256.85,2,High Value Customers
+17429,127,39,524.9200000000001,1,Regular Customers
+17430,32,14,265.76,1,Regular Customers
+17431,312,43,403.3,0,Low Engagement
+17432,17,48,365.76,1,Regular Customers
+17433,87,54,303.15999999999997,1,Regular Customers
+17434,1,134,2373.82,3,At Risk Customers
+17436,1,9,216.29999999999998,1,Regular Customers
+17438,253,17,388.45000000000005,0,Low Engagement
+17440,156,5,186.42000000000002,0,Low Engagement
+17442,36,135,2248.56,1,Regular Customers
+17443,219,1,534.24,0,Low Engagement
+17444,147,135,2940.04,3,At Risk Customers
+17446,176,9,120.9,0,Low Engagement
+17447,39,36,541.53,1,Regular Customers
+17449,1,277,2520.86,3,At Risk Customers
+17451,0,100,1721.4,1,Regular Customers
+17453,17,19,486.71999999999997,1,Regular Customers
+17454,191,61,517.53,0,Low Engagement
+17455,203,8,131.7,0,Low Engagement
+17456,364,17,249.86,0,Low Engagement
+17457,126,19,1737.7,1,Regular Customers
+17458,14,54,316.5,1,Regular Customers
+17459,42,111,657.3,1,Regular Customers
+17460,93,29,622.4300000000001,1,Regular Customers
+17461,22,111,757.46,1,Regular Customers
+17462,59,27,675.69,1,Regular Customers
+17463,15,215,1896.41,3,At Risk Customers
+17464,157,9,289.96000000000004,0,Low Engagement
+17466,9,41,763.28,1,Regular Customers
+17468,9,5,137.0,1,Regular Customers
+17469,15,88,1870.97,1,Regular Customers
+17470,44,78,1125.07,1,Regular Customers
+17472,190,181,710.29,0,Low Engagement
+17475,78,14,194.37,1,Regular Customers
+17480,77,29,511.82,1,Regular Customers
+17481,3,82,1255.59,1,Regular Customers
+17483,64,21,414.04,1,Regular Customers
+17486,260,24,396.87,0,Low Engagement
+17489,58,29,376.64,1,Regular Customers
+17490,0,76,2092.32,1,Regular Customers
+17491,0,109,3558.87,3,At Risk Customers
+17492,247,12,374.57,0,Low Engagement
+17495,7,27,497.56,1,Regular Customers
+17496,358,10,271.05,0,Low Engagement
+17498,75,17,272.22,1,Regular Customers
+17499,289,40,622.88,0,Low Engagement
+17500,16,5,1138.0,1,Regular Customers
+17501,220,18,288.6,0,Low Engagement
+17502,8,28,689.1,1,Regular Customers
+17503,2,38,558.96,1,Regular Customers
+17504,205,127,2997.0299999999997,0,Low Engagement
+17505,161,52,1145.84,0,Low Engagement
+17506,75,14,302.2,1,Regular Customers
+17507,261,88,605.58,0,Low Engagement
+17508,280,22,387.31,0,Low Engagement
+17509,57,366,6115.14,3,At Risk Customers
+17510,24,20,308.48,1,Regular Customers
+17512,28,105,2924.9900000000002,1,Regular Customers
+17513,71,6,513.2,1,Regular Customers
+17514,127,40,208.65,1,Regular Customers
+17515,30,87,639.02,1,Regular Customers
+17516,14,137,768.08,1,Regular Customers
+17517,308,11,153.94,0,Low Engagement
+17519,16,82,1844.02,1,Regular Customers
+17520,53,30,546.81,1,Regular Customers
+17521,29,45,723.2099999999999,1,Regular Customers
+17522,1,73,1070.71,1,Regular Customers
+17523,10,33,652.74,1,Regular Customers
+17524,360,6,145.0,0,Low Engagement
+17525,359,9,422.70000000000005,0,Low Engagement
+17526,4,19,1195.8999999999999,1,Regular Customers
+17527,53,47,939.37,1,Regular Customers
+17528,0,253,3628.5,3,At Risk Customers
+17530,0,394,2385.0,3,At Risk Customers
+17531,189,14,296.7,0,Low Engagement
+17534,53,9,223.36,1,Regular Customers
+17535,279,13,164.4,0,Low Engagement
+17536,176,3,76.5,0,Low Engagement
+17537,29,75,897.62,1,Regular Customers
+17538,25,9,98.42,1,Regular Customers
+17540,24,25,578.9,1,Regular Customers
+17542,269,25,170.75,0,Low Engagement
+17545,42,145,645.96,1,Regular Customers
+17548,233,5,103.3,0,Low Engagement
+17549,23,6,148.86,1,Regular Customers
+17550,196,42,267.16,0,Low Engagement
+17551,358,43,306.84,0,Low Engagement
+17552,59,49,930.41,1,Regular Customers
+17553,129,2,1487.6,1,Regular Customers
+17554,0,88,1952.45,1,Regular Customers
+17555,19,106,483.26,1,Regular Customers
+17556,205,6,157.9,0,Low Engagement
+17557,13,34,541.46,1,Regular Customers
+17560,94,26,854.95,1,Regular Customers
+17561,18,46,167.62,1,Regular Customers
+17562,13,63,1122.38,1,Regular Customers
+17564,23,49,454.01,1,Regular Customers
+17566,7,152,901.21,1,Regular Customers
+17567,6,165,4331.48,3,At Risk Customers
+17569,331,29,344.14,0,Low Engagement
+17571,49,299,1498.51,3,At Risk Customers
+17572,70,12,226.75000000000003,1,Regular Customers
+17573,28,25,380.6,1,Regular Customers
+17574,242,8,185.65,0,Low Engagement
+17576,7,411,3622.68,3,At Risk Customers
+17578,217,5,143.45999999999998,0,Low Engagement
+17579,4,50,448.90000000000003,1,Regular Customers
+17580,252,45,215.72,0,Low Engagement
+17581,0,440,11045.04,2,High Value Customers
+17582,235,29,175.27,0,Low Engagement
+17584,6,35,1242.3,1,Regular Customers
+17585,108,214,1133.07,3,At Risk Customers
+17588,99,23,1240.2,1,Regular Customers
+17589,59,253,2404.17,3,At Risk Customers
+17590,1,201,1479.22,3,At Risk Customers
+17591,72,166,2225.9700000000003,3,At Risk Customers
+17593,3,213,3927.34,3,At Risk Customers
+17594,84,50,993.18,1,Regular Customers
+17595,11,83,388.79,1,Regular Customers
+17596,22,270,2827.93,3,At Risk Customers
+17597,213,55,2044.3700000000001,0,Low Engagement
+17600,17,13,161.67000000000002,1,Regular Customers
+17601,238,9,116.00999999999999,0,Low Engagement
+17602,1,560,5102.97,3,At Risk Customers
+17603,77,11,394.72,1,Regular Customers
+17604,216,63,309.36,0,Low Engagement
+17608,32,59,193.42,1,Regular Customers
+17609,40,237,1112.22,3,At Risk Customers
+17611,6,576,3984.22,3,At Risk Customers
+17612,52,135,2048.45,1,Regular Customers
+17613,22,312,4559.150000000001,3,At Risk Customers
+17614,56,100,390.07,1,Regular Customers
+17615,129,14,329.6,1,Regular Customers
+17616,173,3,571.1999999999999,0,Low Engagement
+17618,5,78,971.58,1,Regular Customers
+17619,311,77,218.52,0,Low Engagement
+17620,59,4,81.44,1,Regular Customers
+17621,20,26,1379.9,1,Regular Customers
+17623,32,33,527.0500000000001,1,Regular Customers
+17624,14,50,843.48,1,Regular Customers
+17625,17,315,2047.0,3,At Risk Customers
+17628,80,5,75.75,1,Regular Customers
+17629,5,123,1814.12,1,Regular Customers
+17630,169,26,503.59999999999997,0,Low Engagement
+17631,1,39,528.33,1,Regular Customers
+17633,30,70,1324.84,1,Regular Customers
+17634,35,297,2361.9700000000003,3,At Risk Customers
+17636,18,20,285.56,1,Regular Customers
+17637,30,35,547.0600000000001,1,Regular Customers
+17639,275,7,108.5,0,Low Engagement
+17640,86,5,621.66,1,Regular Customers
+17642,119,40,712.29,1,Regular Customers
+17643,372,8,101.55,0,Low Engagement
+17644,0,157,2895.64,3,At Risk Customers
+17646,218,51,1008.39,0,Low Engagement
+17647,64,7,133.06,1,Regular Customers
+17648,60,91,1797.5,1,Regular Customers
+17649,137,52,868.49,1,Regular Customers
+17650,20,8,166.08,1,Regular Customers
+17651,11,232,3945.0,3,At Risk Customers
+17652,24,259,4867.72,3,At Risk Customers
+17653,36,44,1207.56,1,Regular Customers
+17654,276,22,117.55,0,Low Engagement
+17655,10,91,2638.94,1,Regular Customers
+17656,72,82,1674.69,1,Regular Customers
+17658,25,19,595.42,1,Regular Customers
+17659,16,158,2999.46,3,At Risk Customers
+17660,140,45,196.0,1,Regular Customers
+17663,25,86,1802.91,1,Regular Customers
+17664,18,43,604.64,1,Regular Customers
+17666,3,18,728.16,1,Regular Customers
+17667,65,116,2055.51,1,Regular Customers
+17668,0,15,347.75,1,Regular Customers
+17669,42,68,3406.7200000000003,1,Regular Customers
+17670,227,11,205.7,0,Low Engagement
+17671,15,53,1572.71,1,Regular Customers
+17672,49,110,3178.17,3,At Risk Customers
+17673,1,227,1629.12,3,At Risk Customers
+17674,73,27,551.04,1,Regular Customers
+17676,3,78,1387.68,1,Regular Customers
+17677,1,304,16363.23,2,High Value Customers
+17678,263,16,298.11,0,Low Engagement
+17679,52,30,1992.1100000000001,1,Regular Customers
+17680,23,11,184.4,1,Regular Customers
+17682,9,118,2474.33,1,Regular Customers
+17684,43,15,239.41,1,Regular Customers
+17685,16,130,3191.53,3,At Risk Customers
+17686,6,286,5739.46,3,At Risk Customers
+17690,29,256,4757.95,3,At Risk Customers
+17691,357,19,290.40000000000003,0,Low Engagement
+17692,126,46,740.9399999999999,1,Regular Customers
+17693,136,16,200.47,1,Regular Customers
+17694,141,15,283.12,1,Regular Customers
+17695,131,35,765.34,1,Regular Customers
+17696,37,115,2285.71,1,Regular Customers
+17697,235,19,338.95,0,Low Engagement
+17698,260,8,154.95,0,Low Engagement
+17700,16,142,2534.64,3,At Risk Customers
+17701,252,24,417.95,0,Low Engagement
+17702,29,74,1824.37,1,Regular Customers
+17703,34,55,798.74,1,Regular Customers
+17704,168,31,885.19,0,Low Engagement
+17705,2,103,1823.52,1,Regular Customers
+17706,3,382,10504.49,2,High Value Customers
+17707,184,5,152.4,0,Low Engagement
+17708,187,35,267.08,0,Low Engagement
+17709,169,7,137.45,0,Low Engagement
+17711,10,23,385.1,1,Regular Customers
+17712,44,29,522.91,1,Regular Customers
+17714,320,10,153.0,0,Low Engagement
+17715,200,1,326.4,0,Low Engagement
+17716,22,245,5655.99,3,At Risk Customers
+17718,231,6,139.35,0,Low Engagement
+17719,37,274,5396.04,3,At Risk Customers
+17720,25,50,1195.94,1,Regular Customers
+17722,95,115,2424.04,1,Regular Customers
+17723,126,10,3276.4000000000005,1,Regular Customers
+17724,70,40,1033.0,1,Regular Customers
+17725,15,192,3439.08,3,At Risk Customers
+17727,14,66,1060.25,1,Regular Customers
+17728,3,165,2876.01,3,At Risk Customers
+17730,2,218,5298.4800000000005,3,At Risk Customers
+17731,78,67,1240.11,1,Regular Customers
+17732,372,18,303.97,0,Low Engagement
+17733,38,35,692.19,1,Regular Customers
+17734,53,43,700.63,1,Regular Customers
+17736,8,25,377.44,1,Regular Customers
+17737,8,10,168.24,1,Regular Customers
+17738,18,97,1879.05,1,Regular Customers
+17739,11,47,2791.35,1,Regular Customers
+17742,112,15,355.11,1,Regular Customers
+17744,3,136,2322.4,3,At Risk Customers
+17746,239,6,110.25,0,Low Engagement
+17747,112,1,71.4,1,Regular Customers
+17749,177,35,674.52,0,Low Engagement
+17750,4,193,1797.57,3,At Risk Customers
+17752,358,1,80.64,0,Low Engagement
+17754,0,92,1772.26,1,Regular Customers
+17758,18,412,3456.7000000000003,3,At Risk Customers
+17759,16,95,834.99,1,Regular Customers
+17760,21,25,287.59,1,Regular Customers
+17761,32,19,712.78,1,Regular Customers
+17763,262,1,15.0,0,Low Engagement
+17764,50,75,818.8199999999999,1,Regular Customers
+17765,158,57,371.88,0,Low Engagement
+17767,14,21,271.2,1,Regular Customers
+17768,7,105,2273.1800000000003,1,Regular Customers
+17769,12,310,3997.98,3,At Risk Customers
+17770,198,38,1143.27,0,Low Engagement
+17771,56,54,245.81,1,Regular Customers
+17772,10,53,182.77,1,Regular Customers
+17774,96,156,1225.41,1,Regular Customers
+17775,254,3,56.4,0,Low Engagement
+17777,24,194,665.86,3,At Risk Customers
+17779,20,82,658.57,1,Regular Customers
+17781,158,12,188.02,0,Low Engagement
+17783,71,67,283.47,1,Regular Customers
+17785,52,13,131.94,1,Regular Customers
+17786,84,72,278.74,1,Regular Customers
+17787,152,134,1865.19,1,Regular Customers
+17788,73,5,1117.9,1,Regular Customers
+17789,280,14,225.9,0,Low Engagement
+17790,26,190,1965.55,3,At Risk Customers
+17791,29,10,106.1,1,Regular Customers
+17793,24,58,323.04,1,Regular Customers
+17795,179,46,350.39,0,Low Engagement
+17796,39,82,697.9,1,Regular Customers
+17797,21,111,780.43,1,Regular Customers
+17799,21,408,3055.93,3,At Risk Customers
+17800,36,104,1199.01,1,Regular Customers
+17802,81,140,1285.04,1,Regular Customers
+17805,73,10,512.31,1,Regular Customers
+17806,10,43,546.04,1,Regular Customers
+17809,15,61,5411.91,3,At Risk Customers
+17812,12,141,732.16,1,Regular Customers
+17813,13,371,1770.8799999999999,3,At Risk Customers
+17816,36,17,36.56,1,Regular Customers
+17817,3,33,387.68,1,Regular Customers
+17819,71,48,3704.87,1,Regular Customers
+17824,50,13,298.4,1,Regular Customers
+17827,4,220,1995.46,3,At Risk Customers
+17828,22,67,1820.09,1,Regular Customers
+17829,298,30,889.24,0,Low Engagement
+17830,1,23,398.7,1,Regular Customers
+17831,32,2,35.400000000000006,1,Regular Customers
+17832,49,61,155.37,1,Regular Customers
+17835,2,61,350.64,1,Regular Customers
+17836,46,24,110.21000000000001,1,Regular Customers
+17837,41,169,1593.38,3,At Risk Customers
+17838,26,121,2779.3,3,At Risk Customers
+17839,41,56,338.8,1,Regular Customers
+17843,302,37,205.48,0,Low Engagement
+17844,106,5,51.559999999999995,1,Regular Customers
+17846,84,1,2033.1,1,Regular Customers
+17848,80,51,901.1999999999999,1,Regular Customers
+17849,217,26,605.8000000000001,0,Low Engagement
+17850,371,297,5391.21,3,At Risk Customers
+17852,11,24,114.34,1,Regular Customers
+17854,184,15,311.26,0,Low Engagement
+17855,372,17,208.97,0,Low Engagement
+17856,1,15,1418.03,1,Regular Customers
+17858,5,199,5155.66,3,At Risk Customers
+17859,304,25,148.21,0,Low Engagement
+17860,368,58,252.8,0,Low Engagement
+17861,2,222,2100.8,3,At Risk Customers
+17862,323,11,330.9,0,Low Engagement
+17863,58,148,3160.0,3,At Risk Customers
+17864,12,102,597.5,1,Regular Customers
+17865,30,370,10526.32,2,High Value Customers
+17866,142,9,329.65,1,Regular Customers
+17867,29,79,1197.1000000000001,1,Regular Customers
+17869,106,40,428.18,1,Regular Customers
+17870,1,279,1894.35,3,At Risk Customers
+17871,204,10,155.9,0,Low Engagement
+17873,79,44,1859.16,1,Regular Customers
+17874,184,46,683.46,0,Low Engagement
+17877,169,12,237.61,0,Low Engagement
+17878,43,26,379.45,1,Regular Customers
+17879,173,6,178.51999999999998,0,Low Engagement
+17880,364,26,458.92,0,Low Engagement
+17881,303,8,133.35000000000002,0,Low Engagement
+17883,2,145,671.77,1,Regular Customers
+17884,3,117,717.45,1,Regular Customers
+17885,11,64,190.19,1,Regular Customers
+17886,31,109,899.61,1,Regular Customers
+17887,128,10,111.35,1,Regular Customers
+17888,20,67,726.05,1,Regular Customers
+17889,211,21,203.87,0,Low Engagement
+17890,322,94,602.09,0,Low Engagement
+17891,161,34,203.85999999999999,0,Low Engagement
+17892,55,28,244.1,1,Regular Customers
+17893,224,16,112.25,0,Low Engagement
+17894,71,193,1119.81,3,At Risk Customers
+17895,43,16,98.0,1,Regular Customers
+17896,22,2,256.32,1,Regular Customers
+17897,172,114,566.6,0,Low Engagement
+17898,84,28,152.06,1,Regular Customers
+17899,158,32,155.8,0,Low Engagement
+17900,189,6,112.19999999999999,0,Low Engagement
+17901,28,19,110.38,1,Regular Customers
+17904,20,38,191.67,1,Regular Customers
+17905,70,34,800.24,1,Regular Customers
+17906,246,12,72.9,0,Low Engagement
+17908,373,58,243.28,0,Low Engagement
+17911,8,39,366.23,1,Regular Customers
+17912,309,38,311.01,0,Low Engagement
+17913,58,59,411.6,1,Regular Customers
+17914,3,80,336.43,1,Regular Customers
+17917,44,94,341.28,1,Regular Customers
+17919,87,23,1304.04,1,Regular Customers
+17921,63,145,826.52,1,Regular Customers
+17923,281,1,207.50000000000003,0,Low Engagement
+17924,11,31,2962.5,1,Regular Customers
+17925,372,1,244.08,0,Low Engagement
+17926,132,21,397.29,1,Regular Customers
+17928,44,23,212.54,1,Regular Customers
+17929,10,5,843.0,1,Regular Customers
+17930,35,39,1740.48,1,Regular Customers
+17931,133,65,408.36,1,Regular Customers
+17932,28,90,1331.57,1,Regular Customers
+17934,51,21,704.25,1,Regular Customers
+17935,137,29,145.79,1,Regular Customers
+17936,4,77,389.84,1,Regular Customers
+17937,8,43,4301.22,1,Regular Customers
+17939,159,12,99.14,0,Low Engagement
+17940,48,19,4106.4400000000005,1,Regular Customers
+17941,130,2,304.56,1,Regular Customers
+17942,7,2,77.50000000000001,1,Regular Customers
+17946,232,20,149.57999999999998,0,Low Engagement
+17947,36,9,176.68,1,Regular Customers
+17948,146,1,358.56000000000006,0,Low Engagement
+17950,71,71,482.2,1,Regular Customers
+17951,39,20,1008.5400000000001,1,Regular Customers
+17954,4,485,2332.72,3,At Risk Customers
+17955,198,19,557.3,0,Low Engagement
+17956,248,1,12.75,0,Low Engagement
+17957,65,31,111.68,1,Regular Customers
+17958,116,7,508.4599999999999,1,Regular Customers
+17960,170,26,73.78,0,Low Engagement
+17961,20,249,1296.44,3,At Risk Customers
+17962,141,35,102.83,1,Regular Customers
+17964,31,104,471.7,1,Regular Customers
+17965,37,329,2622.57,3,At Risk Customers
+17966,37,68,1098.43,1,Regular Customers
+17967,371,48,123.07,0,Low Engagement
+17968,373,85,277.35,0,Low Engagement
+17969,165,14,228.2,0,Low Engagement
+17970,210,31,582.59,0,Low Engagement
+17972,241,31,136.04,0,Low Engagement
+17973,51,15,337.04,1,Regular Customers
+17974,24,179,740.79,1,Regular Customers
+17975,14,296,4488.81,3,At Risk Customers
+17976,371,65,353.19,0,Low Engagement
+17977,28,21,288.14,1,Regular Customers
+17978,364,12,300.91999999999996,0,Low Engagement
+17979,35,146,757.71,1,Regular Customers
+17980,165,30,811.45,0,Low Engagement
+17984,144,48,152.68,1,Regular Customers
+17985,21,23,634.95,1,Regular Customers
+17986,55,1,20.8,1,Regular Customers
+17987,184,13,198.57,0,Low Engagement
+17988,11,38,201.12,1,Regular Customers
+17990,236,29,630.84,0,Low Engagement
+17991,224,5,93.35,0,Low Engagement
+17994,121,81,678.49,1,Regular Customers
+17995,281,2,76.1,0,Low Engagement
+17997,73,166,1970.6699999999998,3,At Risk Customers
+17999,36,93,382.06,1,Regular Customers
+18001,11,58,417.23,1,Regular Customers
+18004,361,40,169.47,0,Low Engagement
+18005,3,60,249.72,1,Regular Customers
+18006,22,22,444.68,1,Regular Customers
+18008,69,30,2116.19,1,Regular Customers
+18009,234,32,257.34,0,Low Engagement
+18010,256,14,174.8,0,Low Engagement
+18011,372,28,102.78999999999999,0,Low Engagement
+18013,154,31,187.29,0,Low Engagement
+18014,27,32,166.42,1,Regular Customers
+18015,3,46,120.03,1,Regular Customers
+18016,31,123,1483.56,1,Regular Customers
+18017,80,3,523.0,1,Regular Customers
+18018,107,29,122.14,1,Regular Customers
+18019,51,5,38.45,1,Regular Customers
+18022,35,191,668.11,3,At Risk Customers
+18024,152,21,389.78,0,Low Engagement
+18027,98,21,115.31,1,Regular Customers
+18030,3,9,230.64999999999998,1,Regular Customers
+18032,333,5,73.5,0,Low Engagement
+18033,64,34,97.97,1,Regular Customers
+18034,21,112,422.88,1,Regular Customers
+18035,35,53,730.4,1,Regular Customers
+18036,31,96,405.62,1,Regular Customers
+18037,153,19,70.02,0,Low Engagement
+18040,18,19,357.20000000000005,1,Regular Customers
+18041,11,472,4183.39,3,At Risk Customers
+18042,53,7,165.04999999999998,1,Regular Customers
+18043,24,121,559.51,1,Regular Customers
+18044,3,127,2088.6,1,Regular Customers
+18045,44,47,189.4,1,Regular Customers
+18048,202,7,172.29000000000002,0,Low Engagement
+18050,358,5,74.4,0,Low Engagement
+18053,70,20,300.02,1,Regular Customers
+18055,6,360,6784.1900000000005,2,High Value Customers
+18056,287,19,363.65,0,Low Engagement
+18058,9,3,170.16,1,Regular Customers
+18059,22,18,306.46,1,Regular Customers
+18061,21,46,2119.41,1,Regular Customers
+18062,172,27,720.52,0,Low Engagement
+18064,132,7,814.0,1,Regular Customers
+18065,5,137,2392.83,3,At Risk Customers
+18066,74,10,318.0,1,Regular Customers
+18067,39,37,396.33,1,Regular Customers
+18068,288,1,101.69999999999999,0,Low Engagement
+18069,25,470,2036.67,3,At Risk Customers
+18071,257,25,453.0,0,Low Engagement
+18072,185,18,247.44,0,Low Engagement
+18073,113,73,3877.5200000000004,1,Regular Customers
+18074,373,13,489.6,0,Low Engagement
+18075,22,142,2611.75,3,At Risk Customers
+18077,7,227,2633.0099999999998,3,At Risk Customers
+18078,216,29,336.13,0,Low Engagement
+18079,44,127,3651.97,3,At Risk Customers
+18080,18,2,1231.5,1,Regular Customers
+18081,35,17,343.45,1,Regular Customers
+18082,25,73,703.37,1,Regular Customers
+18084,15,1,90.47999999999999,1,Regular Customers
+18085,329,29,689.95,0,Low Engagement
+18086,273,7,101.34,0,Low Engagement
+18087,97,2,4055.7199999999993,1,Regular Customers
+18088,60,39,167.67000000000002,1,Regular Customers
+18092,1,89,9068.26,2,High Value Customers
+18093,92,36,2106.52,1,Regular Customers
+18094,81,70,3017.3,1,Regular Customers
+18095,312,21,580.0500000000001,0,Low Engagement
+18096,11,213,911.15,3,At Risk Customers
+18097,7,108,2697.8,1,Regular Customers
+18099,126,19,168.31,1,Regular Customers
+18101,10,41,223.65,1,Regular Customers
+18104,36,38,754.64,1,Regular Customers
+18105,37,18,113.48000000000002,1,Regular Customers
+18106,329,39,430.7,0,Low Engagement
+18108,253,17,271.0,0,Low Engagement
+18109,1,444,8052.97,2,High Value Customers
+18110,19,46,236.3,1,Regular Customers
+18112,11,26,352.69,1,Regular Customers
+18113,368,1,76.32000000000001,0,Low Engagement
+18114,289,28,220.1,0,Low Engagement
+18116,67,378,1418.03,3,At Risk Customers
+18117,25,74,320.72,1,Regular Customers
+18119,367,30,181.12,0,Low Engagement
+18120,213,17,111.15,0,Low Engagement
+18121,148,32,673.1,1,Regular Customers
+18122,7,364,1826.21,3,At Risk Customers
+18123,23,36,589.4399999999999,1,Regular Customers
+18125,29,196,1142.99,3,At Risk Customers
+18126,60,56,206.82999999999998,1,Regular Customers
+18127,18,47,348.73,1,Regular Customers
+18129,242,14,112.55000000000001,0,Low Engagement
+18130,14,70,1059.39,1,Regular Customers
+18133,211,1,931.4999999999999,0,Low Engagement
+18135,28,20,681.9100000000001,1,Regular Customers
+18136,62,38,784.33,1,Regular Customers
+18138,294,8,152.65,0,Low Engagement
+18139,17,159,8438.34,2,High Value Customers
+18142,156,15,1019.52,0,Low Engagement
+18143,116,61,1000.16,1,Regular Customers
+18144,7,43,2888.75,1,Regular Customers
+18145,12,221,2861.55,3,At Risk Customers
+18146,140,10,160.35000000000002,1,Regular Customers
+18147,45,7,179.33999999999997,1,Regular Customers
+18149,50,16,612.0799999999999,1,Regular Customers
+18150,31,37,566.58,1,Regular Customers
+18151,134,38,653.35,1,Regular Customers
+18154,2,21,399.19,1,Regular Customers
+18155,74,25,371.62,1,Regular Customers
+18156,12,140,734.94,1,Regular Customers
+18158,8,34,453.4,1,Regular Customers
+18159,300,23,530.15,0,Low Engagement
+18160,56,39,638.0600000000001,1,Regular Customers
+18161,14,80,1618.69,1,Regular Customers
+18164,36,24,399.65000000000003,1,Regular Customers
+18165,176,10,302.46000000000004,0,Low Engagement
+18167,22,37,1384.8600000000001,1,Regular Customers
+18168,175,131,1169.94,0,Low Engagement
+18169,60,9,202.65,1,Regular Customers
+18170,32,38,980.31,1,Regular Customers
+18171,58,54,1231.31,1,Regular Customers
+18172,14,189,7561.68,3,At Risk Customers
+18173,86,31,2106.84,1,Regular Customers
+18174,6,1,104.0,1,Regular Customers
+18176,357,30,476.35,0,Low Engagement
+18177,30,74,1341.42,1,Regular Customers
+18178,128,97,1590.81,1,Regular Customers
+18179,8,90,1793.17,1,Regular Customers
+18180,4,119,1843.75,1,Regular Customers
+18181,23,44,382.8,1,Regular Customers
+18183,226,37,632.07,0,Low Engagement
+18184,14,1,49.8,1,Regular Customers
+18185,248,17,304.25,0,Low Engagement
+18188,14,71,2001.04,1,Regular Customers
+18189,77,68,1090.24,1,Regular Customers
+18190,191,15,284.46000000000004,0,Low Engagement
+18191,261,7,207.79999999999998,0,Low Engagement
+18192,71,45,957.97,1,Regular Customers
+18193,164,16,243.76,0,Low Engagement
+18194,81,7,973.8399999999999,1,Regular Customers
+18196,94,141,689.13,1,Regular Customers
+18198,3,159,5425.56,3,At Risk Customers
+18200,105,32,163.8,1,Regular Customers
+18202,199,68,1396.99,0,Low Engagement
+18203,156,19,160.42000000000002,0,Low Engagement
+18204,70,200,1993.7,3,At Risk Customers
+18205,35,32,517.36,1,Regular Customers
+18209,28,8,139.10000000000002,1,Regular Customers
+18210,1,134,2621.38,3,At Risk Customers
+18211,25,42,600.07,1,Regular Customers
+18212,325,43,248.42,0,Low Engagement
+18213,236,15,232.48000000000002,0,Low Engagement
+18215,88,13,299.34000000000003,1,Regular Customers
+18216,30,26,481.75,1,Regular Customers
+18217,28,31,621.75,1,Regular Customers
+18218,210,21,662.08,0,Low Engagement
+18219,2,114,2069.77,1,Regular Customers
+18220,226,2,305.28000000000003,0,Low Engagement
+18221,21,64,1041.61,1,Regular Customers
+18222,92,19,443.0,1,Regular Customers
+18223,4,272,6484.54,3,At Risk Customers
+18224,263,10,158.95000000000002,0,Low Engagement
+18225,2,271,5509.12,3,At Risk Customers
+18226,43,242,5228.05,3,At Risk Customers
+18227,217,5,93.75,0,Low Engagement
+18228,56,30,779.9,1,Regular Customers
+18229,11,164,7276.900000000001,3,At Risk Customers
+18230,8,86,2810.2000000000003,1,Regular Customers
+18231,191,124,2083.27,0,Low Engagement
+18232,81,37,592.97,1,Regular Customers
+18233,325,1,440.0,0,Low Engagement
+18235,71,104,1796.48,1,Regular Customers
+18236,29,49,882.24,1,Regular Customers
+18237,2,61,987.1,1,Regular Customers
+18239,218,88,1561.6100000000001,0,Low Engagement
+18240,45,6,422.58,1,Regular Customers
+18241,9,104,2073.09,1,Regular Customers
+18242,71,78,2232.4900000000002,1,Regular Customers
+18245,6,175,2567.06,3,At Risk Customers
+18246,23,4,596.1,1,Regular Customers
+18248,122,47,804.02,1,Regular Customers
+18249,16,8,95.34,1,Regular Customers
+18250,309,21,349.27,0,Low Engagement
+18251,86,16,4314.72,1,Regular Customers
+18252,50,98,526.67,1,Regular Customers
+18255,88,6,103.3,1,Regular Customers
+18257,38,118,2337.63,1,Regular Customers
+18259,24,42,2338.6000000000004,1,Regular Customers
+18260,172,134,2643.2000000000003,0,Low Engagement
+18261,42,21,324.24,1,Regular Customers
+18262,139,13,149.48,1,Regular Customers
+18263,25,61,1213.1599999999999,1,Regular Customers
+18265,71,46,801.51,1,Regular Customers
+18268,133,1,25.5,1,Regular Customers
+18269,365,7,168.6,0,Low Engagement
+18270,37,11,283.15,1,Regular Customers
+18272,2,166,3078.58,3,At Risk Customers
+18273,1,3,204.0,1,Regular Customers
+18274,29,11,175.92,1,Regular Customers
+18276,43,14,335.86,1,Regular Customers
+18277,57,8,110.38,1,Regular Customers
+18278,73,9,173.9,1,Regular Customers
+18280,277,10,180.60000000000002,0,Low Engagement
+18281,180,7,80.82,0,Low Engagement
+18282,7,12,178.05,1,Regular Customers
+18287,42,70,1837.28,1,Regular Customers
